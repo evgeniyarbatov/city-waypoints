@@ -4,16 +4,18 @@ START_LON = 105.86792091531574
 CITY_NAME = hanoi
 
 URL = https://download.geofabrik.de/asia/vietnam-latest.osm.pbf
+
+GADM = gadm/gadm41_VNM_1.json
+
 COUNTRY_OSM_FILE = $$(basename $(URL))
 
 COUNTRY_OSM_DIR = ~/osm
 CITY_OSM_DIR = osm
 
-GADM = gadm/gadm41_VNM_1.json
-POLYGON = polygon/$(CITY_NAME).poly
-
-PARKS = parks/$(CITY_NAME).csv
-DISTANCE = distance/$(CITY_NAME).csv
+POLYGON = data/polygon/$(CITY_NAME).poly
+PARKS = data/parks/$(CITY_NAME).csv
+DISTANCE = data/distance/$(CITY_NAME).csv
+RANK = data/rank/$(CITY_NAME).csv
 
 VENV_PATH = ~/.venv/city-parks
 
@@ -49,7 +51,7 @@ city:
 	@mkdir -p $(CITY_OSM_DIR)
 	@osmconvert $(COUNTRY_OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(POLYGON) -o=$(CITY_OSM_DIR)/$(CITY_NAME).osm.pbf
 	@osmium cat --overwrite $(CITY_OSM_DIR)/$(CITY_NAME).osm.pbf -o $(CITY_OSM_DIR)/$(CITY_NAME).osm
-	@bzip2 -k $(CITY_OSM_DIR)/$(CITY_NAME).osm
+	@bzip2 -f -k $(CITY_OSM_DIR)/$(CITY_NAME).osm
 
 parks:
 	@mkdir -p $(dir $(PARKS))
@@ -58,7 +60,12 @@ parks:
 
 distance:
 	@mkdir -p $(dir $(DISTANCE))
-	source $(VENV_PATH)/bin/activate && \
+	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/get-distance.py $(START_LAT) $(START_LON) $(PARKS) $(DISTANCE);
 
-.PHONY: all venv install docker country polygon city parks distance
+rank:
+	@mkdir -p $(dir $(RANK))
+	@source $(VENV_PATH)/bin/activate && \
+	python3 scripts/get-rank.py $(DISTANCE) $(RANK);
+
+.PHONY: all venv install docker country polygon city parks distance rank
