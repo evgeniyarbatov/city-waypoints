@@ -2,3 +2,5 @@ geopandas
 pandas
 osmium
 numpy
+polyline
+requests

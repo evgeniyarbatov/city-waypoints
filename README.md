@@ -13,8 +13,10 @@ Find parks in your city using OSM maps
 
 ```
 make # Env setup
+make docker # Start docker
 make country # Get country OSM
 make polygon # Create city polygon
 make city # Extract city OSM
+make distance # Calculate distance to each park
 ```
 
