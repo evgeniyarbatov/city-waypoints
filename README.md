@@ -6,7 +6,8 @@ Find parks in your city using OSM maps
 
 - Get URL for country OSM PBF file from https://download.geofabrik.de
 - Locate GADM file for your country from https://gadm.org
-- Get GADM Level 1 (city level) GeoJSON. Add city name to `config.json`.
+- Get GADM Level 1 (city level) GeoJSON
+- Add city key and value from GADM file to `config.json`.
 
 ## Run
 
