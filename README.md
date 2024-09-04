@@ -17,7 +17,8 @@ make docker # Start docker
 make country # Get country OSM
 make polygon # Create city polygon
 make city # Extract city OSM
+make parks # Extract parks from OSM map
+make area # Get area of each park
 make distance # Calculate distance to each park 
-make rank # Rank parks based on the count of ways
 ```
 

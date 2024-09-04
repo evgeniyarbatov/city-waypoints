@@ -4,3 +4,5 @@ osmium
 numpy
 polyline
 requests
+shapely
+pyproj

@@ -14,8 +14,9 @@ CITY_OSM_DIR = osm
 
 POLYGON = data/polygon/$(CITY_NAME).poly
 PARKS = data/parks/$(CITY_NAME).csv
+AREA = data/area/$(CITY_NAME).csv
 DISTANCE = data/distance/$(CITY_NAME).csv
-RANK = data/rank/$(CITY_NAME).csv
+WAYS = data/ways/$(CITY_NAME).csv
 
 VENV_PATH = ~/.venv/city-parks
 
@@ -56,16 +57,16 @@ city:
 parks:
 	@mkdir -p $(dir $(PARKS))
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-city-parks.py $(CITY_OSM_DIR)/$(CITY_NAME).osm $(PARKS);
+	python3 scripts/get-parks.py $(CITY_OSM_DIR)/$(CITY_NAME).osm $(PARKS);
+
+area:
+	@mkdir -p $(dir $(AREA))
+	@source $(VENV_PATH)/bin/activate && \
+	python3 scripts/get-area.py $(PARKS) $(AREA);
 
 distance:
 	@mkdir -p $(dir $(DISTANCE))
 	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/get-distance.py $(START_LAT) $(START_LON) $(PARKS) $(DISTANCE);
 
-rank:
-	@mkdir -p $(dir $(RANK))
-	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-rank.py $(DISTANCE) $(RANK);
-
-.PHONY: all venv install docker country polygon city parks distance rank
+.PHONY: all venv install docker country polygon city parks area distance

@@ -23,22 +23,6 @@ services:
       /data/hanoi.osrm
       "
 
-  overpass-api:
-    image: wiktorn/overpass-api
-    volumes:
-      - ./osm:/data
-    ports:
-      - "8000:80"
-    environment:
-      - OVERPASS_META=yes
-      - OVERPASS_MODE=init
-      - OVERPASS_PLANET_URL=file:///data/hanoi.osm.bz2
-      - OVERPASS_RULES_LOAD=10
-      - OVERPASS_ALLOW_DUPLICATE_QUERIES=yes
-    networks:
-      - default
-    restart: unless-stopped
-
 networks:
   default:
     driver: bridge

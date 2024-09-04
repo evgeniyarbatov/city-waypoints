@@ -1,8 +1,8 @@
 import sys
 import osmium
-import csv
 
 import numpy as np
+import pandas as pd
 
 class WayHandler(osmium.SimpleHandler):
     def __init__(self):
@@ -46,18 +46,44 @@ class WayHandler(osmium.SimpleHandler):
         self.ways.append([
             w.id,
             (float(way_lat), float(way_lon)),
+            way_nodes,
             tags,
         ])            
 
-def write_csv(rows, filename):
-    with open(filename, 'w') as file:
-        writer = csv.writer(file)
-        writer.writerows(rows)    
+def write_csv(ways, parks_filename):
+    def split_tags(tags):
+        if pd.isna(tags):
+            return pd.Series()
+        try:
+            tag_dict = dict(tag.split('=') for tag in tags.split(','))
+        except ValueError:
+            return pd.Series()
+        return pd.Series(tag_dict)
 
-def main(osm_file, ways_file):
+    df = pd.DataFrame(ways, columns=[
+        'way_id', 
+        'coordinates', 
+        'way_border', 
+        'tags',
+    ])
+    
+    df = df.join(df['tags'].apply(split_tags))
+    df = df.dropna(subset=['name'])
+ 
+    df[['lat', 'lon']] = df['coordinates'].apply(pd.Series)
+    
+    df[[
+        'name',
+        'way_id',
+        'lat',
+        'lon',
+        'way_border',
+    ]].to_csv(parks_filename, index=False)
+
+def main(osm_file, parks_filename):
     handler = WayHandler()
     handler.apply_file(osm_file, locations=True)
-    write_csv(handler.ways, ways_file)
+    write_csv(handler.ways, parks_filename)
 
 if __name__ == "__main__":
     main(*sys.argv[1:])
