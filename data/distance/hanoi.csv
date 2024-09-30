@@ -1,170 +1,151 @@
-name,way_id,distance
-Hai Au Park,1149372974,51408.1
-Ngoc Trai Lake-San Ho Park,1223169238,50618.7
-Bien Ho Park,1223490974,49590.5
-Vườn An Viên,1119231769,48628.3
-khu vui chơi giải trí công cộng,589969496,48585.9
-Vườn Long Viên,1119231771,48537.7
-Vườn Lam Viên,1119231770,48472.8
-khu vui chơi giải trí công cộng,590074862,48454.8
-Viglacera Community Park,479832644,47887.1
-Trung tâm sinh thái giáo dục V-Eco,1258166110,47497.0
-Vườn hoa Cự Khối,1137325945,47412.7
-Khu cảnh quan,1253905584,47204.5
-Vườn hoa Trạm,1215489700,46611.0
-T8 Park,1307631429,46487.6
-Công viên Thành cổ Sơn Tây,1193781063,46214.2
-Vườn hoa Sơn Tây,921987264,46098.0
-Dự án cải tạo hồ Đầu Băng,1188004485,45966.5
-Vườn hoa Thạch Bàn,384671191,44881.7
-Vườn hoa Bắc Long Biên,770299554,44725.9
-Công viên Bồ Đề Xanh,704250698,43993.6
-Vườn hoa Gia Quất,1174290221,43948.0
-nhà văn hóa tổ 16,701544807,43926.4
-Công viên Lâm Hạ,1217933369,43880.0
-Công viên Trung Tâm,384671209,43618.8
-Vườn hoa Thượng Thanh,1144267188,43459.3
-Vườn hoa Chợ Phúc Đồng,961664400,43413.0
-Vườn hoa Ngọc Lâm,704159177,43230.0
-Vườn hoa Tân Thụy,1173092165,42894.8
-Vườn hoa Gia Quất,704292580,42861.3
-Vườn hoa Mai Phúc,1190841554,42805.5
-Công viên Gia Thuỵ,704252312,42694.9
-Vườn hoa Phúc Đồng,1173092164,42487.5
-Vườn hoa ô quy hoạch C12/CX3,1173092162,42099.0
-Công viên Bê Tông,770328953,41548.8
-Ánh Dương Garden,1218848971,41201.4
-Vườn hoa Kim Quan,1187726805,41065.2
-Công viên Long Biên,908417669,40864.5
-Vườn hoa Giang Biên,932101144,40628.3
-Công viên Khởi nghiệp,1159101822,37950.8
-Vườn hoa Thị trấn Yên Viên,959985390,36173.7
-Công viên Xuân Dục,661138331,35719.0
-Vườn đình Lã Côi,959988676,35660.0
-Khu vui chơi,960170470,35577.0
-Vườn hoa Nông dân,959984228,35503.1
-Phim trường Smiley Ville,500736455,29572.4
-Giếng Trọng Thủy,497328755,28735.0
-Công viên Nam An Khánh,550543433,18633.6
-Công Viên A Khu Chung Cư Vân Canh,548066437,16869.6
-Đài tưởng niệm Liệt sĩ Vân Canh,548086177,16651.0
-Công Viên B Khu Chung Cư Vân Canh,548066438,16555.3
-Công viên Âm nhạc Đô Nghĩa,770328960,16438.4
-Công Viên C Khu Chung Cư Vân Canh,548258526,16014.8
-Tonkin's park,1223384698,15915.0
-Vườn hoa,1044483277,15859.4
-Vườn hoa,1044485137,15856.9
-Vườn hoa,1044483520,15843.1
-Vườn hoa,1044484317,15831.4
-Vườn hoa,795142945,15802.6
-Vườn hoa,795142588,15789.9
-Vườn hoa,1044486077,15577.0
-1,548079302,15564.6
-Công viên Trung tâm,840934114,15549.8
-Vườn hoa,1107407506,15486.4
-Vườn hoa,795140970,15462.3
-Vườn hoa,1044485853,15423.1
-Vườn hoa,1044480535,15361.8
-Quảng trường,892583620,15356.8
-Vườn hoa,1107405638,15293.1
-Vườn hoa,892583617,15076.5
-Công viên Thể thao,840934121,15023.6
-Công viên Hòa Bình,208188482,13929.7
-Công viên OCT1,699218421,13841.8
-Pineapple Park,316013428,13813.2
-Pomelo Park,316013412,13812.4
-Công viên Văn Phú,770328955,13732.9
-Vườn Nhật,839663173,13626.1
-Công viên Thiên Văn Học Dương Nội,770328959,13232.7
-Công viên Hà Cầu,770328956,13169.1
-Công viên Nghĩa trang Mai Dịch,560585059,13053.3
-Công viên Mai Dịch,548084110,12959.1
-Công viên Ngoại giao Đoàn,523643145,12902.8
-Vườn hoa Lạc Long Quân,911561441,12131.3
-Công viên Mễ Trì,889113701,11774.8
-Vườn hoa Hà Đông,542382170,11570.4
-Đài tưởng niệm Liệt sĩ Phường Mai Dịch,1122937024,11477.6
-Vườn hoa,786580801,11269.5
-Công viên tổ 9 Mỗ Lao,770328958,11071.1
-Vườn hoa Nghĩa Tân,1118308342,10897.8
-Sân Cây Đề,569804205,10890.6
-Vườn hoa Nguyễn Trãi,542382168,10885.5
-Công viên - Bãi xe ngầm Mễ Trì Hạ,1209822359,10589.9
-Vườn hoa Việt Kiều,770299542,10484.8
-Vườn hoa,1002534081,10327.6
-Công viên Nghĩa Đô,208197731,10326.0
-Sân betong bóng rổ + đá bóng mini,1257492050,10290.9
-Vườn hoa Văn Quán,782864077,10275.2
-Vườn hoa,1106866558,10199.8
-Vườn Keangnam,770299548,10139.2
-Văn Quán Lake Park,770299541,10098.9
-Vườn hoa,1002535124,10069.0
-Công viên Cầu Giấy,181575389,10049.3
-Vườn hoa Phụ nữ tự quản,962108578,9760.4
-Vườn Trung Văn,770299543,9500.4
-Công viên Hồ Mễ Trì,661165879,9160.5
-Vườn hoa Yên Hòa,770299547,8895.8
-Vườn hoa Biệt thự Quốc Hội,770299544,8889.7
-Công viên Thanh Xuân,497037748,8758.3
-Trung Kinh Hạ Playgroung,965856881,8675.4
-Công viên Yên Hòa,569804207,8590.6
-Vườn hoa Nguyễn Đình Thi,1162837200,8520.3
-Công viên Trung Yên,770299546,8309.5
-An Duong Tennis Courts,479019015,8115.1
-Vườn Tre,548076505,8065.5
-Vườn hoa Thanh Xuân Bắc,591023030,8030.7
-Công viên Indira Gandhi,38137267,7948.5
-Vườn hoa Trung Hòa - Nhân Chính,770299545,7871.8
-Vườn hoa hồ Giảng Võ,570596477,7758.4
-Công viên Yên Sở,702651470,7710.2
-Núi chùa,675949349,7613.0
-Công viên Bán đảo Linh Đàm,770272739,7378.3
-Làng Văn Hóa Công Viên Yên Sở,548076504,6816.8
-Công viên Bắc Linh Đàm,217341345,6798.0
-Vườn hoa Hoàng Cầu,1112643378,6658.8
-Vườn hoa Hoàng Văn Thụ,1290167945,6532.2
-Công viên Linh Đàm,556174775,6509.7
-Khu khảo cổ học 18 Hoàng Diệu,1304386629,6476.7
-Vườn hoa Lê Trực,1111949860,6431.7
-Vườn hoa Vạn Xuân,28869503,6373.1
-Vườn hoa Trần Quang Diệu,750651737,6318.1
-Vườn Giám,702241252,6124.5
-Hồ Văn,178995315,6088.5
-Vườn hoa 1-6,1210984005,6000.2
-Vườn hoa Phùng Hưng,942762464,5803.5
-Công viên Lê-nin,185540946,5791.0
-Vườn hoa Thuỷ lợi,916528084,5661.7
-Vườn hoa Công đoàn,1289605166,5611.4
-Công viên KĐT Định Công,755359595,5272.2
-Vườn hoa Cửa Nam,770299549,5213.1
-Công viên Con Voi,839675222,5005.3
-Vườn hoa Hàng Trống,218414273,4911.5
-Vườn hoa Quán Sứ,704134606,4865.3
-Vườn hoa Tây Sơn,642231203,4756.4
-Khu vui chơi trẻ em,650430490,4735.0
-Công viên Ba Mẫu,1292544276,4624.1
-Vườn hoa Lý Thái Tổ,704153590,4598.4
-Công viên nội bộ,650430536,4557.0
-Vườn hoa Hàng Vôi,1292544286,4545.4
-Công viên,650430788,4440.2
-Vườn hoa Diên Hồng,879841441,4380.0
-Công viên Yên Sở,770299553,4336.9
-Vườn hoa Đào Duy Anh,977375279,4253.3
-Vườn hoa Cổ Tân,704147262,4186.7
-Vườn hoa Kim Liên,839899602,4092.2
-Vườn hoa 19-8,28869505,4034.8
-Vườn hoa Bác Cổ,316518839,4030.7
-Công viên Thống Nhất,37933849,3955.9
-Vườn hoa Tao Đàn,1087731715,3766.5
-Vườn hoa Đại học Kinh tế Quốc dân,770336406,3536.3
-Vườn hoa Tăng Bạt Hổ,1108118623,3464.0
-Vườn hoa Đàn Nam,1250193564,3380.4
-Jump Arena Tăng Bạt Hổ,898540569,3129.9
-Vườn hoa Pasteur,124877385,2904.6
-Công viên Hoàng Văn Thụ,769918656,2884.7
-Vườn hoa Yersin,1108445943,2852.0
-Công viên KĐT Vĩnh Hoàng,770299552,2659.8
-Công viên Đền Lừ,136176176,2654.2
-Công viên Tuổi trẻ Thủ đô,1103182086,2466.8
-Công viên hồ Cần,1253839879,1292.6
-Vườn hoa Bãi Sậy,124877384,
+name,distance
+Công viên hồ Cần,1099.6
+Công viên Tuổi trẻ Thủ đô,1905.4
+Công viên KĐT Vĩnh Hoàng,2326.7
+Công viên Đền Lừ,2522.1
+Vườn hoa Yersin,2812.2
+Công viên Hoàng Văn Thụ,2837.9
+Vườn hoa Pasteur,2855.5
+Jump Arena Tăng Bạt Hổ,3098.6
+Công viên Yên Sở,3165.1
+Vườn hoa Đàn Nam,3345.6
+Vườn hoa Tăng Bạt Hổ,3477.0
+Vườn hoa Đại học Kinh tế Quốc dân,3574.9
+Công viên Thống Nhất,3588.3
+Vườn hoa Tao Đàn,3735.7
+Vườn hoa 19-8,3946.1
+Vườn hoa Bác Cổ,3965.5
+Vườn hoa Kim Liên,4010.5
+Vườn hoa Cổ Tân,4120.6
+Vườn hoa Đào Duy Anh,4199.9
+Công viên Ba Mẫu,4234.1
+Vườn hoa Diên Hồng,4307.8
+Công viên,4313.5
+Vườn hoa Lý Thái Tổ,4502.2
+Vườn hoa Hàng Vôi,4533.1
+Công viên nội bộ,4540.8
+Vườn hoa Tây Sơn,4715.0
+Khu vui chơi trẻ em,4770.1
+Vườn hoa Quán Sứ,4841.4
+Vườn hoa Hàng Trống,4905.4
+Công viên Con Voi,4969.2
+Công viên KĐT Định Công,5041.0
+Vườn hoa Cửa Nam,5197.5
+Vườn hoa Thuỷ lợi,5479.5
+Công viên Lê-nin,5638.9
+Vườn hoa Công đoàn,5672.6
+Vườn hoa Phùng Hưng,5734.1
+Vườn hoa 1-6,6035.2
+Hồ Văn,6179.8
+Vườn hoa Trần Quang Diệu,6203.6
+Vườn hoa Bãi Sậy,6235.4
+Vườn hoa Vạn Xuân,6257.5
+Khu khảo cổ học 18 Hoàng Diệu,6267.8
+Vườn Giám,6269.3
+Công viên Linh Đàm,6336.9
+Vườn hoa Lê Trực,6396.3
+Vườn hoa Hoàng Văn Thụ,6520.5
+Công viên Bắc Linh Đàm,6612.2
+Vườn hoa Hoàng Cầu,6649.1
+Làng Văn Hóa Công Viên Yên Sở,6953.6
+Công viên Indira Gandhi,7054.7
+Công viên Bán đảo Linh Đàm,7212.8
+Vườn hoa hồ Giảng Võ,7317.4
+Núi chùa,7691.6
+Vườn hoa Bắc Long Biên,7712.3
+Vườn hoa Trung Hòa - Nhân Chính,7793.8
+Vườn hoa Thanh Xuân Bắc,7953.1
+An Duong Tennis Courts,8032.9
+Công viên Thanh Xuân,8093.4
+Vườn Tre,8129.4
+Công viên Trung Yên,8186.5
+Công viên Yên Hòa,8436.7
+Vườn hoa Nguyễn Đình Thi,8545.6
+Trung Kinh Hạ Playgroung,8647.9
+Vườn hoa Yên Hòa,8844.9
+Vườn hoa Biệt thự Quốc Hội,8886.9
+Công viên Hồ Mễ Trì,8920.9
+Vườn Trung Văn,9331.6
+Vườn hoa Phụ nữ tự quản,9808.2
+Công viên Cầu Giấy,9956.3
+Vườn hoa,10016.1
+Công viên Nghĩa Đô,10079.6
+Vườn Keangnam,10116.0
+Văn Quán Lake Park,10177.8
+Vườn hoa Việt Kiều,10316.2
+Sân betong bóng rổ + đá bóng mini,10341.2
+Vườn hoa Văn Quán,10405.9
+Công viên - Bãi xe ngầm Mễ Trì Hạ,10415.2
+Vườn hoa Nghĩa Tân,10844.8
+Sân Cây Đề,10894.5
+Vườn hoa Nguyễn Trãi,10997.2
+Công viên tổ 9 Mỗ Lao,11038.8
+Đài tưởng niệm Liệt sĩ Phường Mai Dịch,11445.1
+Vườn hoa Hà Đông,11500.0
+Công viên Mễ Trì,11540.3
+Vườn hoa Lạc Long Quân,12134.4
+Công viên Ngoại giao Đoàn,12634.7
+Công viên Nghĩa trang Mai Dịch,12721.0
+Công viên Mai Dịch,12805.3
+Công viên Thiên Văn Học Dương Nội,12944.0
+Công viên Hà Cầu,13215.7
+Công viên Hòa Bình,13316.2
+Công viên Văn Phú,13459.1
+Vườn Nhật,13549.2
+Pineapple Park,13782.2
+Pomelo Park,13801.4
+Công viên OCT1,13818.1
+Công viên Thể thao,14804.4
+Công viên Trung tâm,14845.0
+Quảng trường,15108.8
+1,15548.6
+Tonkin's park,15839.6
+Công Viên C Khu Chung Cư Vân Canh,15893.9
+Công Viên B Khu Chung Cư Vân Canh,16427.3
+Công viên Âm nhạc Đô Nghĩa,16523.6
+Đài tưởng niệm Liệt sĩ Vân Canh,16626.4
+Công Viên A Khu Chung Cư Vân Canh,16734.7
+Công viên Nam An Khánh,18338.2
+Giếng Trọng Thủy,28867.9
+Phim trường Smiley Ville,29691.3
+Vườn hoa Nông dân,35560.4
+Khu vui chơi,35597.1
+Vườn đình Lã Côi,35653.0
+Công viên Xuân Dục,35736.4
+Vườn hoa Thị trấn Yên Viên,36241.2
+Công viên Khởi nghiệp,37970.4
+Vườn hoa Giang Biên,40615.4
+Công viên Long Biên,40723.1
+Vườn hoa Kim Quan,41124.7
+Ánh Dương Garden,41286.1
+Công viên Bê Tông,41586.5
+Vườn hoa ô quy hoạch C12/CX3,42173.3
+Vườn hoa Phúc Đồng,42480.6
+Công viên Gia Thuỵ,42644.5
+Vườn hoa Mai Phúc,42846.0
+Vườn hoa Tân Thụy,42871.7
+Vườn hoa Gia Quất,42875.7
+Vườn hoa Thượng Thanh,43424.7
+Vườn hoa Ngọc Lâm,43433.4
+Vườn hoa Chợ Phúc Đồng,43488.1
+Công viên Trung Tâm,43623.7
+Công viên Lâm Hạ,43895.5
+nhà văn hóa tổ 16,43944.3
+Công viên Bồ Đề Xanh,44017.3
+Vườn hoa Thạch Bàn,44993.0
+Vườn hoa Sơn Tây,46018.6
+Công viên Thành cổ Sơn Tây,46277.5
+Dự án cải tạo hồ Đầu Băng,46442.4
+T8 Park,46524.1
+Vườn hoa Trạm,46638.6
+Khu cảnh quan,47132.0
+Viglacera Community Park,47646.6
+Vườn hoa Cự Khối,47655.2
+Trung tâm sinh thái giáo dục V-Eco,47823.8
+khu vui chơi giải trí công cộng,48421.4
+Vườn Long Viên,48460.5
+Vườn Lam Viên,48489.3
+Vườn An Viên,48598.4
+Bien Ho Park,49495.2
+Ngoc Trai Lake-San Ho Park,50721.0
+Hai Au Park,51226.2

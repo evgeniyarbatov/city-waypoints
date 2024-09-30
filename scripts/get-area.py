@@ -29,6 +29,7 @@ def main(
     
     df['area'] = df.apply(get_area, axis=1)
     df = df.sort_values(by='area', ascending=False)
+    df = df.drop_duplicates(subset=['name'], keep='first')
 
     df[[
         'name',
