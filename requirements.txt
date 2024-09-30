@@ -6,3 +6,4 @@ polyline
 requests
 shapely
 pyproj
+ipykernel

@@ -44,7 +44,6 @@ class WayHandler(osmium.SimpleHandler):
         tags = self.get_tags(w.tags)
 
         self.ways.append([
-            w.id,
             (float(way_lat), float(way_lon)),
             way_nodes,
             tags,
@@ -61,7 +60,6 @@ def write_csv(ways, parks_filename):
         return pd.Series(tag_dict)
 
     df = pd.DataFrame(ways, columns=[
-        'way_id', 
         'coordinates', 
         'way_border', 
         'tags',
@@ -74,7 +72,6 @@ def write_csv(ways, parks_filename):
     
     df[[
         'name',
-        'way_id',
         'lat',
         'lon',
         'way_border',

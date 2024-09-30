@@ -43,7 +43,6 @@ def main(
     
     df[[
         'name',
-        'way_id',
         'distance',
     ]].to_csv(distances_filename, index=False)
 

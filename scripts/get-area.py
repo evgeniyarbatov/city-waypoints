@@ -32,7 +32,6 @@ def main(
 
     df[[
         'name',
-        'way_id',
         'area',
     ]].to_csv(area_filename, index=False)
 

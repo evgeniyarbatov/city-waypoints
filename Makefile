@@ -1,3 +1,5 @@
+PROJECT_NAME := $(shell basename $(PWD))
+
 START_LAT = 20.99483375616291
 START_LON = 105.86792091531574
 
@@ -20,7 +22,7 @@ WAYS = data/ways/$(CITY_NAME).csv
 
 VENV_PATH = ~/.venv/city-parks
 
-all: venv install
+all: venv install jupyter
 
 venv:
 	@python3 -m venv $(VENV_PATH)
@@ -28,6 +30,14 @@ venv:
 install: venv
 	@source $(VENV_PATH)/bin/activate && \
 	pip install --disable-pip-version-check -q -r requirements.txt
+
+jupyter: install
+	@source $(VENV_PATH)/bin/activate && \
+	python3 -m ipykernel install \
+	--user \
+	--name "$(PROJECT_NAME)" \
+	--display-name "$(PROJECT_NAME)" \
+	> /dev/null 2>&1
 
 docker:
 	@open -a Docker
