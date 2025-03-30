@@ -1,1458 +1,873 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gpx version="1.1" creator="Evgeny Arbatov" xmlns="http://www.topografix.com/GPX/1/1">
-  <wpt lat="21.056260667112294" lon="105.82474700548129">
-    <name>West Lake</name>
-  </wpt>
-  <wpt lat="20.72210428581236" lon="105.68032262997713">
-    <name>Hồ Ngãi Lạng</name>
-  </wpt>
-  <wpt lat="20.961350797619048" lon="105.8556463904762">
-    <name>Yen So Park</name>
-  </wpt>
-  <wpt lat="21.26482533173077" lon="105.82058217115386">
-    <name>Hồ Đồng Quan</name>
-  </wpt>
-  <wpt lat="21.01184174125" lon="105.84446088875">
-    <name>Thong Nhat Park</name>
-  </wpt>
-  <wpt lat="21.14178032433628" lon="105.34446480353982">
-    <name>Hồ Cẩm Quý</name>
-  </wpt>
-  <wpt lat="21.31604906720648" lon="105.77304904655873">
-    <name>Dong Do Reservoir</name>
-  </wpt>
-  <wpt lat="20.975449405263163" lon="105.67758992631578">
-    <name>Hồ Bán Nguyệt</name>
-  </wpt>
-  <wpt lat="21.030223402127664" lon="105.46618630851064">
-    <name>Khu đua xe Ô tô địa hình - Otofun</name>
-  </wpt>
-  <wpt lat="20.710855157692308" lon="105.69072289615384">
-    <name>Hồ Quan Sơn</name>
-  </wpt>
-  <wpt lat="21.14754977582418" lon="105.32445280769232">
-    <name>Hồ Mèo Gù</name>
-  </wpt>
-  <wpt lat="21.065209452941176" lon="105.7867164">
-    <name>Peace Park</name>
-  </wpt>
-  <wpt lat="20.993455427999997" lon="105.95007552399998">
-    <name>Pearl Lake</name>
-  </wpt>
-  <wpt lat="21.16137809605263" lon="105.31403131973686">
-    <name>Hồ Yên Thịnh</name>
-  </wpt>
-  <wpt lat="21.357791488333337" lon="105.79786460166665">
-    <name>Hồ Cầu Bãi</name>
-  </wpt>
-  <wpt lat="21.0060598245614" lon="105.85685903157896">
-    <name>Hanoi Youth Park</name>
-  </wpt>
-  <wpt lat="20.97764831923077" lon="105.83002267564102">
-    <name>Hồ Định Công</name>
-  </wpt>
-  <wpt lat="21.00259107777778" lon="105.79669131111112">
-    <name>Công viên Thanh Xuân</name>
-  </wpt>
-  <wpt lat="21.060669975" lon="105.90437591111112">
-    <name>Long Bien Park</name>
-  </wpt>
-  <wpt lat="20.96454655509554" lon="105.46959771847136">
-    <name>Co Dung Lake</name>
-  </wpt>
-  <wpt lat="21.052441498734176" lon="105.31085246455694">
-    <name>Đập Vống</name>
-  </wpt>
-  <wpt lat="21.038204846067416" lon="105.83391691910111">
-    <name>Presidential Palace Historical Site</name>
-  </wpt>
-  <wpt lat="21.007671620833335" lon="105.77176590833334">
-    <name>Mễ Trì Park</name>
-  </wpt>
-  <wpt lat="21.017389011650483" lon="105.82053914271845">
-    <name>Dong Da Lake</name>
-  </wpt>
-  <wpt lat="20.997361312499997" lon="105.791116675">
-    <name>Phung Khoang Park</name>
-  </wpt>
-  <wpt lat="21.317060317525772" lon="105.80992270927835">
-    <name>Hồ Hoa Sơn</name>
-  </wpt>
-  <wpt lat="20.98062813125" lon="105.7574917125">
-    <name>Astronomy Park</name>
-  </wpt>
-  <wpt lat="20.985327781914897" lon="105.46160022234038">
-    <name>Hồ Yên Bình</name>
-  </wpt>
-  <wpt lat="20.847428606849316" lon="105.6041220328767">
-    <name>Hồ Văn Sơn</name>
-  </wpt>
-  <wpt lat="21.042210978205127" lon="105.31159613333332">
-    <name>Đầm Sản</name>
-  </wpt>
-  <wpt lat="21.30377026" lon="105.80039372">
-    <name>Hồ Hàm Lợn</name>
-  </wpt>
-  <wpt lat="21.003151400000004" lon="105.50130182">
-    <name>Hồ Đa Lát</name>
-  </wpt>
-  <wpt lat="20.99900408225807" lon="105.71330477903226">
-    <name>Công viên Nam An Khánh</name>
-  </wpt>
-  <wpt lat="21.051544849404763" lon="105.77473169404762">
-    <name>Hồ Điều Hòa</name>
-  </wpt>
-  <wpt lat="21.039909569642855" lon="105.83135727321428">
-    <name>Hanoi Botanical Gardens</name>
-  </wpt>
-  <wpt lat="21.0283103755102" lon="105.79080706734696">
-    <name>Cau Giay Park</name>
-  </wpt>
-  <wpt lat="21.04105087" lon="105.79649520333334">
-    <name>Công viên Nghĩa Đô</name>
-  </wpt>
-  <wpt lat="21.01752867826087" lon="105.95103578260868">
-    <name>Viglacera Community Park</name>
-  </wpt>
-  <wpt lat="20.83357800561224" lon="105.66515617040815">
-    <name>Hồ Kỳ Viên</name>
-  </wpt>
-  <wpt lat="20.984736154545455" lon="105.8558298090909">
-    <name>Công viên Đền Lừ</name>
-  </wpt>
-  <wpt lat="20.986687477083333" lon="105.94524274791668">
-    <name>VinUni Lake</name>
-  </wpt>
-  <wpt lat="21.018831090000003" lon="105.81391622333334">
-    <name>Indira Gandhi Park</name>
-  </wpt>
-  <wpt lat="21.051430886792456" lon="105.91881063773585">
-    <name>Mars</name>
-  </wpt>
-  <wpt lat="21.28971767560975" lon="105.83434745243903">
-    <name>Hồ Đền Thượng</name>
-  </wpt>
-  <wpt lat="21.040967747368416" lon="105.77094346842104">
-    <name>Mai Dich Cemetery Park</name>
-  </wpt>
-  <wpt lat="20.99988390666667" lon="105.74139694">
-    <name>Central Park</name>
-  </wpt>
-  <wpt lat="21.012231217910447" lon="105.53754030447762">
-    <name>Công viên Khởi nghiệp</name>
-  </wpt>
-  <wpt lat="20.991832431404955" lon="105.93822009421488">
-    <name>Hồ San Hô</name>
-  </wpt>
-  <wpt lat="21.204765586206896" lon="105.3466496551724">
-    <name>Hồ Tòng Lệnh</name>
-  </wpt>
-  <wpt lat="21.08298235862069" lon="105.92606368275862">
-    <name>Hồ Hòa Bình</name>
-  </wpt>
-  <wpt lat="21.064965666666673" lon="105.79610391333334">
-    <name>Công viên Ngoại giao Đoàn</name>
-  </wpt>
-  <wpt lat="20.959343215384617" lon="105.77944413076922">
-    <name>Công viên Hà Cầu</name>
-  </wpt>
-  <wpt lat="21.02813082608696" lon="105.81968801739129">
-    <name>Giang Vo Lake</name>
-  </wpt>
-  <wpt lat="20.96004808181818" lon="105.73652903636363">
-    <name>Công viên Âm nhạc Đô Nghĩa</name>
-  </wpt>
-  <wpt lat="21.058149176923074" lon="105.87326473846156">
-    <name>Ngoc Thuy Park</name>
-  </wpt>
-  <wpt lat="20.976971911764707" lon="105.79143401470589">
-    <name>Văn Quán Lake Park</name>
-  </wpt>
-  <wpt lat="20.965343944444445" lon="105.83544499444444">
-    <name>Công viên Linh Đàm</name>
-  </wpt>
-  <wpt lat="20.99752964269663" lon="105.79085115280898">
-    <name>Hồ Phùng Khoang</name>
-  </wpt>
-  <wpt lat="21.072373283333334" lon="105.82318622037036">
-    <name>Hồ Quảng Bá</name>
-  </wpt>
-  <wpt lat="21.03845796428572" lon="105.76923610714286">
-    <name>Mai Dich Park</name>
-  </wpt>
-  <wpt lat="21.003798606451618" lon="105.75490311935484">
-    <name>Japanese Garden</name>
-  </wpt>
-  <wpt lat="21.012825010000004" lon="105.84011075333336">
-    <name>Công viên Ba Mẫu</name>
-  </wpt>
-  <wpt lat="21.095187314285713" lon="105.87407961428572">
-    <name>Phim trường Smiley Ville</name>
-  </wpt>
-  <wpt lat="20.9844385125" lon="105.86806438333332">
-    <name>Công viên KĐT Vĩnh Hoàng</name>
-  </wpt>
-  <wpt lat="21.027135038888886" lon="105.88844987777776">
-    <name>Dự án cải tạo hồ Đầu Băng</name>
-  </wpt>
-  <wpt lat="21.01657270857143" lon="105.9299922257143">
-    <name>Vnua Eco Education Center</name>
-  </wpt>
-  <wpt lat="21.03729429756098" lon="105.83846042926828">
-    <name>Archeological site of Thang Long Imperial Citadel</name>
-  </wpt>
-  <wpt lat="21.028586703448276" lon="105.91102837586207">
-    <name>Vườn hoa Thạch Bàn</name>
-  </wpt>
-  <wpt lat="20.944088946666668" lon="105.86966822666666">
-    <name>Ao cá</name>
-  </wpt>
-  <wpt lat="21.04094298" lon="105.79592687833332">
-    <name>Hồ Nghĩa Tân</name>
-  </wpt>
-  <wpt lat="21.09725881190476" lon="105.37514462619046">
-    <name>Ao Vua</name>
-  </wpt>
-  <wpt lat="20.996086038983048" lon="105.88823245762713">
-    <name>Hồ Thanh Trì</name>
-  </wpt>
-  <wpt lat="20.983287680952383" lon="105.91861165238092">
-    <name>Hồ Bát Tràng</name>
-  </wpt>
-  <wpt lat="21.013108761538465" lon="105.83101732692307">
-    <name>Xa Dan Lake</name>
-  </wpt>
-  <wpt lat="20.956018504166664" lon="105.76640489166664">
-    <name>Công viên Văn Phú</name>
-  </wpt>
-  <wpt lat="21.033465041176473" lon="105.8807502862745">
-    <name>Hồ Lâm Du</name>
-  </wpt>
-  <wpt lat="21.022753241666667" lon="105.53487251388889">
-    <name>Hồ Tân Xã</name>
-  </wpt>
-  <wpt lat="20.989839697435897" lon="105.9175202179487">
-    <name>Hồ Đầm Biền</name>
-  </wpt>
-  <wpt lat="20.96375815" lon="105.82851793571427">
-    <name>Công viên Bán đảo Linh Đàm</name>
-  </wpt>
-  <wpt lat="20.98490872072072" lon="105.85569848108108">
-    <name>Den Lu Lake</name>
-  </wpt>
-  <wpt lat="21.074852711111113" lon="105.82069986666666">
-    <name>Thung lũng hoa Hồ Tây</name>
-  </wpt>
-  <wpt lat="20.967163396153847" lon="105.82774067692309">
-    <name>Công viên Bắc Linh Đàm</name>
-  </wpt>
-  <wpt lat="20.990757261875" lon="105.571477101875">
-    <name>Hồ Câu Phúc Thành</name>
-  </wpt>
-  <wpt lat="21.068401742857144" lon="105.82001595714284">
-    <name>Đầm Đông</name>
-  </wpt>
-  <wpt lat="20.99400426470588" lon="105.83563253235292">
-    <name>Hồ Rùa</name>
-  </wpt>
-  <wpt lat="20.98737457931034" lon="105.8096094637931">
-    <name>Hồ Hạ Đình</name>
-  </wpt>
-  <wpt lat="20.94345469180328" lon="105.87302266393442">
-    <name>Ao đường trong</name>
-  </wpt>
-  <wpt lat="21.002096530769236" lon="105.93350240769232">
-    <name>Vườn thực vật</name>
-  </wpt>
-  <wpt lat="21.04936345945946" lon="105.88017255135136">
-    <name>Hồ Cầu Tình</name>
-  </wpt>
-  <wpt lat="21.082538791666668" lon="105.9219352404762">
-    <name>Hồ Cống Thôn</name>
-  </wpt>
-  <wpt lat="20.945359207692302" lon="105.4974274">
-    <name>Hồ Đồng Bồ</name>
-  </wpt>
-  <wpt lat="20.978208149999997" lon="105.79058363571428">
-    <name>Hồ Văn Quán</name>
-  </wpt>
-  <wpt lat="20.97272198" lon="105.78158318666668">
-    <name>Vườn hoa Nguyễn Trãi</name>
-  </wpt>
-  <wpt lat="20.98661112352941" lon="105.81797539999998">
-    <name>Đầm Chuối</name>
-  </wpt>
-  <wpt lat="20.973618277777778" lon="105.87888612222224">
-    <name>Công viên</name>
-  </wpt>
-  <wpt lat="20.99387433611111" lon="105.95655053888888">
-    <name>Salt Sea Lake</name>
-  </wpt>
-  <wpt lat="20.950466218181816" lon="105.87443817272728">
-    <name>Hồ câu Yên Mỹ</name>
-  </wpt>
-  <wpt lat="20.67179463783784" lon="105.74644169729729">
-    <name>Chùa Thọ Sơn</name>
-  </wpt>
-  <wpt lat="21.016584364285716" lon="105.91067232142856">
-    <name>Hồ Bộ Đội</name>
-  </wpt>
-  <wpt lat="20.9847155125" lon="105.867784725">
-    <name>Hồ Vĩnh Hoàng</name>
-  </wpt>
-  <wpt lat="21.028997957142856" lon="105.83599213142855">
-    <name>Temple of Literature</name>
-  </wpt>
-  <wpt lat="21.037255679166663" lon="105.87188202083333">
-    <name>Bo De Lake</name>
-  </wpt>
-  <wpt lat="20.94693412272727" lon="105.87547724090906">
-    <name>Ao</name>
-  </wpt>
-  <wpt lat="21.01199065263158" lon="105.82463273157896">
-    <name>Gò Đống Đa</name>
-  </wpt>
-  <wpt lat="21.031714251219512" lon="105.35701593414636">
-    <name>Hồ Mít</name>
-  </wpt>
-  <wpt lat="21.037626976190477" lon="105.9054089904762">
-    <name>Công viên Trung Tâm</name>
-  </wpt>
-  <wpt lat="20.835446117647063" lon="105.85397274117646">
-    <name>Hồ Sen Chùa Đậu</name>
-  </wpt>
-  <wpt lat="20.994909485714288" lon="105.87703308571427">
-    <name>Hồ Sơn</name>
-  </wpt>
-  <wpt lat="21.030829530612245" lon="105.88294630612243">
-    <name>Hồ Tư Đình</name>
-  </wpt>
-  <wpt lat="20.948088233333333" lon="105.87050096666668">
-    <name>Núi chùa</name>
-  </wpt>
-  <wpt lat="21.0054849" lon="105.8371993236842">
-    <name>Hồ Kim Liên</name>
-  </wpt>
-  <wpt lat="20.988563642857144" lon="105.95367728571428">
-    <name>Hai Au Park</name>
-  </wpt>
-  <wpt lat="20.949385410526315" lon="105.87799221052632">
-    <name>Ao đầu làng</name>
-  </wpt>
-  <wpt lat="21.03176421153846" lon="105.83940629615384">
-    <name>Lenin Park</name>
-  </wpt>
-  <wpt lat="21.081973552459026" lon="105.90624461639344">
-    <name>Hồ Ba Góc</name>
+  <wpt lat="20.995101667741935" lon="105.87275184516128">
+    <name>Hồ Dương Văn Bé - 1km - 15976m2</name>
   </wpt>
   <wpt lat="20.99684276" lon="105.87522474">
-    <name>Công viên hồ Cần</name>
-  </wpt>
-  <wpt lat="20.6974573" lon="105.9895776">
-    <name>Chùa Ráng - Tổ đình Viên Minh</name>
-  </wpt>
-  <wpt lat="21.024916083783783" lon="105.8064416837838">
-    <name>Lang Lake</name>
-  </wpt>
-  <wpt lat="20.986741209090905" lon="105.91841243636362">
-    <name>Hồ Đầm Biển</name>
-  </wpt>
-  <wpt lat="20.995101667741935" lon="105.87275184516128">
-    <name>Hồ Dương Văn Bé</name>
-  </wpt>
-  <wpt lat="21.00531674" lon="105.93011399">
-    <name>Quảng Trường Sinh Viên</name>
-  </wpt>
-  <wpt lat="21.04063790344828" lon="105.88167576206898">
-    <name>Lam Ha Park</name>
-  </wpt>
-  <wpt lat="21.02643877692308" lon="105.88831683846152">
-    <name>Hồ Đầu Băng</name>
-  </wpt>
-  <wpt lat="20.80408910357143" lon="105.86001426071428">
-    <name>Sông Đình</name>
-  </wpt>
-  <wpt lat="21.029702491666665" lon="105.76819768333336">
-    <name>Chùa Đại An</name>
-  </wpt>
-  <wpt lat="21.03961534375" lon="105.932331825">
-    <name>Hồ Sen</name>
-  </wpt>
-  <wpt lat="20.997287473076923" lon="105.57377983461537">
-    <name>Trúc Động Lake</name>
-  </wpt>
-  <wpt lat="21.05701061111111" lon="105.87420358333333">
-    <name>Vườn hoa Thượng Thanh</name>
-  </wpt>
-  <wpt lat="21.02884372142857" lon="105.83543411428572">
-    <name>Giam Garden</name>
-  </wpt>
-  <wpt lat="20.99738757777778" lon="105.74446734444444">
-    <name>Hồ Tây Mỗ</name>
-  </wpt>
-  <wpt lat="21.019908416666667" lon="105.79815088333332">
-    <name>Công viên Yên Hòa</name>
-  </wpt>
-  <wpt lat="21.021638297058825" lon="105.83349564705884">
-    <name>Hồ Văn Chương</name>
-  </wpt>
-  <wpt lat="20.97549787142857" lon="105.79051495714285">
-    <name>Vườn hoa Văn Quán</name>
-  </wpt>
-  <wpt lat="21.04877477333333" lon="105.87601246">
-    <name>Ngoc Lam Flower Garden</name>
-  </wpt>
-  <wpt lat="21.058231300000003" lon="105.90145965384616">
-    <name>Kim Quan Flower Garden</name>
-  </wpt>
-  <wpt lat="20.987003609090912" lon="105.83157776363636">
-    <name>Vườn hoa Định Công</name>
-  </wpt>
-  <wpt lat="20.99157831428571" lon="105.78902822857144">
-    <name>Vườn Trung Văn</name>
-  </wpt>
-  <wpt lat="21.03518857948718" lon="105.83783932307692">
-    <name>Vườn hoa Kính Thiên</name>
-  </wpt>
-  <wpt lat="21.022375884210525" lon="105.6455262105263">
-    <name>Long Tri Lake</name>
-  </wpt>
-  <wpt lat="21.00797597727272" lon="105.91314475909093">
-    <name>Vườn hoa Cự Khối</name>
-  </wpt>
-  <wpt lat="21.02749301578947" lon="105.85477693157895">
-    <name>Ly Thai To Park</name>
-  </wpt>
-  <wpt lat="21.053099222222222" lon="105.87893167777776">
-    <name>Vườn hoa Gia Quất</name>
-  </wpt>
-  <wpt lat="20.7498416" lon="105.69395574285711">
-    <name>Hồ Đoan Nữ</name>
-  </wpt>
-  <wpt lat="21.01805570727273" lon="105.78429499636364">
-    <name>Landmark72 Garden</name>
-  </wpt>
-  <wpt lat="21.026684042307693" lon="105.8352398307692">
-    <name>Văn Lake</name>
-  </wpt>
-  <wpt lat="21.00776881538462" lon="105.82405473846153">
-    <name>Vườn hoa Thuỷ lợi</name>
-  </wpt>
-  <wpt lat="20.777835807142857" lon="105.83021609285711">
-    <name>Ao trường học</name>
-  </wpt>
-  <wpt lat="21.003766992857145" lon="105.74145590714284">
-    <name>Công viên Thể thao</name>
-  </wpt>
-  <wpt lat="20.94803897" lon="105.86999433">
-    <name>Ao sen</name>
-  </wpt>
-  <wpt lat="21.066044538461536" lon="105.77345876153846">
-    <name>Hồ câu Hùng Thông</name>
-  </wpt>
-  <wpt lat="21.04340973125" lon="105.880318675">
-    <name>Hồ Hàng Không</name>
-  </wpt>
-  <wpt lat="21.014826" lon="105.90542784583334">
-    <name>T8 Park</name>
-  </wpt>
-  <wpt lat="21.04855643636364" lon="105.87660494090908">
-    <name>Hồ vườn hoa Ngọc Lâm</name>
-  </wpt>
-  <wpt lat="21.024438675000003" lon="105.80284785">
-    <name>Chùa Láng</name>
-  </wpt>
-  <wpt lat="21.01529335" lon="105.799336075">
-    <name>Công viên Trung Yên</name>
-  </wpt>
-  <wpt lat="21.111631477777777" lon="105.87115048888889">
-    <name>Pearl Well</name>
-  </wpt>
-  <wpt lat="20.909509655555556" lon="105.57688520555556">
-    <name>Hồ Lâm Nghiệp</name>
-  </wpt>
-  <wpt lat="21.0671534375" lon="105.896224325">
-    <name>Vườn hoa phường Thượng Thanh</name>
-  </wpt>
-  <wpt lat="21.04115715" lon="105.73281586666668">
-    <name>Park A - Van Canh Resident Area</name>
-  </wpt>
-  <wpt lat="21.1506808125" lon="105.7576073625">
-    <name>Hồ 3 góc</name>
-  </wpt>
-  <wpt lat="20.727547375" lon="105.7165748625">
-    <name>Chùa Lai</name>
-  </wpt>
-  <wpt lat="21.00005991090909" lon="105.94813316363636">
-    <name>Bien Ho Park</name>
-  </wpt>
-  <wpt lat="21.00386042666667" lon="105.93513430666668">
-    <name>khu vui chơi giải trí công cộng</name>
-  </wpt>
-  <wpt lat="20.99295100714286" lon="105.93221835714289">
-    <name>Dao Xuyen Temple</name>
-  </wpt>
-  <wpt lat="21.196365783333334" lon="105.3277156">
-    <name>Sân vận động xã Tòng Bạt</name>
-  </wpt>
-  <wpt lat="21.051934960000004" lon="105.75636912">
-    <name>Chùa Bụt Mọc</name>
-  </wpt>
-  <wpt lat="20.955680799999996" lon="105.85432570909092">
-    <name>Culture Village at Yen So Park</name>
-  </wpt>
-  <wpt lat="21.035589725" lon="105.8286356">
-    <name>Hồ Đầm Tròn</name>
-  </wpt>
-  <wpt lat="21.01643862" lon="105.82717712000002">
-    <name>Vườn hoa 1-6</name>
-  </wpt>
-  <wpt lat="21.039661546153848" lon="105.87775154615385">
-    <name>Công viên Bồ Đề Xanh</name>
-  </wpt>
-  <wpt lat="21.0499957" lon="105.89762726363638">
-    <name>Vườn hoa ô quy hoạch C12/CX3</name>
-  </wpt>
-  <wpt lat="21.001277257894735" lon="105.82996208421052">
-    <name>Hồ Hố Mẻ</name>
-  </wpt>
-  <wpt lat="21.054733826315793" lon="105.9197652263158">
-    <name>Vườn hoa Phúc Lợi</name>
-  </wpt>
-  <wpt lat="20.971733328571425" lon="105.8772595857143">
-    <name>Khu vui chơi trẻ em</name>
-  </wpt>
-  <wpt lat="21.012165717647058" lon="105.8563115235294">
-    <name>Hai Bà Trưng Lake</name>
-  </wpt>
-  <wpt lat="21.007896287500003" lon="105.932366875">
-    <name>Vườn Vải</name>
-  </wpt>
-  <wpt lat="20.669226496153847" lon="105.74496573076922">
-    <name>Chùa Hà</name>
-  </wpt>
-  <wpt lat="21.054486916666665" lon="105.76338488333332">
-    <name>Hồ Phú Diễn</name>
-  </wpt>
-  <wpt lat="20.98425604" lon="105.92946366">
-    <name>Hồ Khoan Tế</name>
-  </wpt>
-  <wpt lat="21.036898325" lon="105.7363939625">
-    <name>Công Viên C Khu Chung Cư Vân Canh</name>
-  </wpt>
-  <wpt lat="21.01415045882353" lon="105.82464777058824">
-    <name>Vườn hoa Trần Quang Diệu</name>
+    <name>Công viên hồ Cần - 1km - 17345m2</name>
   </wpt>
   <wpt lat="20.99664441111111" lon="105.87532043333334">
-    <name>Hồ Cần</name>
-  </wpt>
-  <wpt lat="21.008498681818185" lon="105.82762326818182">
-    <name>Chùa Bộc</name>
-  </wpt>
-  <wpt lat="21.037045277272725" lon="105.88216302272728">
-    <name>Hồ Phi Trường</name>
-  </wpt>
-  <wpt lat="21.006236329166665" lon="105.71947038333332">
-    <name>Chùa Cả</name>
-  </wpt>
-  <wpt lat="21.037304985365857" lon="105.90583648780488">
-    <name>Hồ Trung Tâm</name>
-  </wpt>
-  <wpt lat="21.013987841666665" lon="105.78179173333336">
-    <name>Công viên - Bãi xe ngầm Mễ Trì Hạ</name>
-  </wpt>
-  <wpt lat="21.01403798" lon="105.85946966">
-    <name>Pasteur Garden</name>
-  </wpt>
-  <wpt lat="20.99937945" lon="105.8300073">
-    <name>Hồ Không Lực</name>
-  </wpt>
-  <wpt lat="21.016813483333333" lon="105.821118475">
-    <name>Vườn hoa Hoàng Cầu</name>
-  </wpt>
-  <wpt lat="21.03575901818182" lon="105.82656968787876">
-    <name>Hồ Bảy Gian</name>
-  </wpt>
-  <wpt lat="21.01879579047619" lon="105.9338443190476">
-    <name>Khu cảnh quan</name>
-  </wpt>
-  <wpt lat="21.066511247058823" lon="105.70579343529413">
-    <name>Ao Mục Bài</name>
-  </wpt>
-  <wpt lat="21.02368529444444" lon="105.7928281722222">
-    <name>Chùa Cót</name>
-  </wpt>
-  <wpt lat="20.984239421052628" lon="105.7851207263158">
-    <name>Vườn hoa Việt Kiều</name>
-  </wpt>
-  <wpt lat="20.99009028636364" lon="105.5740305318182">
-    <name>Đồng Táng Village Temple</name>
-  </wpt>
-  <wpt lat="21.051808263636364" lon="105.8828971">
-    <name>Hồ Ga</name>
-  </wpt>
-  <wpt lat="20.98896484545455" lon="105.8069528909091">
-    <name>Hồ Quạt Rẻ</name>
-  </wpt>
-  <wpt lat="20.805919845454547" lon="105.66939142727271">
-    <name>Quan Tha Temple</name>
-  </wpt>
-  <wpt lat="20.97163428" lon="105.78143751333332">
-    <name>Vườn hoa</name>
-  </wpt>
-  <wpt lat="21.040095800000003" lon="105.8464381375">
-    <name>Van Xuan Garden</name>
-  </wpt>
-  <wpt lat="21.063594033333334" lon="105.91542976666666">
-    <name>Vườn hoa Giang Biên</name>
-  </wpt>
-  <wpt lat="20.96988071666667" lon="105.83095115833332">
-    <name>Đại Từ</name>
-  </wpt>
-  <wpt lat="21.13996262857143" lon="105.50538265">
-    <name>Công viên Thành cổ Sơn Tây</name>
-  </wpt>
-  <wpt lat="21.07973984827586" lon="105.834504862069">
-    <name>Pond of Red River</name>
-  </wpt>
-  <wpt lat="20.68424529285714" lon="105.74626025">
-    <name>Diên Khánh Pagoda</name>
-  </wpt>
-  <wpt lat="21.02764808" lon="105.84851568000002">
-    <name>St Joseph Major Seminary Hanoi</name>
-  </wpt>
-  <wpt lat="20.987959250000003" lon="105.942908525">
-    <name>Rose Garden</name>
-  </wpt>
-  <wpt lat="20.9558305" lon="105.85349786000002">
-    <name>Yen So Lake</name>
-  </wpt>
-  <wpt lat="20.973155083333335" lon="105.77947226666667">
-    <name>Vườn hoa Hà Đông</name>
-  </wpt>
-  <wpt lat="20.933759279999997" lon="105.83249879">
-    <name>Chùa Phúc Long</name>
-  </wpt>
-  <wpt lat="21.0450242" lon="105.8972429375">
-    <name>Vườn hoa Tân Thụy</name>
-  </wpt>
-  <wpt lat="20.988739416666665" lon="105.716104025">
-    <name>Chùa Ngãi Cầu</name>
-  </wpt>
-  <wpt lat="20.78111659230769" lon="105.71670714615384">
-    <name>Tu Xa Pagoda</name>
-  </wpt>
-  <wpt lat="20.98368573" lon="105.92096292">
-    <name>Chùa Bình Nguyên</name>
-  </wpt>
-  <wpt lat="21.02730482222222" lon="105.84955623333332">
-    <name>Hang Trong Garden</name>
-  </wpt>
-  <wpt lat="20.79675948888889" lon="105.67591098888887">
-    <name>Thuong Lam Pagoda</name>
-  </wpt>
-  <wpt lat="20.71105654210526" lon="105.76044601052632">
-    <name>Đình chùa Thôn Hạ</name>
-  </wpt>
-  <wpt lat="21.046527542307693" lon="105.86565496538462">
-    <name>Vườn hoa Bắc Long Biên</name>
-  </wpt>
-  <wpt lat="20.81651455" lon="105.67654207">
-    <name>Chùa làng Yên Sơn</name>
-  </wpt>
-  <wpt lat="21.038218340000004" lon="105.75768802">
-    <name>Thi Cam Temple</name>
-  </wpt>
-  <wpt lat="21.03157523333333" lon="105.82629024">
-    <name>Chùa Kim Sơn</name>
-  </wpt>
-  <wpt lat="21.07437378" lon="105.70153888">
-    <name>Sân chơi khu đô thị Tân Tây Đô</name>
-  </wpt>
-  <wpt lat="20.79640185" lon="105.681036775">
-    <name>Đình làng Thượng Lâm</name>
-  </wpt>
-  <wpt lat="21.00100665897436" lon="105.91166751794871">
-    <name>Hồ Cửa Đình</name>
-  </wpt>
-  <wpt lat="20.99145233846154" lon="105.94992381923076">
-    <name>Ngoc Trai Lake-San Ho Park</name>
-  </wpt>
-  <wpt lat="21.00283931" lon="105.81142423">
-    <name>Thủy đình Nhân Chính</name>
-  </wpt>
-  <wpt lat="21.02286652857143" lon="105.82488327142858">
-    <name>Chùa Thanh Nhàn</name>
-  </wpt>
-  <wpt lat="20.73471404482758" lon="105.69408740344824">
-    <name>Bo De Pagoda</name>
-  </wpt>
-  <wpt lat="21.15379806" lon="105.48364861333334">
-    <name>Văn Miếu - Sơn Tây</name>
-  </wpt>
-  <wpt lat="21.06803564444444" lon="105.88670596666664">
-    <name>Ánh Dương Garden</name>
-  </wpt>
-  <wpt lat="21.02446979642857" lon="105.85002679642857">
-    <name>Dòng Thánh Phao lô Hà Nội</name>
-  </wpt>
-  <wpt lat="21.029138951851852" lon="105.82023352592591">
-    <name>Vườn hoa hồ Giảng Võ</name>
-  </wpt>
-  <wpt lat="21.05003506363636" lon="105.81302260909092">
-    <name>Chùa Tĩnh Lâu</name>
-  </wpt>
-  <wpt lat="20.93622392" lon="105.90497278">
-    <name>Nghĩa trang thôn chử xá</name>
-  </wpt>
-  <wpt lat="21.126665135714287" lon="105.68132409285714">
-    <name>Chùa Tiên Tân</name>
-  </wpt>
-  <wpt lat="20.99513171904762" lon="105.57382821904764">
-    <name>Đình Chùa Đồng Kho</name>
-  </wpt>
-  <wpt lat="20.7281024" lon="105.7245750875">
-    <name>Kim Quy Pagoda</name>
-  </wpt>
-  <wpt lat="20.984688645454547" lon="105.81856894999996">
-    <name>Hồ Khương Đình</name>
-  </wpt>
-  <wpt lat="21.020266228571423" lon="105.79577428571427">
-    <name>Vườn hoa Yên Hòa</name>
-  </wpt>
-  <wpt lat="20.751268614285713" lon="105.6952656">
-    <name>Đình thôn Đoan Nữ</name>
-  </wpt>
-  <wpt lat="20.99740016" lon="105.73880676">
-    <name>Tonkin's park</name>
-  </wpt>
-  <wpt lat="20.9695635" lon="105.79309650999998">
-    <name>Chùa Thanh An</name>
-  </wpt>
-  <wpt lat="21.063343936000003" lon="105.703063644">
-    <name>Ao Lão</name>
-  </wpt>
-  <wpt lat="20.99557996" lon="105.80497102">
-    <name>Sân chơi GoldSeason</name>
-  </wpt>
-  <wpt lat="21.208694525" lon="105.4146470125">
-    <name>Hồ Phe Bắc</name>
-  </wpt>
-  <wpt lat="21.00410438076923" lon="105.84334960000002">
-    <name>Hồ Tiền</name>
-  </wpt>
-  <wpt lat="20.87943293333333" lon="105.5748132">
-    <name>Công viên Bê Tông</name>
-  </wpt>
-  <wpt lat="20.9505512" lon="105.87678625714288">
-    <name>Ao dài</name>
-  </wpt>
-  <wpt lat="21.035741329629634" lon="105.83353665555556">
-    <name>Diện tích Chùa Một Cột</name>
-  </wpt>
-  <wpt lat="21.106817589772728" lon="105.90057764545456">
-    <name>HỒ</name>
-  </wpt>
-  <wpt lat="21.02648841028037" lon="105.85599163364483">
-    <name>Dien Hong Park</name>
-  </wpt>
-  <wpt lat="21.037793299999997" lon="105.73249953999998">
-    <name>Park B - Van Canh Resident Area</name>
-  </wpt>
-  <wpt lat="21.003898055555553" lon="105.82447006666666">
-    <name>Ao Khương Thượng</name>
-  </wpt>
-  <wpt lat="21.01237366" lon="105.79989197999998">
-    <name>Ao làng</name>
-  </wpt>
-  <wpt lat="21.038606185185184" lon="105.87009153333337">
-    <name>Ao làng Ái Mộ</name>
-  </wpt>
-  <wpt lat="20.988525700000004" lon="105.67714822">
-    <name>Ao Đình Làng Vân Côn</name>
-  </wpt>
-  <wpt lat="20.99132" lon="105.7996799">
-    <name>Vườn hoa Thanh Xuân Bắc</name>
-  </wpt>
-  <wpt lat="21.047866660000004" lon="105.83670124">
-    <name>Tran Quoc Pagoda</name>
-  </wpt>
-  <wpt lat="21.00489559" lon="105.80188406">
-    <name>Vườn hoa Trung Hòa - Nhân Chính</name>
-  </wpt>
-  <wpt lat="20.65288328571429" lon="105.8743967857143">
-    <name>Chùa Đào Xá</name>
-  </wpt>
-  <wpt lat="20.80429743636364" lon="105.84680497272728">
-    <name>Ao Sen làng Liễu Viên</name>
-  </wpt>
-  <wpt lat="21.020094700000005" lon="105.91885863571429">
-    <name>Chùa Thạch Cầu</name>
-  </wpt>
-  <wpt lat="20.993637386486483" lon="105.91624958648649">
-    <name>Ao Ngõ Cống</name>
-  </wpt>
-  <wpt lat="20.78163302" lon="105.70328568">
-    <name>Chùa Quế Lâm</name>
-  </wpt>
-  <wpt lat="21.02385435333333" lon="105.80091225333332">
-    <name>Ao Phủ</name>
-  </wpt>
-  <wpt lat="21.03795457884615" lon="105.83340114038462">
-    <name>Fish pond</name>
-  </wpt>
-  <wpt lat="21.010072763333337" lon="105.82513516333334">
-    <name>Vườn hoa Công đoàn</name>
-  </wpt>
-  <wpt lat="20.961962443478264" lon="105.82211392173916">
-    <name>Hồ trước đình Bằng A</name>
-  </wpt>
-  <wpt lat="20.997257066666663" lon="105.57194936666669">
-    <name>Trúc Động Pagoda</name>
-  </wpt>
-  <wpt lat="21.04475658181818" lon="105.90268301818182">
-    <name>Vườn hoa Mai Phúc</name>
-  </wpt>
-  <wpt lat="20.667704146666665" lon="105.89502638666666">
-    <name>Chùa Ngọc Trục</name>
-  </wpt>
-  <wpt lat="20.71615953888889" lon="105.73518228333332">
-    <name>Đình thôn Nội</name>
-  </wpt>
-  <wpt lat="20.73549747" lon="105.70351942">
-    <name>Thuong Village Pagoda</name>
-  </wpt>
-  <wpt lat="20.778686276" lon="105.681890988">
-    <name>Ao đình làng Thượng</name>
-  </wpt>
-  <wpt lat="20.96347775" lon="105.84997435">
-    <name>12 Zodiac Garden</name>
-  </wpt>
-  <wpt lat="20.94271281111111" lon="105.86215545555557">
-    <name>Dong Tri Parish Church</name>
-  </wpt>
-  <wpt lat="20.96099718" lon="105.74706164">
-    <name>Quảng trường</name>
-  </wpt>
-  <wpt lat="21.14140388888889" lon="105.50512712222222">
-    <name>Vườn hoa Sơn Tây</name>
-  </wpt>
-  <wpt lat="20.994012468085103" lon="105.91510347659572">
-    <name>Ao Mẫu Tư</name>
-  </wpt>
-  <wpt lat="21.005177651428568" lon="105.93334014">
-    <name>Hồ Tình bạn</name>
-  </wpt>
-  <wpt lat="20.99949598" lon="105.8443164">
-    <name>Vườn hoa Đại học Kinh tế Quốc dân</name>
-  </wpt>
-  <wpt lat="20.983622250000003" lon="105.783576">
-    <name>Ao Mỗ Lao</name>
-  </wpt>
-  <wpt lat="21.03958792" lon="105.90327838">
-    <name>Vườn hoa Chợ Phúc Đồng</name>
-  </wpt>
-  <wpt lat="20.68675455714285" lon="105.7427937">
-    <name>Chùa Tế Tiêu</name>
-  </wpt>
-  <wpt lat="20.71989108333333" lon="105.73466240555555">
-    <name>Đình</name>
-  </wpt>
-  <wpt lat="21.043050213333338" lon="105.83646122666669">
-    <name>Quan Thanh Temple</name>
-  </wpt>
-  <wpt lat="21.004344213157896" lon="105.93321870526316">
-    <name>Hồ Tuyệt vọng</name>
-  </wpt>
-  <wpt lat="21.023438357142854" lon="105.8570443904762">
-    <name>August 19 Garden</name>
-  </wpt>
-  <wpt lat="20.9787017" lon="105.79504824">
-    <name>Vườn hoa Phụ nữ tự quản</name>
-  </wpt>
-  <wpt lat="21.02498673" lon="105.857795165">
-    <name>Co Tan Park</name>
-  </wpt>
-  <wpt lat="21.054992116666668" lon="105.84025266666669">
-    <name>An Duong Tennis Courts</name>
-  </wpt>
-  <wpt lat="21.03608506666667" lon="105.7794161">
-    <name>Đài tưởng niệm Liệt sĩ Phường Mai Dịch</name>
-  </wpt>
-  <wpt lat="21.047363" lon="105.9007863764706">
-    <name>Vườn hoa Phúc Đồng</name>
-  </wpt>
-  <wpt lat="21.010257322222223" lon="105.83333181111112">
-    <name>Công viên Con Voi</name>
-  </wpt>
-  <wpt lat="21.0087002875" lon="105.9471732625">
-    <name>Vườn Long Viên</name>
-  </wpt>
-  <wpt lat="21.18151476" lon="105.9163993">
-    <name>Đền Thượng</name>
-  </wpt>
-  <wpt lat="21.005227724999997" lon="105.932511190625">
-    <name>Hồ Tình Yêu</name>
-  </wpt>
-  <wpt lat="21.027067683333335" lon="105.89911800833336">
-    <name>Green Garden</name>
-  </wpt>
-  <wpt lat="20.910750222807017" lon="105.5735290859649">
-    <name>Hồ Sinh Thái</name>
-  </wpt>
-  <wpt lat="20.9907402" lon="105.85218962">
-    <name>Chùa Nga My</name>
-  </wpt>
-  <wpt lat="21.109164051578947" lon="105.87074564947368">
-    <name>Hồ nước</name>
-  </wpt>
-  <wpt lat="21.0376875122449" lon="105.82934932653062">
-    <name>Ngoc Ha Lake</name>
-  </wpt>
-  <wpt lat="20.814478428571427" lon="105.64687408571427">
-    <name>Mieu Mon Temple</name>
-  </wpt>
-  <wpt lat="21.027976155555557" lon="105.84940896666666">
-    <name>Hanoi Archbishop’s Residence</name>
-  </wpt>
-  <wpt lat="21.035279824" lon="105.83626734">
-    <name>Bai Say Garden</name>
-  </wpt>
-  <wpt lat="21.0086427125" lon="105.8034790375">
-    <name>Phuc Thanh Garden</name>
-  </wpt>
-  <wpt lat="20.835822095" lon="105.671019535">
-    <name>Chùa Hoàn Phúc</name>
-  </wpt>
-  <wpt lat="21.004523293548385" lon="105.93238092580644">
-    <name>Hồ Hi Vọng</name>
-  </wpt>
-  <wpt lat="21.00773536666667" lon="105.94643524444444">
-    <name>Vườn Lam Viên</name>
-  </wpt>
-  <wpt lat="20.77217874285714" lon="105.67978027142858">
-    <name>Chùa Quýt</name>
-  </wpt>
-  <wpt lat="20.98631118571428" lon="105.85092224285712">
-    <name>Công viên Hoàng Văn Thụ</name>
-  </wpt>
-  <wpt lat="21.037205367741937" lon="105.93274113225806">
-    <name>Hồ Nhất Đẳng</name>
-  </wpt>
-  <wpt lat="20.97232946" lon="105.87870977999998">
-    <name>Công viên nội bộ</name>
-  </wpt>
-  <wpt lat="21.0272598" lon="105.82650381666669">
-    <name>Hao Nam Temple</name>
-  </wpt>
-  <wpt lat="21.03229001818182" lon="105.80114030909093">
-    <name>Hồ Quận uỷ</name>
-  </wpt>
-  <wpt lat="21.048535966666662" lon="105.88531773333334">
-    <name>Công viên Gia Thuỵ</name>
-  </wpt>
-  <wpt lat="20.72217437692308" lon="105.7626036846154">
-    <name>Trúc Lâm Tự</name>
-  </wpt>
-  <wpt lat="20.97250249444444" lon="105.76245442777775">
-    <name>Hồ Văn Khê</name>
-  </wpt>
-  <wpt lat="20.99562366875" lon="105.91671119583334">
-    <name>Ao Ông Hiền</name>
-  </wpt>
-  <wpt lat="20.993494014285712" lon="105.79401307142858">
-    <name>Vườn hoa Biệt thự Quốc Hội</name>
-  </wpt>
-  <wpt lat="21.04491396923077" lon="105.6977046">
-    <name>Ao Đình</name>
-  </wpt>
-  <wpt lat="21.077996906060605" lon="105.77403093030304">
-    <name>Ao cầu Vòng</name>
-  </wpt>
-  <wpt lat="21.065463616666666" lon="105.78233369166666">
-    <name>Công viên OCT1</name>
-  </wpt>
-  <wpt lat="20.783590955555553" lon="105.8278124888889">
-    <name>Ao Phục Viên</name>
-  </wpt>
-  <wpt lat="21.01264022" lon="105.79526874">
-    <name>Trung Kinh Hạ Playgroung</name>
-  </wpt>
-  <wpt lat="21.01766238571429" lon="105.82833552857144">
-    <name>Chùa Nam Đồng</name>
-  </wpt>
-  <wpt lat="21.032776913636365" lon="105.91318657727274">
-    <name>Ao Sài Đồng</name>
-  </wpt>
-  <wpt lat="20.7349488" lon="105.70387846666664">
-    <name>Đình làng Thượng</name>
-  </wpt>
-  <wpt lat="20.947777114285714" lon="105.87075717142856">
-    <name>Yen My Pagoda</name>
-  </wpt>
-  <wpt lat="21.06228657826087" lon="105.8262969826087">
-    <name>Ao Đình Tây Hồ</name>
-  </wpt>
-  <wpt lat="21.023863233333337" lon="105.85771175">
-    <name>Music Garden</name>
-  </wpt>
-  <wpt lat="20.98034007777778" lon="105.80064674444444">
-    <name>Ao Chùa</name>
-  </wpt>
-  <wpt lat="21.09224688" lon="105.90607152">
-    <name>Công viên Xuân Dục</name>
-  </wpt>
-  <wpt lat="20.802555413333337" lon="105.86113905333332">
-    <name>Ao cá nhà Truyền thống</name>
-  </wpt>
-  <wpt lat="21.01747281428571" lon="105.77926812142856">
-    <name>Sân Cây Đề</name>
-  </wpt>
-  <wpt lat="21.010617357894738" lon="105.83815654736844">
-    <name>Đền Kim Liên</name>
-  </wpt>
-  <wpt lat="21.00688656" lon="105.94568188">
-    <name>Vườn An Viên</name>
-  </wpt>
-  <wpt lat="20.99243038" lon="105.81692146">
-    <name>Ao cá đình Khương Hạ</name>
-  </wpt>
-  <wpt lat="20.75350155882353" lon="105.69727940588234">
-    <name>Chùa Nghinh Phúc</name>
-  </wpt>
-  <wpt lat="21.010263575" lon="105.7632972375">
-    <name>Hồ Phú Đô</name>
-  </wpt>
-  <wpt lat="21.009414765217393" lon="105.7743813347826">
-    <name>The Matrix One Private Park</name>
-  </wpt>
-  <wpt lat="20.964756892307687" lon="105.85041355384617">
-    <name>Bamboo Garden</name>
-  </wpt>
-  <wpt lat="21.0409553" lon="105.81915729375">
-    <name>Chùa Vĩnh Khánh</name>
-  </wpt>
-  <wpt lat="20.988867644444444" lon="105.9368110777778">
-    <name>Sân chơi thiếu nhi xã Đa Tốn</name>
-  </wpt>
-  <wpt lat="21.013458691666667" lon="105.86062623333332">
-    <name>Yersin Garden</name>
-  </wpt>
-  <wpt lat="21.045757420833333" lon="105.80736292916669">
-    <name>Chùa Cống Yên</name>
-  </wpt>
-  <wpt lat="20.82559858" lon="105.66762104">
-    <name>Chùa thôn Dương Kệ</name>
-  </wpt>
-  <wpt lat="20.97895325" lon="105.78221754999998">
-    <name>Ao xóm đông</name>
-  </wpt>
-  <wpt lat="20.94692546" lon="105.86898314">
-    <name>Ao đình</name>
-  </wpt>
-  <wpt lat="20.99281226" lon="105.80763514">
-    <name>Sân chơi tòa nhà Huy Hoàng</name>
-  </wpt>
-  <wpt lat="21.042940071428575" lon="105.79296134285714">
-    <name>Vườn hoa Nghĩa Tân</name>
-  </wpt>
-  <wpt lat="21.01146119" lon="105.81216974">
-    <name>Đình Ứng Thiên</name>
-  </wpt>
-  <wpt lat="21.127187325" lon="105.6810700125">
-    <name>Đình Tiên Tân</name>
-  </wpt>
-  <wpt lat="21.025296288" lon="105.859409108">
-    <name>Vườn hoa Bác Cổ</name>
-  </wpt>
-  <wpt lat="21.01525102" lon="105.90547426">
-    <name>Đền làng Ngô</name>
-  </wpt>
-  <wpt lat="20.997954505000003" lon="105.730513305">
-    <name>Hồ Tâm Linh</name>
-  </wpt>
-  <wpt lat="21.0214688625" lon="105.85776813125">
-    <name>Vườn hoa Tao Đàn</name>
-  </wpt>
-  <wpt lat="21.008118366666665" lon="105.83922872222222">
-    <name>Vườn hoa Kim Liên</name>
-  </wpt>
-  <wpt lat="20.98528882" lon="105.86306232">
-    <name>Đền Lư Giang</name>
-  </wpt>
-  <wpt lat="21.009056294117645" lon="105.83823912352942">
-    <name>Vườn hoa Đào Duy Anh</name>
-  </wpt>
-  <wpt lat="21.032077066666663" lon="105.7934166888889">
-    <name>Ao Tháp</name>
-  </wpt>
-  <wpt lat="20.948238328571428" lon="105.87103082857142">
-    <name>Vườn Bách Thảo</name>
-  </wpt>
-  <wpt lat="20.94422395555555" lon="105.85361495555556">
-    <name>Đình Chung</name>
-  </wpt>
-  <wpt lat="21.03530055625" lon="105.74975409375">
-    <name>Ao Thị Cấm</name>
-  </wpt>
-  <wpt lat="21.01088914" lon="105.77986326">
-    <name>Ao Dài</name>
-  </wpt>
-  <wpt lat="21.036394460000004" lon="105.72966284000002">
-    <name>Van Canh War Soldier Memorial</name>
-  </wpt>
-  <wpt lat="21.032683966666667" lon="105.83319075833332">
-    <name>Le Truc Green Space</name>
-  </wpt>
-  <wpt lat="21.01080045" lon="105.84998434166668">
-    <name>Vườn hoa Đàn Nam</name>
-  </wpt>
-  <wpt lat="21.03072175652174" lon="105.85238798260872">
-    <name>Jade Island</name>
-  </wpt>
-  <wpt lat="20.937445479999997" lon="105.9074314">
-    <name>Nghĩa trang Họ Phạm</name>
-  </wpt>
-  <wpt lat="21.03447582" lon="105.7295547">
-    <name>Bi Temple Pond</name>
-  </wpt>
-  <wpt lat="21.043320878571425" lon="105.82528165714284">
-    <name>Vườn hoa Nguyễn Đình Thi</name>
-  </wpt>
-  <wpt lat="20.72875022" lon="105.72518608">
-    <name>Đình làng Đức Thụ</name>
-  </wpt>
-  <wpt lat="20.99067782" lon="105.85255216">
-    <name>Đình Hoàng Mai</name>
-  </wpt>
-  <wpt lat="21.09035276" lon="105.92253639999998">
-    <name>Vườn hoa Thị trấn Yên Viên</name>
-  </wpt>
-  <wpt lat="20.97858252" lon="105.78228738">
-    <name>Công viên tổ 9 Mỗ Lao</name>
-  </wpt>
-  <wpt lat="21.03827682222222" lon="105.7286843111111">
-    <name>Hau Ai Village Pond</name>
-  </wpt>
-  <wpt lat="20.813274" lon="105.70793168">
-    <name>Phuc Lam Village Temple</name>
-  </wpt>
-  <wpt lat="21.030035866666665" lon="105.94537242222222">
-    <name>Ao Biến Thế</name>
-  </wpt>
-  <wpt lat="21.13824318" lon="105.50357824">
-    <name>Giếng Ngọc</name>
-  </wpt>
-  <wpt lat="21.04435799285714" lon="105.8043534">
-    <name>Ao Cầu</name>
-  </wpt>
-  <wpt lat="20.7223213" lon="105.76231995">
-    <name>Đình Thượng</name>
-  </wpt>
-  <wpt lat="20.97427946923077" lon="105.74467942307692">
-    <name>Bể bơi Dương Nội</name>
-  </wpt>
-  <wpt lat="21.010100987500003" lon="105.76716343125">
-    <name>Ao Phú Đô</name>
-  </wpt>
-  <wpt lat="20.730294782352946" lon="105.70618987058822">
-    <name>Chùa thôn Cống Trung</name>
-  </wpt>
-  <wpt lat="21.06917576" lon="105.81198795999998">
-    <name>Vườn hoa Lạc Long Quân</name>
-  </wpt>
-  <wpt lat="21.019666045454542" lon="105.83368047272724">
-    <name>Chùa Linh Ứng</name>
-  </wpt>
-  <wpt lat="20.951429742857147" lon="105.71282102857144">
-    <name>Đình Phượng Nghĩa</name>
-  </wpt>
-  <wpt lat="21.004233" lon="105.809557075">
-    <name>Đình Quan Nhân</name>
-  </wpt>
-  <wpt lat="21.02662875" lon="105.850316725">
-    <name>Tay Son Park</name>
-  </wpt>
-  <wpt lat="21.0260725" lon="105.89278364">
-    <name>Vườn hoa Trạm</name>
-  </wpt>
-  <wpt lat="21.0957093" lon="105.91619178">
-    <name>Vườn hoa Nông dân</name>
-  </wpt>
-  <wpt lat="21.03396987142857" lon="105.8456958285714">
-    <name>Vườn hoa Phùng Hưng</name>
-  </wpt>
-  <wpt lat="21.02248057777778" lon="105.80628118888887">
-    <name>ASEAN Square</name>
-  </wpt>
-  <wpt lat="21.02622697857143" lon="105.84538764285716">
-    <name>Quan Su Park</name>
-  </wpt>
-  <wpt lat="20.98741186666667" lon="105.84238398888888">
-    <name>Ao Nhà Thờ Làng Tám</name>
-  </wpt>
-  <wpt lat="20.738332716666665" lon="105.71679753333332">
-    <name>Đình thôn Áng Hạ</name>
-  </wpt>
-  <wpt lat="21.012145309090908" lon="105.8382313">
-    <name>Đình làng Trung Tự</name>
-  </wpt>
-  <wpt lat="20.730062454545457" lon="105.70607111818184">
-    <name>Đình thôn Cống Trung</name>
-  </wpt>
-  <wpt lat="21.01843685625" lon="105.858605975">
-    <name>Vườn hoa Tăng Bạt Hổ</name>
-  </wpt>
-  <wpt lat="20.8148744375" lon="105.7087281">
-    <name>Tu đoàn Truyền Tin</name>
-  </wpt>
-  <wpt lat="21.06372792222222" lon="105.70358664999998">
-    <name>Giếng Quán</name>
-  </wpt>
-  <wpt lat="21.028128063636363" lon="105.84327540909092">
-    <name>Vườn hoa Cửa Nam</name>
-  </wpt>
-  <wpt lat="21.053017757142857" lon="105.90004056190476">
-    <name>Giếng cổ</name>
-  </wpt>
-  <wpt lat="21.034745983333337" lon="105.7396775">
-    <name>1</name>
-  </wpt>
-  <wpt lat="21.03465144444444" lon="105.93991535555556">
-    <name>Ao đình Vàng</name>
-  </wpt>
-  <wpt lat="20.98170335714286" lon="105.91344519999998">
-    <name>Miếu Bản</name>
-  </wpt>
-  <wpt lat="21.120536320000003" lon="105.84719392000002">
-    <name>Bao Quyen farm</name>
-  </wpt>
-  <wpt lat="20.99398038" lon="105.87669098">
-    <name>Vườn hoa Vĩnh Hưng</name>
-  </wpt>
-  <wpt lat="21.0441231" lon="105.7855970076923">
-    <name>Vườn hoa Đặng Thuỳ Trâm</name>
-  </wpt>
-  <wpt lat="20.96208212608696" lon="105.80191912608694">
-    <name>Sân betong bóng rổ + đá bóng mini</name>
-  </wpt>
-  <wpt lat="21.09598734" lon="105.9213172">
-    <name>Khu vui chơi</name>
-  </wpt>
-  <wpt lat="21.07672406" lon="105.79930242">
-    <name>Pomelo Park</name>
-  </wpt>
-  <wpt lat="20.802056157142857" lon="105.86116747142856">
-    <name>Ao sen nhà Truyền Thống</name>
-  </wpt>
-  <wpt lat="21.01052339" lon="105.8529839">
-    <name>Chùa Vua</name>
-  </wpt>
-  <wpt lat="21.038667566666668" lon="105.83948672857144">
-    <name>Vườn hoa Hoàng Văn Thụ</name>
-  </wpt>
-  <wpt lat="20.961771411999997" lon="105.82171019600004">
-    <name>Ao Đình Bằng A</name>
-  </wpt>
-  <wpt lat="21.028781666666667" lon="105.83596537333332">
-    <name>Thien Quang Lake</name>
-  </wpt>
-  <wpt lat="21.09808728181818" lon="105.9235372363636">
-    <name>Vườn đình Lã Côi</name>
-  </wpt>
-  <wpt lat="20.9794164" lon="105.74192064">
-    <name>Bể bơi</name>
-  </wpt>
-  <wpt lat="21.05618262" lon="105.86936224000002">
-    <name>nhà văn hóa tổ 16</name>
-  </wpt>
-  <wpt lat="20.9084715" lon="105.89278546">
-    <name>Đền mẫu Đại Lộ</name>
-  </wpt>
-  <wpt lat="21.0655586" lon="105.77924774">
-    <name>Vien Village Communal Temple</name>
-  </wpt>
-  <wpt lat="21.063796433333337" lon="105.78846023333334">
-    <name>Friendship Garden</name>
-  </wpt>
-  <wpt lat="20.807004645" lon="105.8513902">
-    <name>Giếng đình thôn Nghiêm Xá</name>
-  </wpt>
-  <wpt lat="21.02476868" lon="105.36942378">
-    <name>Huong Canh Water Supply Station</name>
-  </wpt>
-  <wpt lat="21.0777915" lon="105.79657029999998">
-    <name>Pineapple Park</name>
-  </wpt>
-  <wpt lat="21.03073297692308" lon="105.85236515384614">
-    <name>Ngoc Son Temple</name>
-  </wpt>
-  <wpt lat="21.05372853529412" lon="105.90011841176472">
-    <name>Đại Đình</name>
-  </wpt>
-  <wpt lat="21.06865776" lon="105.76232711999998">
-    <name>Vườn nhà ai đó - Mạnh</name>
-  </wpt>
-  <wpt lat="20.77235416" lon="105.83007381500002">
-    <name>Giếng làng Trung Lập</name>
-  </wpt>
-  <wpt lat="21.01997948888889" lon="105.83454152222222">
-    <name>Đình, đền Trung Tả</name>
-  </wpt>
-  <wpt lat="21.029242185714285" lon="105.85673135714286">
-    <name>Vườn hoa Hàng Vôi</name>
-  </wpt>
-  <wpt lat="21.01298385" lon="105.82383722000002">
-    <name>Đền thờ Quang Trung</name>
-  </wpt>
-  <wpt lat="20.90605284" lon="105.89258206">
-    <name>Dam Temple</name>
-  </wpt>
-  <wpt lat="21.01085072" lon="105.8142003">
-    <name>Sân chơi khu tập thể B8</name>
-  </wpt>
-  <wpt lat="20.9980949" lon="105.57285133333336">
-    <name>Nhà thờ họ Phí Trúc Động</name>
-  </wpt>
-  <wpt lat="21.04081067" lon="105.84943779">
-    <name>Chùa Phúc Lâm</name>
-  </wpt>
-  <wpt lat="21.0105393" lon="105.85685422000002">
-    <name>Chùa Thọ Lão</name>
-  </wpt>
-  <wpt lat="21.03136306" lon="105.82899292">
-    <name>Lăng Phùng Hưng</name>
-  </wpt>
-  <wpt lat="20.778746976923077" lon="105.6815162846154">
-    <name>Thuong Village Temple</name>
-  </wpt>
-  <wpt lat="21.010965975" lon="105.779099245">
-    <name>Ao Tròn</name>
-  </wpt>
-  <wpt lat="20.9270661375" lon="105.8862102375">
-    <name>Miếu Tranh Khúc</name>
-  </wpt>
-  <wpt lat="20.95022154" lon="105.70981372">
-    <name>Văn Quán Phượng Nghĩa</name>
-  </wpt>
-  <wpt lat="21.01072818571429" lon="105.81410099999998">
-    <name>Miếu Thôn Hạ</name>
-  </wpt>
-  <wpt lat="21.028924914285714" lon="105.83667405714284">
-    <name>Chùa Bà Nành</name>
-  </wpt>
-  <wpt lat="20.82136487777778" lon="105.68680087777778">
-    <name>Đình Yên Lạc</name>
-  </wpt>
-  <wpt lat="21.035832266666667" lon="105.8336026777778">
-    <name>Hồ Linh Chiểu</name>
-  </wpt>
-  <wpt lat="20.713744824" lon="105.737581444">
-    <name>Giếng nước Thôn Nghĩa</name>
-  </wpt>
-  <wpt lat="21.0539746" lon="105.78695726">
-    <name>Miếu Thần Gò</name>
-  </wpt>
-  <wpt lat="21.03507112222222" lon="105.93956553333334">
-    <name>Chùa Vàng</name>
-  </wpt>
-  <wpt lat="20.787152709999997" lon="105.70346019">
-    <name>Giếng giữa</name>
-  </wpt>
-  <wpt lat="20.687702688888887" lon="105.73940344444443">
-    <name>Đền tưởng niệm liệt sĩ huyện Mỹ Đức</name>
-  </wpt>
-  <wpt lat="21.041003633333336" lon="105.81925108888888">
-    <name>Chính điện</name>
-  </wpt>
-  <wpt lat="20.73420891111111" lon="105.6955508111111">
-    <name>Vinh An Village Temple</name>
-  </wpt>
-  <wpt lat="20.816503253846157" lon="105.67887247692308">
-    <name>Yen Son Village Temple</name>
-  </wpt>
-  <wpt lat="21.000185118181815" lon="105.96773113636364">
-    <name>Hồ bán nguyệt</name>
-  </wpt>
-  <wpt lat="20.9745136" lon="105.78654072">
-    <name>Ao Đình Văn Quán</name>
-  </wpt>
-  <wpt lat="21.053936366666665" lon="105.89981893333334">
-    <name>Nhà truyền thống Lệ Mật</name>
-  </wpt>
-  <wpt lat="20.8251859" lon="105.66809329999998">
-    <name>Đình Làng Dương Kệ</name>
-  </wpt>
-  <wpt lat="21.06174534" lon="105.77934642">
-    <name>Fresh Garden</name>
-  </wpt>
-  <wpt lat="20.794996977777775" lon="105.70667858888888">
-    <name>Chùa Hương Vân</name>
-  </wpt>
-  <wpt lat="21.06185014" lon="105.7796481">
-    <name>Năm Sấu Garden</name>
-  </wpt>
-  <wpt lat="20.771473011111116" lon="105.72072966666668">
-    <name>Giếng làng Trần Phú</name>
-  </wpt>
-  <wpt lat="21.034850457142856" lon="105.939691">
-    <name>Đình Vàng</name>
-  </wpt>
-  <wpt lat="21.074165362499997" lon="105.88719595">
-    <name>Điểm sinh hoạt cộng đồng Tổ dân phố số 19</name>
-  </wpt>
-  <wpt lat="21.040911511111112" lon="105.84523486666666">
-    <name>Yen Thanh Temple</name>
-  </wpt>
-  <wpt lat="21.006241354999997" lon="105.843129025">
-    <name>Đài phun nước Bách Khoa</name>
-  </wpt>
-  <wpt lat="20.779437199999997" lon="105.68352368461538">
-    <name>Đình thôn Cầu</name>
-  </wpt>
-  <wpt lat="21.08488438" lon="105.90463412">
-    <name>Đền Du Ngoại</name>
-  </wpt>
-  <wpt lat="20.9787528" lon="105.77224689999998">
-    <name>Đài phun nước</name>
-  </wpt>
-  <wpt lat="20.907805699999997" lon="105.89302644">
-    <name>Miếu Cậu Quận</name>
-  </wpt>
-  <wpt lat="20.97953144" lon="105.74199492">
-    <name>Bể bơi trẻ em</name>
-  </wpt>
-  <wpt lat="21.015547" lon="105.93737308">
-    <name>Đình Chính Trung</name>
-  </wpt>
-  <wpt lat="20.925626060000003" lon="105.88709322">
-    <name>Cung Đình</name>
+    <name>Hồ Cần - 1km - 8532m2</name>
   </wpt>
   <wpt lat="20.99148584" lon="105.85752762">
-    <name>Đình Ông</name>
+    <name>Đình Ông - 2km - 62m2</name>
   </wpt>
-  <wpt lat="21.05358756" lon="105.90015238">
-    <name>Phương Đình</name>
+  <wpt lat="21.0060598245614" lon="105.85685903157896">
+    <name>Hanoi Youth Park - 2km - 179823m2</name>
+  </wpt>
+  <wpt lat="20.98528882" lon="105.86306232">
+    <name>Đền Lư Giang - 2km - 1715m2</name>
+  </wpt>
+  <wpt lat="20.9844385125" lon="105.86806438333332">
+    <name>Công viên KĐT Vĩnh Hoàng - 2km - 50772m2</name>
+  </wpt>
+  <wpt lat="20.99067782" lon="105.85255216">
+    <name>Đình Hoàng Mai - 2km - 1485m2</name>
+  </wpt>
+  <wpt lat="20.9907402" lon="105.85218962">
+    <name>Chùa Nga My - 2km - 3225m2</name>
+  </wpt>
+  <wpt lat="20.984736154545455" lon="105.8558298090909">
+    <name>Công viên Đền Lừ - 3km - 88302m2</name>
+  </wpt>
+  <wpt lat="20.98490872072072" lon="105.85569848108108">
+    <name>Den Lu Lake - 3km - 40723m2</name>
+  </wpt>
+  <wpt lat="20.994909485714288" lon="105.87703308571427">
+    <name>Hồ Sơn - 3km - 19974m2</name>
+  </wpt>
+  <wpt lat="20.9847155125" lon="105.867784725">
+    <name>Hồ Vĩnh Hoàng - 3km - 23562m2</name>
+  </wpt>
+  <wpt lat="20.99398038" lon="105.87669098">
+    <name>Vườn hoa Vĩnh Hưng - 3km - 734m2</name>
+  </wpt>
+  <wpt lat="20.996086038983048" lon="105.88823245762713">
+    <name>Hồ Thanh Trì - 3km - 44314m2</name>
+  </wpt>
+  <wpt lat="21.013458691666667" lon="105.86062623333332">
+    <name>Yersin Garden - 3km - 1998m2</name>
+  </wpt>
+  <wpt lat="20.98631118571428" lon="105.85092224285712">
+    <name>Công viên Hoàng Văn Thụ - 3km - 2883m2</name>
+  </wpt>
+  <wpt lat="21.01403798" lon="105.85946966">
+    <name>Pasteur Garden - 3km - 7844m2</name>
+  </wpt>
+  <wpt lat="21.0105393" lon="105.85685422000002">
+    <name>Chùa Thọ Lão - 3km - 380m2</name>
+  </wpt>
+  <wpt lat="21.012165717647058" lon="105.8563115235294">
+    <name>Hai Bà Trưng Lake - 3km - 9246m2</name>
+  </wpt>
+  <wpt lat="21.01052339" lon="105.8529839">
+    <name>Chùa Vua - 3km - 693m2</name>
+  </wpt>
+  <wpt lat="20.961350797619048" lon="105.8556463904762">
+    <name>Yen So Park - 3km - 1402809m2</name>
+  </wpt>
+  <wpt lat="21.01080045" lon="105.84998434166668">
+    <name>Vườn hoa Đàn Nam - 3km - 1562m2</name>
+  </wpt>
+  <wpt lat="21.01843685625" lon="105.858605975">
+    <name>Vườn hoa Tăng Bạt Hổ - 3km - 903m2</name>
+  </wpt>
+  <wpt lat="21.00410438076923" lon="105.84334960000002">
+    <name>Hồ Tiền - 4km - 4677m2</name>
+  </wpt>
+  <wpt lat="20.99949598" lon="105.8443164">
+    <name>Vườn hoa Đại học Kinh tế Quốc dân - 4km - 3613m2</name>
+  </wpt>
+  <wpt lat="21.006241354999997" lon="105.843129025">
+    <name>Đài phun nước Bách Khoa - 4km - 174m2</name>
+  </wpt>
+  <wpt lat="21.01184174125" lon="105.84446088875">
+    <name>Thong Nhat Park - 4km - 450295m2</name>
+  </wpt>
+  <wpt lat="21.0214688625" lon="105.85776813125">
+    <name>Vườn hoa Tao Đàn - 4km - 1724m2</name>
+  </wpt>
+  <wpt lat="20.98741186666667" lon="105.84238398888888">
+    <name>Ao Nhà Thờ Làng Tám - 4km - 986m2</name>
+  </wpt>
+  <wpt lat="21.023438357142854" lon="105.8570443904762">
+    <name>August 19 Garden - 4km - 3476m2</name>
+  </wpt>
+  <wpt lat="21.025296288" lon="105.859409108">
+    <name>Vườn hoa Bác Cổ - 4km - 1745m2</name>
+  </wpt>
+  <wpt lat="21.008118366666665" lon="105.83922872222222">
+    <name>Vườn hoa Kim Liên - 4km - 1723m2</name>
+  </wpt>
+  <wpt lat="21.023863233333337" lon="105.85771175">
+    <name>Music Garden - 4km - 2292m2</name>
+  </wpt>
+  <wpt lat="21.02498673" lon="105.857795165">
+    <name>Co Tan Park - 4km - 3462m2</name>
+  </wpt>
+  <wpt lat="20.99400426470588" lon="105.83563253235292">
+    <name>Hồ Rùa - 4km - 33196m2</name>
+  </wpt>
+  <wpt lat="21.009056294117645" lon="105.83823912352942">
+    <name>Vườn hoa Đào Duy Anh - 4km - 1708m2</name>
+  </wpt>
+  <wpt lat="21.012825010000004" lon="105.84011075333336">
+    <name>Công viên Ba Mẫu - 4km - 55865m2</name>
+  </wpt>
+  <wpt lat="20.99937945" lon="105.8300073">
+    <name>Hồ Không Lực - 4km - 7840m2</name>
+  </wpt>
+  <wpt lat="21.0054849" lon="105.8371993236842">
+    <name>Hồ Kim Liên - 4km - 19032m2</name>
+  </wpt>
+  <wpt lat="20.973618277777778" lon="105.87888612222224">
+    <name>Công viên - 4km - 25801m2</name>
+  </wpt>
+  <wpt lat="21.02648841028037" lon="105.85599163364483">
+    <name>Dien Hong Park - 4km - 4474m2</name>
+  </wpt>
+  <wpt lat="21.010617357894738" lon="105.83815654736844">
+    <name>Đền Kim Liên - 4km - 2170m2</name>
+  </wpt>
+  <wpt lat="21.02446979642857" lon="105.85002679642857">
+    <name>Dòng Thánh Phao lô Hà Nội - 4km - 5153m2</name>
+  </wpt>
+  <wpt lat="21.001277257894735" lon="105.82996208421052">
+    <name>Hồ Hố Mẻ - 4km - 9643m2</name>
+  </wpt>
+  <wpt lat="21.02749301578947" lon="105.85477693157895">
+    <name>Ly Thai To Park - 4km - 12420m2</name>
+  </wpt>
+  <wpt lat="20.97232946" lon="105.87870977999998">
+    <name>Công viên nội bộ - 5km - 2864m2</name>
+  </wpt>
+  <wpt lat="21.029242185714285" lon="105.85673135714286">
+    <name>Vườn hoa Hàng Vôi - 5km - 428m2</name>
+  </wpt>
+  <wpt lat="21.012145309090908" lon="105.8382313">
+    <name>Đình làng Trung Tự - 5km - 922m2</name>
+  </wpt>
+  <wpt lat="21.02662875" lon="105.850316725">
+    <name>Tay Son Park - 5km - 1141m2</name>
+  </wpt>
+  <wpt lat="20.971733328571425" lon="105.8772595857143">
+    <name>Khu vui chơi trẻ em - 5km - 9267m2</name>
+  </wpt>
+  <wpt lat="21.02622697857143" lon="105.84538764285716">
+    <name>Quan Su Park - 5km - 1003m2</name>
+  </wpt>
+  <wpt lat="21.02730482222222" lon="105.84955623333332">
+    <name>Hang Trong Garden - 5km - 5993m2</name>
+  </wpt>
+  <wpt lat="21.027976155555557" lon="105.84940896666666">
+    <name>Hanoi Archbishop’s Residence - 5km - 3109m2</name>
+  </wpt>
+  <wpt lat="20.987003609090912" lon="105.83157776363636">
+    <name>Vườn hoa Định Công - 5km - 12698m2</name>
+  </wpt>
+  <wpt lat="21.010257322222223" lon="105.83333181111112">
+    <name>Công viên Con Voi - 5km - 3358m2</name>
+  </wpt>
+  <wpt lat="21.02764808" lon="105.84851568000002">
+    <name>St Joseph Major Seminary Hanoi - 5km - 6448m2</name>
+  </wpt>
+  <wpt lat="21.03072175652174" lon="105.85238798260872">
+    <name>Jade Island - 5km - 1560m2</name>
+  </wpt>
+  <wpt lat="21.03073297692308" lon="105.85236515384614">
+    <name>Ngoc Son Temple - 5km - 516m2</name>
+  </wpt>
+  <wpt lat="21.003898055555553" lon="105.82447006666666">
+    <name>Ao Khương Thượng - 5km - 4331m2</name>
+  </wpt>
+  <wpt lat="21.008498681818185" lon="105.82762326818182">
+    <name>Chùa Bộc - 5km - 8386m2</name>
+  </wpt>
+  <wpt lat="21.028128063636363" lon="105.84327540909092">
+    <name>Vườn hoa Cửa Nam - 5km - 800m2</name>
+  </wpt>
+  <wpt lat="21.013108761538465" lon="105.83101732692307">
+    <name>Xa Dan Lake - 5km - 42552m2</name>
+  </wpt>
+  <wpt lat="21.00776881538462" lon="105.82405473846153">
+    <name>Vườn hoa Thuỷ lợi - 5km - 11788m2</name>
+  </wpt>
+  <wpt lat="21.019666045454542" lon="105.83368047272724">
+    <name>Chùa Linh Ứng - 6km - 1230m2</name>
+  </wpt>
+  <wpt lat="21.01997948888889" lon="105.83454152222222">
+    <name>Đình, đền Trung Tả - 6km - 441m2</name>
+  </wpt>
+  <wpt lat="21.051934960000004" lon="105.75636912">
+    <name>Chùa Bụt Mọc - 6km - 10204m2</name>
+  </wpt>
+  <wpt lat="21.03176421153846" lon="105.83940629615384">
+    <name>Lenin Park - 6km - 17864m2</name>
+  </wpt>
+  <wpt lat="21.010072763333337" lon="105.82513516333334">
+    <name>Vườn hoa Công đoàn - 6km - 3963m2</name>
+  </wpt>
+  <wpt lat="20.97764831923077" lon="105.83002267564102">
+    <name>Hồ Định Công - 6km - 174138m2</name>
+  </wpt>
+  <wpt lat="21.021638297058825" lon="105.83349564705884">
+    <name>Hồ Văn Chương - 6km - 13186m2</name>
+  </wpt>
+  <wpt lat="20.96988071666667" lon="105.83095115833332">
+    <name>Đại Từ - 6km - 6805m2</name>
+  </wpt>
+  <wpt lat="21.03396987142857" lon="105.8456958285714">
+    <name>Vườn hoa Phùng Hưng - 6km - 1038m2</name>
+  </wpt>
+  <wpt lat="21.01766238571429" lon="105.82833552857144">
+    <name>Chùa Nam Đồng - 6km - 2435m2</name>
+  </wpt>
+  <wpt lat="21.01199065263158" lon="105.82463273157896">
+    <name>Gò Đống Đa - 6km - 21848m2</name>
+  </wpt>
+  <wpt lat="21.028924914285714" lon="105.83667405714284">
+    <name>Chùa Bà Nành - 6km - 302m2</name>
+  </wpt>
+  <wpt lat="21.01298385" lon="105.82383722000002">
+    <name>Đền thờ Quang Trung - 6km - 424m2</name>
+  </wpt>
+  <wpt lat="21.01643862" lon="105.82717712000002">
+    <name>Vườn hoa 1-6 - 6km - 10005m2</name>
+  </wpt>
+  <wpt lat="21.04081067" lon="105.84943779">
+    <name>Chùa Phúc Lâm - 6km - 384m2</name>
   </wpt>
   <wpt lat="21.037522019999997" lon="105.84701174">
-    <name>Chùa Pháp Bảo Tạng</name>
+    <name>Chùa Pháp Bảo Tạng - 6km - 56m2</name>
   </wpt>
-  <wpt lat="21.0532834" lon="105.90010964">
-    <name>Tảo Mạc</name>
+  <wpt lat="21.03518857948718" lon="105.83783932307692">
+    <name>Vườn hoa Kính Thiên - 6km - 12494m2</name>
   </wpt>
-  <wpt lat="21.053605119999997" lon="105.9002577">
-    <name>Tả Vu</name>
+  <wpt lat="21.028997957142856" lon="105.83599213142855">
+    <name>Temple of Literature - 6km - 23477m2</name>
   </wpt>
-  <wpt lat="21.053559333333332" lon="105.9000397">
-    <name>Hữu Vu</name>
+  <wpt lat="21.026684042307693" lon="105.8352398307692">
+    <name>Văn Lake - 6km - 11805m2</name>
+  </wpt>
+  <wpt lat="21.01415045882353" lon="105.82464777058824">
+    <name>Vườn hoa Trần Quang Diệu - 6km - 8603m2</name>
+  </wpt>
+  <wpt lat="21.035279824" lon="105.83626734">
+    <name>Bai Say Garden - 6km - 3076m2</name>
+  </wpt>
+  <wpt lat="21.028781666666667" lon="105.83596537333332">
+    <name>Thien Quang Lake - 6km - 678m2</name>
+  </wpt>
+  <wpt lat="21.040095800000003" lon="105.8464381375">
+    <name>Van Xuan Garden - 6km - 6831m2</name>
+  </wpt>
+  <wpt lat="21.03729429756098" lon="105.83846042926828">
+    <name>Archeological site of Thang Long Imperial Citadel - 6km - 50012m2</name>
+  </wpt>
+  <wpt lat="21.02884372142857" lon="105.83543411428572">
+    <name>Giam Garden - 6km - 14004m2</name>
+  </wpt>
+  <wpt lat="20.965343944444445" lon="105.83544499444444">
+    <name>Công viên Linh Đàm - 6km - 67650m2</name>
+  </wpt>
+  <wpt lat="21.02286652857143" lon="105.82488327142858">
+    <name>Chùa Thanh Nhàn - 6km - 5328m2</name>
+  </wpt>
+  <wpt lat="21.032683966666667" lon="105.83319075833332">
+    <name>Le Truc Green Space - 6km - 1568m2</name>
+  </wpt>
+  <wpt lat="20.99243038" lon="105.81692146">
+    <name>Ao cá đình Khương Hạ - 6km - 2168m2</name>
+  </wpt>
+  <wpt lat="21.017389011650483" lon="105.82053914271845">
+    <name>Dong Da Lake - 6km - 132195m2</name>
+  </wpt>
+  <wpt lat="21.038667566666668" lon="105.83948672857144">
+    <name>Vườn hoa Hoàng Văn Thụ - 7km - 685m2</name>
+  </wpt>
+  <wpt lat="21.040911511111112" lon="105.84523486666666">
+    <name>Yen Thanh Temple - 7km - 184m2</name>
+  </wpt>
+  <wpt lat="21.00283931" lon="105.81142423">
+    <name>Thủy đình Nhân Chính - 7km - 5365m2</name>
+  </wpt>
+  <wpt lat="21.01072818571429" lon="105.81410099999998">
+    <name>Miếu Thôn Hạ - 7km - 308m2</name>
+  </wpt>
+  <wpt lat="21.035741329629634" lon="105.83353665555556">
+    <name>Diện tích Chùa Một Cột - 7km - 4489m2</name>
+  </wpt>
+  <wpt lat="21.01085072" lon="105.8142003">
+    <name>Sân chơi khu tập thể B8 - 7km - 401m2</name>
+  </wpt>
+  <wpt lat="20.967163396153847" lon="105.82774067692309">
+    <name>Công viên Bắc Linh Đàm - 7km - 38574m2</name>
+  </wpt>
+  <wpt lat="21.035832266666667" lon="105.8336026777778">
+    <name>Hồ Linh Chiểu - 7km - 277m2</name>
   </wpt>
   <wpt lat="21.0358513" lon="105.8336088375">
-    <name>One Pillar Pagoda</name>
+    <name>One Pillar Pagoda - 7km - 27m2</name>
   </wpt>
-  <wpt lat="21.0530809" lon="105.89985856">
-    <name>Miếu Công chúa</name>
+  <wpt lat="21.016813483333333" lon="105.821118475">
+    <name>Vườn hoa Hoàng Cầu - 7km - 7650m2</name>
   </wpt>
-  <wpt lat="21.06117736" lon="105.89470564">
-    <name>Nhà bia</name>
+  <wpt lat="21.01146119" lon="105.81216974">
+    <name>Đình Ứng Thiên - 7km - 1786m2</name>
+  </wpt>
+  <wpt lat="20.984688645454547" lon="105.81856894999996">
+    <name>Hồ Khương Đình - 7km - 4905m2</name>
+  </wpt>
+  <wpt lat="21.038204846067416" lon="105.83391691910111">
+    <name>Presidential Palace Historical Site - 7km - 141474m2</name>
+  </wpt>
+  <wpt lat="21.004233" lon="105.809557075">
+    <name>Đình Quan Nhân - 7km - 1197m2</name>
+  </wpt>
+  <wpt lat="21.03136306" lon="105.82899292">
+    <name>Lăng Phùng Hưng - 7km - 354m2</name>
+  </wpt>
+  <wpt lat="21.03795457884615" lon="105.83340114038462">
+    <name>Fish pond - 7km - 3972m2</name>
+  </wpt>
+  <wpt lat="20.9505512" lon="105.87678625714288">
+    <name>Ao dài - 7km - 4543m2</name>
+  </wpt>
+  <wpt lat="20.955680799999996" lon="105.85432570909092">
+    <name>Culture Village at Yen So Park - 7km - 10041m2</name>
+  </wpt>
+  <wpt lat="20.950466218181816" lon="105.87443817272728">
+    <name>Hồ câu Yên Mỹ - 7km - 25193m2</name>
+  </wpt>
+  <wpt lat="20.9558305" lon="105.85349786000002">
+    <name>Yen So Lake - 7km - 6316m2</name>
+  </wpt>
+  <wpt lat="20.949385410526315" lon="105.87799221052632">
+    <name>Ao đầu làng - 7km - 18840m2</name>
+  </wpt>
+  <wpt lat="21.03157523333333" lon="105.82629024">
+    <name>Chùa Kim Sơn - 7km - 5525m2</name>
+  </wpt>
+  <wpt lat="21.018831090000003" lon="105.81391622333334">
+    <name>Indira Gandhi Park - 7km - 86226m2</name>
+  </wpt>
+  <wpt lat="21.035589725" lon="105.8286356">
+    <name>Hồ Đầm Tròn - 7km - 10031m2</name>
+  </wpt>
+  <wpt lat="21.0272598" lon="105.82650381666669">
+    <name>Hao Nam Temple - 7km - 2860m2</name>
+  </wpt>
+  <wpt lat="20.99281226" lon="105.80763514">
+    <name>Sân chơi tòa nhà Huy Hoàng - 7km - 1797m2</name>
+  </wpt>
+  <wpt lat="20.96375815" lon="105.82851793571427">
+    <name>Công viên Bán đảo Linh Đàm - 7km - 40801m2</name>
+  </wpt>
+  <wpt lat="21.03575901818182" lon="105.82656968787876">
+    <name>Hồ Bảy Gian - 7km - 7471m2</name>
+  </wpt>
+  <wpt lat="20.94693412272727" lon="105.87547724090906">
+    <name>Ao - 7km - 22001m2</name>
+  </wpt>
+  <wpt lat="21.0376875122449" lon="105.82934932653062">
+    <name>Ngoc Ha Lake - 7km - 3158m2</name>
+  </wpt>
+  <wpt lat="21.043050213333338" lon="105.83646122666669">
+    <name>Quan Thanh Temple - 7km - 3521m2</name>
+  </wpt>
+  <wpt lat="20.99557996" lon="105.80497102">
+    <name>Sân chơi GoldSeason - 7km - 4756m2</name>
+  </wpt>
+  <wpt lat="20.98661112352941" lon="105.81797539999998">
+    <name>Đầm Chuối - 7km - 26247m2</name>
+  </wpt>
+  <wpt lat="21.029138951851852" lon="105.82023352592591">
+    <name>Vườn hoa hồ Giảng Võ - 7km - 5134m2</name>
+  </wpt>
+  <wpt lat="21.039909569642855" lon="105.83135727321428">
+    <name>Hanoi Botanical Gardens - 7km - 95885m2</name>
+  </wpt>
+  <wpt lat="21.056260667112294" lon="105.82474700548129">
+    <name>West Lake - 7km - 5266854m2</name>
+  </wpt>
+  <wpt lat="20.948238328571428" lon="105.87103082857142">
+    <name>Vườn Bách Thảo - 8km - 1650m2</name>
+  </wpt>
+  <wpt lat="20.947777114285714" lon="105.87075717142856">
+    <name>Yen My Pagoda - 8km - 2303m2</name>
+  </wpt>
+  <wpt lat="20.961962443478264" lon="105.82211392173916">
+    <name>Hồ trước đình Bằng A - 8km - 3957m2</name>
+  </wpt>
+  <wpt lat="20.98737457931034" lon="105.8096094637931">
+    <name>Hồ Hạ Đình - 8km - 32703m2</name>
+  </wpt>
+  <wpt lat="20.94803897" lon="105.86999433">
+    <name>Ao sen - 8km - 11661m2</name>
+  </wpt>
+  <wpt lat="20.94345469180328" lon="105.87302266393442">
+    <name>Ao đường trong - 8km - 32606m2</name>
+  </wpt>
+  <wpt lat="20.961771411999997" lon="105.82171019600004">
+    <name>Ao Đình Bằng A - 8km - 683m2</name>
+  </wpt>
+  <wpt lat="20.948088233333333" lon="105.87050096666668">
+    <name>Núi chùa - 8km - 19128m2</name>
+  </wpt>
+  <wpt lat="21.046527542307693" lon="105.86565496538462">
+    <name>Vườn hoa Bắc Long Biên - 8km - 5815m2</name>
+  </wpt>
+  <wpt lat="20.98896484545455" lon="105.8069528909091">
+    <name>Hồ Quạt Rẻ - 8km - 6963m2</name>
+  </wpt>
+  <wpt lat="21.0086427125" lon="105.8034790375">
+    <name>Phuc Thanh Garden - 8km - 3052m2</name>
+  </wpt>
+  <wpt lat="21.00489559" lon="105.80188406">
+    <name>Vườn hoa Trung Hòa - Nhân Chính - 8km - 4177m2</name>
+  </wpt>
+  <wpt lat="20.944088946666668" lon="105.86966822666666">
+    <name>Ao cá - 8km - 44990m2</name>
+  </wpt>
+  <wpt lat="21.047866660000004" lon="105.83670124">
+    <name>Tran Quoc Pagoda - 8km - 4190m2</name>
+  </wpt>
+  <wpt lat="21.02813082608696" lon="105.81968801739129">
+    <name>Giang Vo Lake - 8km - 69813m2</name>
+  </wpt>
+  <wpt lat="20.94271281111111" lon="105.86215545555557">
+    <name>Dong Tri Parish Church - 8km - 3727m2</name>
+  </wpt>
+  <wpt lat="20.96347775" lon="105.84997435">
+    <name>12 Zodiac Garden - 8km - 3740m2</name>
+  </wpt>
+  <wpt lat="20.99132" lon="105.7996799">
+    <name>Vườn hoa Thanh Xuân Bắc - 8km - 4212m2</name>
+  </wpt>
+  <wpt lat="20.94692546" lon="105.86898314">
+    <name>Ao đình - 8km - 1819m2</name>
+  </wpt>
+  <wpt lat="21.054992116666668" lon="105.84025266666669">
+    <name>An Duong Tennis Courts - 8km - 3447m2</name>
+  </wpt>
+  <wpt lat="20.964756892307687" lon="105.85041355384617">
+    <name>Bamboo Garden - 8km - 2054m2</name>
+  </wpt>
+  <wpt lat="21.00259107777778" lon="105.79669131111112">
+    <name>Công viên Thanh Xuân - 8km - 169474m2</name>
+  </wpt>
+  <wpt lat="21.01237366" lon="105.79989197999998">
+    <name>Ao làng - 8km - 4319m2</name>
+  </wpt>
+  <wpt lat="21.01529335" lon="105.799336075">
+    <name>Công viên Trung Yên - 8km - 11118m2</name>
+  </wpt>
+  <wpt lat="21.024916083783783" lon="105.8064416837838">
+    <name>Lang Lake - 8km - 16566m2</name>
+  </wpt>
+  <wpt lat="21.02248057777778" lon="105.80628118888887">
+    <name>ASEAN Square - 8km - 1030m2</name>
+  </wpt>
+  <wpt lat="21.024438675000003" lon="105.80284785">
+    <name>Chùa Láng - 8km - 11374m2</name>
+  </wpt>
+  <wpt lat="21.019908416666667" lon="105.79815088333332">
+    <name>Công viên Yên Hòa - 8km - 13555m2</name>
+  </wpt>
+  <wpt lat="21.0409553" lon="105.81915729375">
+    <name>Chùa Vĩnh Khánh - 8km - 2016m2</name>
+  </wpt>
+  <wpt lat="21.041003633333336" lon="105.81925108888888">
+    <name>Chính điện - 8km - 264m2</name>
+  </wpt>
+  <wpt lat="21.02385435333333" lon="105.80091225333332">
+    <name>Ao Phủ - 9km - 3998m2</name>
+  </wpt>
+  <wpt lat="21.043320878571425" lon="105.82528165714284">
+    <name>Vườn hoa Nguyễn Đình Thi - 9km - 1514m2</name>
+  </wpt>
+  <wpt lat="21.01264022" lon="105.79526874">
+    <name>Trung Kinh Hạ Playgroung - 9km - 2437m2</name>
+  </wpt>
+  <wpt lat="20.94422395555555" lon="105.85361495555556">
+    <name>Đình Chung - 9km - 1632m2</name>
+  </wpt>
+  <wpt lat="21.020266228571423" lon="105.79577428571427">
+    <name>Vườn hoa Yên Hòa - 9km - 4889m2</name>
+  </wpt>
+  <wpt lat="20.993494014285712" lon="105.79401307142858">
+    <name>Vườn hoa Biệt thự Quốc Hội - 9km - 2753m2</name>
+  </wpt>
+  <wpt lat="20.997361312499997" lon="105.791116675">
+    <name>Phung Khoang Park - 9km - 129875m2</name>
+  </wpt>
+  <wpt lat="20.99752964269663" lon="105.79085115280898">
+    <name>Hồ Phùng Khoang - 9km - 67380m2</name>
+  </wpt>
+  <wpt lat="20.98034007777778" lon="105.80064674444444">
+    <name>Ao Chùa - 9km - 2277m2</name>
+  </wpt>
+  <wpt lat="21.02368529444444" lon="105.7928281722222">
+    <name>Chùa Cót - 9km - 7254m2</name>
+  </wpt>
+  <wpt lat="21.03229001818182" lon="105.80114030909093">
+    <name>Hồ Quận uỷ - 9km - 2840m2</name>
+  </wpt>
+  <wpt lat="20.99157831428571" lon="105.78902822857144">
+    <name>Vườn Trung Văn - 9km - 12562m2</name>
+  </wpt>
+  <wpt lat="20.97163428" lon="105.78143751333332">
+    <name>Vườn hoa - 10km - 6843m2</name>
+  </wpt>
+  <wpt lat="21.05003506363636" lon="105.81302260909092">
+    <name>Chùa Tĩnh Lâu - 10km - 5116m2</name>
+  </wpt>
+  <wpt lat="21.06228657826087" lon="105.8262969826087">
+    <name>Ao Đình Tây Hồ - 10km - 2300m2</name>
+  </wpt>
+  <wpt lat="20.9787017" lon="105.79504824">
+    <name>Vườn hoa Phụ nữ tự quản - 10km - 3472m2</name>
+  </wpt>
+  <wpt lat="20.984239421052628" lon="105.7851207263158">
+    <name>Vườn hoa Việt Kiều - 10km - 7177m2</name>
+  </wpt>
+  <wpt lat="21.0283103755102" lon="105.79080706734696">
+    <name>Cau Giay Park - 10km - 94159m2</name>
+  </wpt>
+  <wpt lat="21.045757420833333" lon="105.80736292916669">
+    <name>Chùa Cống Yên - 10km - 1917m2</name>
+  </wpt>
+  <wpt lat="21.032077066666663" lon="105.7934166888889">
+    <name>Ao Tháp - 10km - 1682m2</name>
+  </wpt>
+  <wpt lat="20.978208149999997" lon="105.79058363571428">
+    <name>Hồ Văn Quán - 10km - 27947m2</name>
+  </wpt>
+  <wpt lat="20.669226496153847" lon="105.74496573076922">
+    <name>Chùa Hà - 10km - 8794m2</name>
+  </wpt>
+  <wpt lat="21.04105087" lon="105.79649520333334">
+    <name>Công viên Nghĩa Đô - 10km - 91731m2</name>
+  </wpt>
+  <wpt lat="20.983622250000003" lon="105.783576">
+    <name>Ao Mỗ Lao - 10km - 3559m2</name>
+  </wpt>
+  <wpt lat="21.01805570727273" lon="105.78429499636364">
+    <name>Landmark72 Garden - 10km - 11918m2</name>
+  </wpt>
+  <wpt lat="21.04435799285714" lon="105.8043534">
+    <name>Ao Cầu - 10km - 1320m2</name>
+  </wpt>
+  <wpt lat="20.976971911764707" lon="105.79143401470589">
+    <name>Văn Quán Lake Park - 10km - 68256m2</name>
+  </wpt>
+  <wpt lat="20.937445479999997" lon="105.9074314">
+    <name>Nghĩa trang Họ Phạm - 10km - 1555m2</name>
+  </wpt>
+  <wpt lat="20.93622392" lon="105.90497278">
+    <name>Nghĩa trang thôn chử xá - 10km - 4986m2</name>
+  </wpt>
+  <wpt lat="20.96208212608696" lon="105.80191912608694">
+    <name>Sân betong bóng rổ + đá bóng mini - 10km - 718m2</name>
+  </wpt>
+  <wpt lat="20.97549787142857" lon="105.79051495714285">
+    <name>Vườn hoa Văn Quán - 10km - 13173m2</name>
+  </wpt>
+  <wpt lat="21.013987841666665" lon="105.78179173333336">
+    <name>Công viên - Bãi xe ngầm Mễ Trì Hạ - 10km - 7890m2</name>
+  </wpt>
+  <wpt lat="21.072373283333334" lon="105.82318622037036">
+    <name>Hồ Quảng Bá - 10km - 62530m2</name>
+  </wpt>
+  <wpt lat="20.9745136" lon="105.78654072">
+    <name>Ao Đình Văn Quán - 11km - 234m2</name>
+  </wpt>
+  <wpt lat="20.97895325" lon="105.78221754999998">
+    <name>Ao xóm đông - 11km - 1858m2</name>
+  </wpt>
+  <wpt lat="20.97858252" lon="105.78228738">
+    <name>Công viên tổ 9 Mỗ Lao - 11km - 1470m2</name>
+  </wpt>
+  <wpt lat="21.01088914" lon="105.77986326">
+    <name>Ao Dài - 11km - 1575m2</name>
+  </wpt>
+  <wpt lat="20.933759279999997" lon="105.83249879">
+    <name>Chùa Phúc Long - 11km - 6241m2</name>
+  </wpt>
+  <wpt lat="21.074852711111113" lon="105.82069986666666">
+    <name>Thung lũng hoa Hồ Tây - 11km - 39705m2</name>
+  </wpt>
+  <wpt lat="21.010965975" lon="105.779099245">
+    <name>Ao Tròn - 11km - 347m2</name>
+  </wpt>
+  <wpt lat="21.042940071428575" lon="105.79296134285714">
+    <name>Vườn hoa Nghĩa Tân - 11km - 1789m2</name>
+  </wpt>
+  <wpt lat="21.01747281428571" lon="105.77926812142856">
+    <name>Sân Cây Đề - 11km - 2222m2</name>
+  </wpt>
+  <wpt lat="20.9695635" lon="105.79309650999998">
+    <name>Chùa Thanh An - 11km - 4852m2</name>
+  </wpt>
+  <wpt lat="20.97272198" lon="105.78158318666668">
+    <name>Vườn hoa Nguyễn Trãi - 11km - 27684m2</name>
+  </wpt>
+  <wpt lat="21.068401742857144" lon="105.82001595714284">
+    <name>Đầm Đông - 11km - 36153m2</name>
+  </wpt>
+  <wpt lat="21.04094298" lon="105.79592687833332">
+    <name>Hồ Nghĩa Tân - 11km - 44435m2</name>
+  </wpt>
+  <wpt lat="20.925626060000003" lon="105.88709322">
+    <name>Cung Đình - 11km - 77m2</name>
+  </wpt>
+  <wpt lat="21.0441231" lon="105.7855970076923">
+    <name>Vườn hoa Đặng Thuỳ Trâm - 11km - 730m2</name>
+  </wpt>
+  <wpt lat="21.03608506666667" lon="105.7794161">
+    <name>Đài tưởng niệm Liệt sĩ Phường Mai Dịch - 11km - 3381m2</name>
+  </wpt>
+  <wpt lat="20.973155083333335" lon="105.77947226666667">
+    <name>Vườn hoa Hà Đông - 11km - 6248m2</name>
+  </wpt>
+  <wpt lat="21.07973984827586" lon="105.834504862069">
+    <name>Pond of Red River - 12km - 6692m2</name>
+  </wpt>
+  <wpt lat="21.007671620833335" lon="105.77176590833334">
+    <name>Mễ Trì Park - 12km - 137645m2</name>
+  </wpt>
+  <wpt lat="20.9270661375" lon="105.8862102375">
+    <name>Miếu Tranh Khúc - 12km - 344m2</name>
+  </wpt>
+  <wpt lat="21.009414765217393" lon="105.7743813347826">
+    <name>The Matrix One Private Park - 12km - 2106m2</name>
+  </wpt>
+  <wpt lat="21.002096530769236" lon="105.93350240769232">
+    <name>Vườn thực vật - 12km - 32162m2</name>
+  </wpt>
+  <wpt lat="20.9787528" lon="105.77224689999998">
+    <name>Đài phun nước - 12km - 150m2</name>
+  </wpt>
+  <wpt lat="21.06917576" lon="105.81198795999998">
+    <name>Vườn hoa Lạc Long Quân - 12km - 1239m2</name>
+  </wpt>
+  <wpt lat="21.0539746" lon="105.78695726">
+    <name>Miếu Thần Gò - 12km - 275m2</name>
+  </wpt>
+  <wpt lat="21.040967747368416" lon="105.77094346842104">
+    <name>Mai Dich Cemetery Park - 12km - 83102m2</name>
+  </wpt>
+  <wpt lat="21.010100987500003" lon="105.76716343125">
+    <name>Ao Phú Đô - 12km - 1300m2</name>
+  </wpt>
+  <wpt lat="21.03845796428572" lon="105.76923610714286">
+    <name>Mai Dich Park - 12km - 62002m2</name>
+  </wpt>
+  <wpt lat="21.029702491666665" lon="105.76819768333336">
+    <name>Chùa Đại An - 12km - 14928m2</name>
+  </wpt>
+  <wpt lat="21.064965666666673" lon="105.79610391333334">
+    <name>Công viên Ngoại giao Đoàn - 13km - 71637m2</name>
+  </wpt>
+  <wpt lat="21.010263575" lon="105.7632972375">
+    <name>Hồ Phú Đô - 13km - 2145m2</name>
+  </wpt>
+  <wpt lat="20.98062813125" lon="105.7574917125">
+    <name>Astronomy Park - 13km - 128398m2</name>
+  </wpt>
+  <wpt lat="20.9084715" lon="105.89278546">
+    <name>Đền mẫu Đại Lộ - 13km - 583m2</name>
+  </wpt>
+  <wpt lat="20.97250249444444" lon="105.76245442777775">
+    <name>Hồ Văn Khê - 13km - 2806m2</name>
+  </wpt>
+  <wpt lat="20.907805699999997" lon="105.89302644">
+    <name>Miếu Cậu Quận - 13km - 149m2</name>
+  </wpt>
+  <wpt lat="21.065209452941176" lon="105.7867164">
+    <name>Peace Park - 13km - 208562m2</name>
+  </wpt>
+  <wpt lat="20.90605284" lon="105.89258206">
+    <name>Dam Temple - 13km - 420m2</name>
+  </wpt>
+  <wpt lat="20.956018504166664" lon="105.76640489166664">
+    <name>Công viên Văn Phú - 13km - 42376m2</name>
+  </wpt>
+  <wpt lat="21.051544849404763" lon="105.77473169404762">
+    <name>Hồ Điều Hòa - 13km - 96678m2</name>
+  </wpt>
+  <wpt lat="21.063796433333337" lon="105.78846023333334">
+    <name>Friendship Garden - 13km - 579m2</name>
+  </wpt>
+  <wpt lat="21.003798606451618" lon="105.75490311935484">
+    <name>Japanese Garden - 14km - 57622m2</name>
+  </wpt>
+  <wpt lat="21.0777915" lon="105.79657029999998">
+    <name>Pineapple Park - 14km - 546m2</name>
+  </wpt>
+  <wpt lat="21.07672406" lon="105.79930242">
+    <name>Pomelo Park - 14km - 706m2</name>
+  </wpt>
+  <wpt lat="21.065463616666666" lon="105.78233369166666">
+    <name>Công viên OCT1 - 14km - 2495m2</name>
+  </wpt>
+  <wpt lat="21.06185014" lon="105.7796481">
+    <name>Năm Sấu Garden - 14km - 208m2</name>
+  </wpt>
+  <wpt lat="21.06174534" lon="105.77934642">
+    <name>Fresh Garden - 14km - 218m2</name>
+  </wpt>
+  <wpt lat="21.038218340000004" lon="105.75768802">
+    <name>Thi Cam Temple - 14km - 5581m2</name>
+  </wpt>
+  <wpt lat="21.0655586" lon="105.77924774">
+    <name>Vien Village Communal Temple - 14km - 581m2</name>
+  </wpt>
+  <wpt lat="21.03530055625" lon="105.74975409375">
+    <name>Ao Thị Cấm - 14km - 1603m2</name>
+  </wpt>
+  <wpt lat="20.959343215384617" lon="105.77944413076922">
+    <name>Công viên Hà Cầu - 15km - 71577m2</name>
+  </wpt>
+  <wpt lat="20.99738757777778" lon="105.74446734444444">
+    <name>Hồ Tây Mỗ - 15km - 13779m2</name>
+  </wpt>
+  <wpt lat="21.003766992857145" lon="105.74145590714284">
+    <name>Công viên Thể thao - 15km - 11685m2</name>
+  </wpt>
+  <wpt lat="20.99988390666667" lon="105.74139694">
+    <name>Central Park - 15km - 80346m2</name>
+  </wpt>
+  <wpt lat="21.066044538461536" lon="105.77345876153846">
+    <name>Hồ câu Hùng Thông - 15km - 11569m2</name>
+  </wpt>
+  <wpt lat="20.96099718" lon="105.74706164">
+    <name>Quảng trường - 15km - 3687m2</name>
+  </wpt>
+  <wpt lat="20.97427946923077" lon="105.74467942307692">
+    <name>Bể bơi Dương Nội - 15km - 1302m2</name>
+  </wpt>
+  <wpt lat="20.97953144" lon="105.74199492">
+    <name>Bể bơi trẻ em - 16km - 83m2</name>
+  </wpt>
+  <wpt lat="20.9794164" lon="105.74192064">
+    <name>Bể bơi - 16km - 618m2</name>
+  </wpt>
+  <wpt lat="21.034745983333337" lon="105.7396775">
+    <name>1 - 16km - 795m2</name>
+  </wpt>
+  <wpt lat="20.99740016" lon="105.73880676">
+    <name>Tonkin's park - 16km - 4862m2</name>
+  </wpt>
+  <wpt lat="21.036898325" lon="105.7363939625">
+    <name>Công Viên C Khu Chung Cư Vân Canh - 16km - 8603m2</name>
+  </wpt>
+  <wpt lat="21.077996906060605" lon="105.77403093030304">
+    <name>Ao cầu Vòng - 16km - 2726m2</name>
+  </wpt>
+  <wpt lat="21.06865776" lon="105.76232711999998">
+    <name>Vườn nhà ai đó - Mạnh - 16km - 472m2</name>
+  </wpt>
+  <wpt lat="21.054486916666665" lon="105.76338488333332">
+    <name>Hồ Phú Diễn - 16km - 8769m2</name>
+  </wpt>
+  <wpt lat="21.037793299999997" lon="105.73249953999998">
+    <name>Park B - Van Canh Resident Area - 16km - 4371m2</name>
+  </wpt>
+  <wpt lat="20.96004808181818" lon="105.73652903636363">
+    <name>Công viên Âm nhạc Đô Nghĩa - 17km - 69579m2</name>
+  </wpt>
+  <wpt lat="20.997954505000003" lon="105.730513305">
+    <name>Hồ Tâm Linh - 17km - 1726m2</name>
+  </wpt>
+  <wpt lat="21.036394460000004" lon="105.72966284000002">
+    <name>Van Canh War Soldier Memorial - 17km - 1574m2</name>
+  </wpt>
+  <wpt lat="21.03447582" lon="105.7295547">
+    <name>Bi Temple Pond - 17km - 1545m2</name>
+  </wpt>
+  <wpt lat="21.04115715" lon="105.73281586666668">
+    <name>Park A - Van Canh Resident Area - 17km - 10798m2</name>
+  </wpt>
+  <wpt lat="21.006236329166665" lon="105.71947038333332">
+    <name>Chùa Cả - 17km - 8086m2</name>
+  </wpt>
+  <wpt lat="21.03827682222222" lon="105.7286843111111">
+    <name>Hau Ai Village Pond - 17km - 1430m2</name>
+  </wpt>
+  <wpt lat="20.988739416666665" lon="105.716104025">
+    <name>Chùa Ngãi Cầu - 18km - 6126m2</name>
+  </wpt>
+  <wpt lat="20.99900408225807" lon="105.71330477903226">
+    <name>Công viên Nam An Khánh - 18km - 99892m2</name>
+  </wpt>
+  <wpt lat="20.951429742857147" lon="105.71282102857144">
+    <name>Đình Phượng Nghĩa - 20km - 1217m2</name>
+  </wpt>
+  <wpt lat="20.95022154" lon="105.70981372">
+    <name>Văn Quán Phượng Nghĩa - 20km - 310m2</name>
+  </wpt>
+  <wpt lat="21.04491396923077" lon="105.6977046">
+    <name>Ao Đình - 21km - 2732m2</name>
+  </wpt>
+  <wpt lat="21.06372792222222" lon="105.70358664999998">
+    <name>Giếng Quán - 21km - 807m2</name>
+  </wpt>
+  <wpt lat="21.063343936000003" lon="105.703063644">
+    <name>Ao Lão - 21km - 4814m2</name>
+  </wpt>
+  <wpt lat="21.066511247058823" lon="105.70579343529413">
+    <name>Ao Mục Bài - 22km - 7256m2</name>
+  </wpt>
+  <wpt lat="20.835446117647063" lon="105.85397274117646">
+    <name>Hồ Sen Chùa Đậu - 22km - 20168m2</name>
+  </wpt>
+  <wpt lat="20.988525700000004" lon="105.67714822">
+    <name>Ao Đình Làng Vân Côn - 23km - 4286m2</name>
+  </wpt>
+  <wpt lat="21.07437378" lon="105.70153888">
+    <name>Sân chơi khu đô thị Tân Tây Đô - 23km - 5509m2</name>
+  </wpt>
+  <wpt lat="20.975449405263163" lon="105.67758992631578">
+    <name>Hồ Bán Nguyệt - 24km - 373567m2</name>
+  </wpt>
+  <wpt lat="21.120536320000003" lon="105.84719392000002">
+    <name>Bao Quyen farm - 25km - 766m2</name>
+  </wpt>
+  <wpt lat="20.80408910357143" lon="105.86001426071428">
+    <name>Sông Đình - 26km - 15197m2</name>
+  </wpt>
+  <wpt lat="20.807004645" lon="105.8513902">
+    <name>Giếng đình thôn Nghiêm Xá - 26km - 563m2</name>
+  </wpt>
+  <wpt lat="20.802555413333337" lon="105.86113905333332">
+    <name>Ao cá nhà Truyền thống - 26km - 2246m2</name>
+  </wpt>
+  <wpt lat="20.802056157142857" lon="105.86116747142856">
+    <name>Ao sen nhà Truyền Thống - 26km - 701m2</name>
+  </wpt>
+  <wpt lat="21.022375884210525" lon="105.6455262105263">
+    <name>Long Tri Lake - 26km - 12444m2</name>
+  </wpt>
+  <wpt lat="20.80429743636364" lon="105.84680497272728">
+    <name>Ao Sen làng Liễu Viên - 26km - 4132m2</name>
+  </wpt>
+  <wpt lat="21.1506808125" lon="105.7576073625">
+    <name>Hồ 3 góc - 27km - 10694m2</name>
+  </wpt>
+  <wpt lat="21.126665135714287" lon="105.68132409285714">
+    <name>Chùa Tiên Tân - 29km - 4937m2</name>
+  </wpt>
+  <wpt lat="21.127187325" lon="105.6810700125">
+    <name>Đình Tiên Tân - 29km - 1761m2</name>
+  </wpt>
+  <wpt lat="21.111631477777777" lon="105.87115048888889">
+    <name>Pearl Well - 29km - 11083m2</name>
+  </wpt>
+  <wpt lat="20.783590955555553" lon="105.8278124888889">
+    <name>Ao Phục Viên - 29km - 2464m2</name>
+  </wpt>
+  <wpt lat="21.109164051578947" lon="105.87074564947368">
+    <name>Hồ nước - 30km - 3158m2</name>
   </wpt>
 </gpx>

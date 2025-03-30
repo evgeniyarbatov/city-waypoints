@@ -3,6 +3,10 @@ import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
 
+def get_waypoint_name(row):
+    distance = round(row["distance"] / 1000.0)
+    return f'{row["name"]} - {distance}km - {round(row["area"])}m2'
+
 def csv_to_gpx(input_csv, output_gpx):
     gpx = ET.Element("gpx", {
         "version": "1.1",
@@ -13,6 +17,8 @@ def csv_to_gpx(input_csv, output_gpx):
     try:
         df = pd.read_csv(input_csv)
         
+        df = df.sort_values(by=['distance'], ascending=[True])
+        
         for index, row in df.iterrows():
             wpt = ET.SubElement(gpx, "wpt", {
                 "lat": str(row["lat"]),
@@ -20,7 +26,7 @@ def csv_to_gpx(input_csv, output_gpx):
             })
             
             name = ET.SubElement(wpt, "name")
-            name.text = row["name"]
+            name.text = get_waypoint_name(row)
 
         tree = ET.ElementTree(gpx)
         

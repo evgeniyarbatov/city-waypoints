@@ -2,6 +2,8 @@ import sys
 
 import pandas as pd
 
+DISTANCE_CUTOFF_METERS = 30000
+
 def main(
     points_filename, 
     area_filename, 
@@ -15,7 +17,7 @@ def main(
     df = pd.merge(area_df, distance_df, on='name', how='inner') 
     df = pd.merge(df, points_df, on='name', how='inner') 
 
-    df['area'] = df['area'] / 1000000
+    df = df[df['distance'] <= DISTANCE_CUTOFF_METERS]
     df = df.sort_values(by=['area', 'distance'], ascending=[False, True])
 
     df = df.drop_duplicates(subset=['name'], keep='first')
