@@ -18,6 +18,7 @@ POINTS = data/points/$(CITY_NAME).csv
 AREA = data/area/$(CITY_NAME).csv
 DISTANCE = data/distance/$(CITY_NAME).csv
 WAYS = data/ways/$(CITY_NAME).csv
+RESULT = data/$(CITY_NAME).csv
 
 VENV_PATH = ~/.venv/city-parks
 
@@ -68,4 +69,12 @@ distance:
 	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/get-distance.py $(START_LAT) $(START_LON) $(POINTS) $(DISTANCE);
 
-.PHONY: all venv install docker country polygon city points area distance
+merge:
+	@source $(VENV_PATH)/bin/activate && \
+	python3 scripts/merge.py \
+	$(POINTS) \
+	$(AREA) \
+	$(DISTANCE) \
+	$(RESULT);
+
+.PHONY: all venv install docker country polygon city points area distance merge
