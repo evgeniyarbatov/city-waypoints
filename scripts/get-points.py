@@ -9,16 +9,24 @@ class WayHandler(osmium.SimpleHandler):
         osmium.SimpleHandler.__init__(self)
         self.ways = []
 
-    def is_interesting_tag(self, tags):
-        is_leisure = 'leisure' in tags
-        if not is_leisure:
-            return False
-        
-        is_park = 'park' in tags['leisure']
-        return is_park
+    def is_park(self, tags):
+        return (
+            tags.get('leisure') in {'park', 'garden', 'nature_reserve'} or
+            tags.get('landuse') in {'recreation_ground', 'grass'} or
+            tags.get('boundary') == 'national_park'
+        )
 
-    def get_tags(self, tags):
-        return ','.join([f"{key}={value}" for key, value in tags])
+    def is_lake(self, tags):
+        return (
+            tags.get('water') in {'lake', 'pond', 'reservoir'} or
+            (tags.get('natural') == 'water' and tags.get('water') in {'lake', 'pond', 'reservoir'})
+        )
+
+    def is_interesting_tag(self, tags):
+        return self.is_park(tags) or self.is_lake(tags)
+
+    def get_name(self, tags):
+        return tags.get('name:en', tags.get('name', 'Unknown'))
 
     def way(self, w):
         if not self.is_interesting_tag(w.tags):
@@ -41,46 +49,35 @@ class WayHandler(osmium.SimpleHandler):
         way_lat = np.mean(way_coords[:, 0])
         way_lon = np.mean(way_coords[:, 1])
 
-        tags = self.get_tags(w.tags)
+        name = self.get_name(w.tags)
 
         self.ways.append([
+            name,
             (float(way_lat), float(way_lon)),
             way_nodes,
-            tags,
         ])            
 
-def write_csv(ways, parks_filename):
-    def split_tags(tags):
-        if pd.isna(tags):
-            return pd.Series()
-        try:
-            tag_dict = dict(tag.split('=') for tag in tags.split(','))
-        except ValueError:
-            return pd.Series()
-        return pd.Series(tag_dict)
-
+def write_csv(ways, filename):
     df = pd.DataFrame(ways, columns=[
+        'name',
         'coordinates', 
         'way_border', 
-        'tags',
     ])
-    
-    df = df.join(df['tags'].apply(split_tags))
-    df = df.dropna(subset=['name'])
- 
+
     df[['lat', 'lon']] = df['coordinates'].apply(pd.Series)
+    df = df[df['name'] != 'Unknown']
     
     df[[
         'name',
         'lat',
         'lon',
         'way_border',
-    ]].to_csv(parks_filename, index=False)
+    ]].to_csv(filename, index=False)
 
-def main(osm_file, parks_filename):
+def main(osm_file, filename):
     handler = WayHandler()
     handler.apply_file(osm_file, locations=True)
-    write_csv(handler.ways, parks_filename)
+    write_csv(handler.ways, filename)
 
 if __name__ == "__main__":
     main(*sys.argv[1:])
