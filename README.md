@@ -1,6 +1,6 @@
-# city-parks
+# city-waypoints
 
-Find parks in your city using OSM maps
+Create GPX file with waypoints in your city including parks and lakes.
 
 ## Prep
 
@@ -19,6 +19,7 @@ make polygon # Create city polygon
 make city # Extract city OSM
 make parks # Extract parks from OSM map
 make area # Get area of each park
-make distance # Calculate distance to each park 
+make distance # Calculate distance to each park
+make waypoints # Create GPX file with waypoints
 ```
 
