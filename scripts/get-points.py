@@ -9,6 +9,12 @@ class WayHandler(osmium.SimpleHandler):
         osmium.SimpleHandler.__init__(self)
         self.ways = []
 
+    def is_temple(self, tags):
+        return (
+            tags.get('landuse') == 'religious' or
+            tags.get('building') == 'temple'
+        )
+
     def is_park(self, tags):
         return (
             tags.get('leisure') in {'park', 'garden', 'nature_reserve'} or
@@ -23,7 +29,7 @@ class WayHandler(osmium.SimpleHandler):
         )
 
     def is_interesting_tag(self, tags):
-        return self.is_park(tags) or self.is_lake(tags)
+        return self.is_temple(tags) or self.is_park(tags) or self.is_lake(tags)
 
     def get_name(self, tags):
         return tags.get('name:en', tags.get('name', 'Unknown'))

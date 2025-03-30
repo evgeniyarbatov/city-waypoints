@@ -2,8 +2,12 @@ name,distance
 Hồ Dương Văn Bé,770.3
 Công viên hồ Cần,1075.8
 Hồ Cần,1210.8
+Đình Ông,1807.6
 Hanoi Youth Park,1897.3
+Đền Lư Giang,2041.3
 Công viên KĐT Vĩnh Hoàng,2321.2
+Đình Hoàng Mai,2344.8
+Chùa Nga My,2363.6
 Công viên Đền Lừ,2523.5
 Den Lu Lake,2554.0
 Hồ Sơn,2591.9
@@ -13,7 +17,9 @@ Hồ Thanh Trì,2660.3
 Yersin Garden,2809.0
 Công viên Hoàng Văn Thụ,2842.2
 Pasteur Garden,2852.4
+Chùa Thọ Lão,2901.3
 Hai Bà Trưng Lake,2924.8
+Chùa Vua,3092.5
 Yen So Park,3165.6
 Vườn hoa Đàn Nam,3339.8
 Vườn hoa Tăng Bạt Hổ,3473.8
@@ -35,29 +41,46 @@ Hồ Không Lực,4239.7
 Hồ Kim Liên,4246.0
 Công viên,4289.7
 Dien Hong Park,4303.8
+Đền Kim Liên,4369.1
+Dòng Thánh Phao lô Hà Nội,4388.3
 Hồ Hố Mẻ,4410.4
 Ly Thai To Park,4499.0
 Công viên nội bộ,4517.0
 Vườn hoa Hàng Vôi,4528.2
+Đình làng Trung Tự,4593.8
 Tay Son Park,4711.9
 Khu vui chơi trẻ em,4746.3
 Quan Su Park,4838.2
 Hang Trong Garden,4902.2
+Hanoi Archbishop’s Residence,4912.8
 Vườn hoa Định Công,4941.6
 Công viên Con Voi,4948.9
+St Joseph Major Seminary Hanoi,5013.4
+Ngoc Son Temple,5095.4
+Jade Island,5095.4
 Ao Khương Thượng,5158.0
+Chùa Bộc,5178.4
 Vườn hoa Cửa Nam,5194.3
 Xa Dan Lake,5217.3
 Vườn hoa Thuỷ lợi,5483.7
+Chùa Linh Ứng,5603.6
+"Đình, đền Trung Tả",5605.3
+Chùa Bụt Mọc,5633.0
 Lenin Park,5635.7
 Vườn hoa Công đoàn,5676.4
 Hồ Định Công,5696.3
 Hồ Văn Chương,5708.8
 Đại Từ,5726.3
 Vườn hoa Phùng Hưng,5730.9
+Chùa Nam Đồng,5758.3
 Gò Đống Đa,5804.6
+Chùa Bà Nành,5807.1
+Đền thờ Quang Trung,5973.2
 Vườn hoa 1-6,5989.3
+Chùa Phúc Lâm,6011.5
+Chùa Pháp Bảo Tạng,6074.0
 Vườn hoa Kính Thiên,6084.5
+Temple of Literature,6102.4
 Văn Lake,6176.6
 Vườn hoa Trần Quang Diệu,6189.7
 Bai Say Garden,6232.3
@@ -66,36 +89,48 @@ Van Xuan Garden,6254.3
 Archeological site of Thang Long Imperial Citadel,6264.7
 Giam Garden,6266.1
 Công viên Linh Đàm,6330.7
+Chùa Thanh Nhàn,6370.3
 Le Truc Green Space,6393.1
 Ao cá đình Khương Hạ,6450.9
 Dong Da Lake,6467.0
 Vườn hoa Hoàng Văn Thụ,6517.3
+Yen Thanh Temple,6520.4
 Thủy đình Nhân Chính,6568.9
+Miếu Thôn Hạ,6594.7
+Diện tích Chùa Một Cột,6599.1
 Sân chơi khu tập thể B8,6603.5
 Công viên Bắc Linh Đàm,6616.5
 Hồ Linh Chiểu,6649.0
+One Pillar Pagoda,6662.3
 Vườn hoa Hoàng Cầu,6670.2
+Đình Ứng Thiên,6730.5
 Hồ Khương Đình,6771.6
 Presidential Palace Historical Site,6812.8
+Đình Quan Nhân,6838.2
+Lăng Phùng Hưng,6839.3
 Fish pond,6872.6
 Ao dài,6887.7
 Culture Village at Yen So Park,6909.0
 Hồ câu Yên Mỹ,6918.3
 Yen So Lake,6935.6
 Ao đầu làng,7010.3
+Chùa Kim Sơn,7056.5
 Indira Gandhi Park,7056.7
 Hồ Đầm Tròn,7121.5
+Hao Nam Temple,7188.8
 Sân chơi tòa nhà Huy Hoàng,7193.7
 Công viên Bán đảo Linh Đàm,7207.8
 Hồ Bảy Gian,7229.1
 Ngoc Ha Lake,7243.0
 Ao,7243.0
+Quan Thanh Temple,7250.6
 Sân chơi GoldSeason,7270.6
 Đầm Chuối,7306.6
 Vườn hoa hồ Giảng Võ,7337.3
 Hanoi Botanical Gardens,7347.7
 West Lake,7404.0
 Vườn Bách Thảo,7580.7
+Yen My Pagoda,7598.1
 Hồ trước đình Bằng A,7601.9
 Hồ Hạ Đình,7626.9
 Ao sen,7653.0
@@ -107,7 +142,9 @@ Hồ Quạt Rẻ,7722.6
 Phuc Thanh Garden,7742.3
 Vườn hoa Trung Hòa - Nhân Chính,7793.4
 Ao cá,7814.0
+Tran Quoc Pagoda,7856.0
 Giang Vo Lake,7890.8
+Dong Tri Parish Church,7907.5
 12 Zodiac Garden,7934.7
 Vườn hoa Thanh Xuân Bắc,7951.0
 Ao đình,7989.6
@@ -118,29 +155,39 @@ Ao làng,8129.9
 Công viên Trung Yên,8190.3
 Lang Lake,8258.1
 ASEAN Square,8406.7
+Chùa Láng,8420.3
 Công viên Yên Hòa,8425.8
+Chùa Vĩnh Khánh,8486.1
+Chính điện,8499.4
 Ao Phủ,8515.6
 Vườn hoa Nguyễn Đình Thi,8542.1
 Trung Kinh Hạ Playgroung,8642.9
+Đình Chung,8721.0
 Vườn hoa Yên Hòa,8833.9
 Vườn hoa Biệt thự Quốc Hội,8883.8
 Phung Khoang Park,8919.9
 Hồ Phùng Khoang,9082.3
 Ao Chùa,9127.8
+Chùa Cót,9235.7
 Hồ Quận uỷ,9276.1
 Vườn Trung Văn,9328.2
 Vườn hoa,9542.7
+Chùa Tĩnh Lâu,9654.9
 Ao Đình Tây Hồ,9775.2
 Vườn hoa Phụ nữ tự quản,9805.9
 Vườn hoa Việt Kiều,9842.8
 Cau Giay Park,9948.7
+Chùa Cống Yên,9989.2
 Ao Tháp,9992.5
 Hồ Văn Quán,10044.8
+Chùa Hà,10053.8
 Công viên Nghĩa Đô,10092.7
 Ao Mỗ Lao,10119.6
 Landmark72 Garden,10140.4
 Ao Cầu,10174.9
 Văn Quán Lake Park,10175.4
+Nghĩa trang Họ Phạm,10265.2
+Nghĩa trang thôn chử xá,10284.0
 Sân betong bóng rổ + đá bóng mini,10344.2
 Vườn hoa Văn Quán,10403.5
 Công viên - Bãi xe ngầm Mễ Trì Hạ,10410.0
@@ -149,30 +196,39 @@ Ao Đình Văn Quán,10503.8
 Ao xóm đông,10524.3
 Công viên tổ 9 Mỗ Lao,10565.4
 Ao Dài,10621.4
+Chùa Phúc Long,10726.6
 Thung lũng hoa Hồ Tây,10738.5
 Ao Tròn,10775.6
 Vườn hoa Nghĩa Tân,10860.2
 Sân Cây Đề,10885.6
+Chùa Thanh An,10925.0
 Vườn hoa Nguyễn Trãi,10991.6
 Đầm Đông,11093.6
 Hồ Nghĩa Tân,11115.2
+Cung Đình,11331.5
 Vườn hoa Đặng Thuỳ Trâm,11420.3
 Đài tưởng niệm Liệt sĩ Phường Mai Dịch,11458.2
 Vườn hoa Hà Đông,11492.8
 Pond of Red River,11521.4
 Mễ Trì Park,11546.9
+Miếu Tranh Khúc,11617.7
 The Matrix One Private Park,11718.3
 Vườn thực vật,11917.2
 Đài phun nước,12080.7
 Vườn hoa Lạc Long Quân,12135.0
+Miếu Thần Gò,12322.8
 Mai Dich Cemetery Park,12420.3
 Ao Phú Đô,12438.7
 Mai Dich Park,12450.3
+Chùa Đại An,12472.8
 Công viên Ngoại giao Đoàn,12631.5
 Hồ Phú Đô,12806.2
 Astronomy Park,12940.5
+Đền mẫu Đại Lộ,12973.8
 Hồ Văn Khê,13235.8
+Miếu Cậu Quận,13289.0
 Peace Park,13313.0
+Dam Temple,13362.4
 Công viên Văn Phú,13451.5
 Hồ Điều Hòa,13480.5
 Friendship Garden,13487.6
@@ -182,6 +238,8 @@ Pomelo Park,13798.1
 Công viên OCT1,13833.5
 Năm Sấu Garden,13981.8
 Fresh Garden,13987.2
+Thi Cam Temple,14192.6
+Vien Village Communal Temple,14200.4
 Ao Thị Cấm,14478.0
 Công viên Hà Cầu,14651.9
 Hồ Tây Mỗ,14776.1
@@ -204,8 +262,12 @@ Hồ Tâm Linh,16595.6
 Van Canh War Soldier Memorial,16629.3
 Bi Temple Pond,16736.3
 Park A - Van Canh Resident Area,16737.4
+Chùa Cả,17187.1
 Hau Ai Village Pond,17322.6
+Chùa Ngãi Cầu,17713.2
 Công viên Nam An Khánh,18450.0
+Đình Phượng Nghĩa,20169.7
+Văn Quán Phượng Nghĩa,20450.2
 Ao Đình,20568.5
 Giếng Quán,21336.7
 Ao Lão,21373.7
@@ -222,6 +284,8 @@ Ao sen nhà Truyền Thống,25982.0
 Long Tri Lake,26294.3
 Ao Sen làng Liễu Viên,26331.6
 Hồ 3 góc,27340.4
+Chùa Tiên Tân,28902.4
+Đình Tiên Tân,28935.8
 Pearl Well,29376.8
 Ao Phục Viên,29407.7
 Hồ nước,29515.1
@@ -229,15 +293,36 @@ Ao trường học,30079.0
 Phim trường Smiley Ville,30231.1
 Giếng làng Trung Lập,30235.4
 Trúc Động Lake,32230.2
+Đình Chùa Đồng Kho,32414.8
+Trúc Động Pagoda,32523.2
+Đồng Táng Village Temple,32553.2
+Nhà thờ họ Phí Trúc Động,32573.0
 Hồ Câu Phúc Thành,32710.3
+Tu đoàn Truyền Tin,33138.2
+Phuc Lam Village Temple,33358.4
+Đình Yên Lạc,33801.5
+Chùa Hoàn Phúc,33934.8
 HỒ,34128.9
 Hồ Kỳ Viên,34229.4
+Yen Son Village Temple,34899.1
+Đình Làng Dương Kệ,34899.6
+Chùa thôn Dương Kệ,34942.5
+Chùa Hương Vân,34982.5
+Chùa làng Yên Sơn,35037.5
 Giếng giữa,35945.5
 Vườn hoa Nông dân,36068.7
 Khu vui chơi,36105.4
 Công viên Xuân Dục,36152.4
 Vườn đình Lã Côi,36161.3
+Đình làng Thượng Lâm,36691.5
+Chùa Quế Lâm,36710.2
 Vườn hoa Thị trấn Yên Viên,36749.5
+Tu Xa Pagoda,36871.4
+Quan Tha Temple,36912.5
+Mieu Mon Temple,37062.8
+Đền Du Ngoại,37079.5
+Đền Thượng,37161.6
+Thuong Lam Pagoda,37237.0
 Hồ Ba Góc,37450.7
 Hồ Cống Thôn,37830.8
 Hồ Hòa Bình,37882.7
@@ -245,32 +330,55 @@ Công viên Khởi nghiệp,37980.3
 Giếng làng Trần Phú,38143.7
 Hồ Tân Xã,38235.1
 Hồ Đồng Quan,38244.7
+Đình thôn Cầu,38401.3
 Ao đình làng Thượng,38539.5
+Thuong Village Temple,38631.3
 Hồ Lâm Nghiệp,39323.1
+Chùa Quýt,39469.6
 Hồ Sinh Thái,39586.0
+Chùa Nghinh Phúc,39845.3
+Đình thôn Đoan Nữ,40112.8
 Hồ Đoan Nữ,40197.2
 Vườn hoa phường Thượng Thanh,40566.2
 Hồ Văn Sơn,40696.8
 Hồ Đa Lát,40871.5
+Nhà bia,41001.8
 Vườn hoa Giang Biên,41048.2
+Điểm sinh hoạt cộng đồng Tổ dân phố số 19,41072.6
 Long Bien Park,41157.9
 Kim Quan Flower Garden,41557.5
 Công viên Bê Tông,41584.7
 Ánh Dương Garden,41629.8
 Vườn hoa Phúc Lợi,42025.5
+Phương Đình,42064.7
+Tả Vu,42067.2
+Nhà truyền thống Lệ Mật,42093.5
+Đại Đình,42123.4
 Hồ Đền Thượng,42206.0
+Tảo Mạc,42210.2
 Giếng cổ,42215.1
+Bo De Pagoda,42230.9
+Hữu Vu,42232.9
+Miếu Công chúa,42265.9
 Mars,42266.8
+Vinh An Village Temple,42331.1
+Thuong Village Pagoda,42467.4
 Vườn hoa ô quy hoạch C12/CX3,42605.1
+Đình làng Thượng,42651.4
 Hồ Ga,42892.4
 Vườn hoa Phúc Đồng,42947.0
+Chùa Ráng - Tổ đình Viên Minh,43031.2
+Chùa Ngọc Trục,43040.4
 Công viên Gia Thuỵ,43065.2
+Đình thôn Cống Trung,43272.1
 Vườn hoa Mai Phúc,43286.1
 Vườn hoa Gia Quất,43287.1
+Chùa thôn Cống Trung,43295.2
 Vườn hoa Tân Thụy,43303.5
 Hồ Sen,43473.9
 Hồ Ngãi Lạng,43532.5
 Hồ Cầu Tình,43557.8
+Đình thôn Áng Hạ,43600.2
 Hồ vườn hoa Ngọc Lâm,43797.9
 Vườn hoa Thượng Thanh,43842.8
 Ngoc Lam Flower Garden,43854.1
@@ -285,13 +393,20 @@ nhà văn hóa tổ 16,44319.9
 Hồ Nhất Đẳng,44346.0
 Công viên Bồ Đề Xanh,44438.0
 Hồ Hàm Lợn,44573.1
+Chùa Lai,44650.1
 Hồ Phi Trường,44656.0
 Ao Sài Đồng,44716.5
 Ao làng Ái Mộ,45021.3
+Trúc Lâm Tự,45049.0
 Hồ Quan Sơn,45090.2
+Đình Thượng,45141.1
+Chùa Vàng,45142.8
 Bo De Lake,45147.8
+Đình Vàng,45153.0
 Hồ Lâm Du,45229.2
+Đình làng Đức Thụ,45233.1
 Ao đình Vàng,45282.7
+Kim Quy Pagoda,45307.3
 Vườn hoa Thạch Bàn,45426.9
 Vườn hoa Sơn Tây,45602.9
 Hồ Tư Đình,45628.0
@@ -301,19 +416,29 @@ Co Dung Lake,45740.8
 Công viên Thành cổ Sơn Tây,45861.7
 Ao Biến Thế,46025.5
 Giếng Ngọc,46035.6
+Đình chùa Thôn Hạ,46263.1
 Green Garden,46445.1
+Chùa Đào Xá,46495.9
+Đình,46629.6
+Chùa Thạch Cầu,46676.0
 Hồ Đầu Băng,46721.0
 Dự án cải tạo hồ Đầu Băng,46860.9
 Hồ Bộ Đội,46911.2
+Đền làng Ngô,46949.9
+Đình thôn Nội,46972.4
 T8 Park,47002.1
 Vườn hoa Trạm,47067.5
 Hồ Yên Bình,47251.9
 Giếng nước Thôn Nghĩa,47385.8
+Đình Chính Trung,47489.9
 Khu cảnh quan,47557.1
 Khu đua xe Ô tô địa hình - Otofun,47598.1
+Diên Khánh Pagoda,48013.1
 Viglacera Community Park,48071.8
 Vườn hoa Cự Khối,48096.4
+Chùa Tế Tiêu,48179.1
 Vnua Eco Education Center,48249.0
+Đền tưởng niệm liệt sĩ huyện Mỹ Đức,48580.3
 Vườn Vải,48623.7
 Hồ Tình bạn,48697.8
 Hồ Tình Yêu,48716.1
@@ -322,9 +447,11 @@ Hồ Tuyệt vọng,48787.8
 Hồ Cửa Đình,48832.2
 khu vui chơi giải trí công cộng,48846.5
 Vườn Long Viên,48883.0
+Văn Miếu - Sơn Tây,48893.0
 Vườn Lam Viên,48913.5
 Quảng Trường Sinh Viên,49016.9
 Vườn An Viên,49026.1
+Chùa Thọ Sơn,49523.9
 Ao Ông Hiền,49552.9
 Ao Ngõ Cống,49895.6
 Ao Mẫu Tư,49905.6
@@ -337,6 +464,9 @@ Hồ bán nguyệt,50803.1
 Hồ Bát Tràng,51005.9
 Salt Sea Lake,51039.9
 Ngoc Trai Lake-San Ho Park,51146.2
+Chùa Bình Nguyên,51151.6
+Dao Xuyen Temple,51216.1
+Miếu Bản,51264.9
 Rose Garden,51307.5
 VinUni Lake,51352.5
 Sân chơi thiếu nhi xã Đa Tốn,51356.7
