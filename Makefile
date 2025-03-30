@@ -11,18 +11,17 @@ GADM = gadm/gadm41_VNM_1.json
 
 COUNTRY_OSM_FILE = $$(basename $(URL))
 
-COUNTRY_OSM_DIR = ~/osm
-CITY_OSM_DIR = osm
+OSM_DIR = osm
 
 POLYGON = data/polygon/$(CITY_NAME).poly
-PARKS = data/parks/$(CITY_NAME).csv
+POINTS = data/points/$(CITY_NAME).csv
 AREA = data/area/$(CITY_NAME).csv
 DISTANCE = data/distance/$(CITY_NAME).csv
 WAYS = data/ways/$(CITY_NAME).csv
 
 VENV_PATH = ~/.venv/city-parks
 
-all: venv install jupyter
+all: venv install
 
 venv:
 	@python3 -m venv $(VENV_PATH)
@@ -30,14 +29,6 @@ venv:
 install: venv
 	@source $(VENV_PATH)/bin/activate && \
 	pip install --disable-pip-version-check -q -r requirements.txt
-
-jupyter: install
-	@source $(VENV_PATH)/bin/activate && \
-	python3 -m ipykernel install \
-	--user \
-	--name "$(PROJECT_NAME)" \
-	--display-name "$(PROJECT_NAME)" \
-	> /dev/null 2>&1
 
 docker:
 	@open -a Docker
@@ -48,9 +39,8 @@ docker:
 	@docker compose up --build -d
 
 country:
-	@mkdir -p $(COUNTRY_OSM_DIR)
-	@if [ ! -f $(COUNTRY_OSM_DIR)/$(COUNTRY_OSM_FILE) ]; then \
-		wget $(URL) -P $(COUNTRY_OSM_DIR); \
+	if [ ! -f $(OSM_DIR)/$(COUNTRY_OSM_FILE) ]; then \
+		wget $(URL) -P $(OSM_DIR); \
 	fi
 
 polygon:
@@ -59,24 +49,23 @@ polygon:
 	python3 scripts/get-polygon.py $(GADM) $(POLYGON);
 
 city:
-	@mkdir -p $(CITY_OSM_DIR)
-	@osmconvert $(COUNTRY_OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(POLYGON) -o=$(CITY_OSM_DIR)/$(CITY_NAME).osm.pbf
-	@osmium cat --overwrite $(CITY_OSM_DIR)/$(CITY_NAME).osm.pbf -o $(CITY_OSM_DIR)/$(CITY_NAME).osm
-	@bzip2 -f -k $(CITY_OSM_DIR)/$(CITY_NAME).osm
+	@osmconvert $(OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(POLYGON) -o=$(OSM_DIR)/$(CITY_NAME).osm.pbf
+	@osmium cat --overwrite $(OSM_DIR)/$(CITY_NAME).osm.pbf -o $(OSM_DIR)/$(CITY_NAME).osm
+	@bzip2 -f -k $(OSM_DIR)/$(CITY_NAME).osm
 
-parks:
-	@mkdir -p $(dir $(PARKS))
+points:
+	@mkdir -p $(dir $(POINTS))
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-parks.py $(CITY_OSM_DIR)/$(CITY_NAME).osm $(PARKS);
+	python3 scripts/get-points.py $(OSM_DIR)/$(CITY_NAME).osm $(POINTS);
 
 area:
 	@mkdir -p $(dir $(AREA))
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-area.py $(PARKS) $(AREA);
+	python3 scripts/get-area.py $(POINTS) $(AREA);
 
 distance:
 	@mkdir -p $(dir $(DISTANCE))
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-distance.py $(START_LAT) $(START_LON) $(PARKS) $(DISTANCE);
+	python3 scripts/get-distance.py $(START_LAT) $(START_LON) $(POINTS) $(DISTANCE);
 
-.PHONY: all venv install docker country polygon city parks area distance
+.PHONY: all venv install docker country polygon city points area distance
