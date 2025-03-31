@@ -1,873 +1,1341 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gpx version="1.1" creator="Evgeny Arbatov" xmlns="http://www.topografix.com/GPX/1/1">
-  <wpt lat="21.056260667112294" lon="105.82474700548129">
+  <wpt lat="21.0437555" lon="105.8357927">
     <name>West Lake</name>
   </wpt>
-  <wpt lat="20.961350797619048" lon="105.8556463904762">
-    <name>Yen So Park</name>
-  </wpt>
-  <wpt lat="21.01184174125" lon="105.84446088875">
-    <name>Thong Nhat Park</name>
-  </wpt>
-  <wpt lat="20.975449405263163" lon="105.67758992631578">
-    <name>Ho Ban Nguyet</name>
-  </wpt>
-  <wpt lat="21.065209452941176" lon="105.7867164">
-    <name>Peace Park</name>
-  </wpt>
-  <wpt lat="21.0060598245614" lon="105.85685903157896">
-    <name>Hanoi Youth Park</name>
-  </wpt>
-  <wpt lat="20.97764831923077" lon="105.83002267564102">
-    <name>Ho Dinh Cong</name>
-  </wpt>
-  <wpt lat="21.00259107777778" lon="105.79669131111112">
-    <name>Cong vien Thanh Xuan</name>
-  </wpt>
-  <wpt lat="21.038204846067416" lon="105.83391691910111">
-    <name>Presidential Palace Historical Site</name>
-  </wpt>
-  <wpt lat="21.007671620833335" lon="105.77176590833334">
-    <name>Me Tri Park</name>
-  </wpt>
-  <wpt lat="21.017389011650483" lon="105.82053914271845">
-    <name>Dong Da Lake</name>
-  </wpt>
-  <wpt lat="20.997361312499997" lon="105.791116675">
-    <name>Phung Khoang Park</name>
-  </wpt>
-  <wpt lat="20.98062813125" lon="105.7574917125">
-    <name>Astronomy Park</name>
-  </wpt>
-  <wpt lat="20.99900408225807" lon="105.71330477903226">
-    <name>Cong vien Nam An Khanh</name>
-  </wpt>
-  <wpt lat="21.051544849404763" lon="105.77473169404762">
-    <name>Ho Dieu Hoa</name>
-  </wpt>
-  <wpt lat="21.039909569642855" lon="105.83135727321428">
-    <name>Hanoi Botanical Gardens</name>
-  </wpt>
-  <wpt lat="21.0283103755102" lon="105.79080706734696">
-    <name>Cau Giay Park</name>
-  </wpt>
-  <wpt lat="21.04105087" lon="105.79649520333334">
-    <name>Cong vien Nghia Do</name>
-  </wpt>
-  <wpt lat="20.984736154545455" lon="105.8558298090909">
-    <name>Cong vien Den Lu</name>
-  </wpt>
-  <wpt lat="21.018831090000003" lon="105.81391622333334">
-    <name>Indira Gandhi Park</name>
-  </wpt>
-  <wpt lat="21.040967747368416" lon="105.77094346842104">
-    <name>Mai Dich Cemetery Park</name>
-  </wpt>
-  <wpt lat="20.99988390666667" lon="105.74139694">
-    <name>Central Park</name>
-  </wpt>
-  <wpt lat="21.064965666666673" lon="105.79610391333334">
-    <name>Cong vien Ngoai giao Doan</name>
-  </wpt>
-  <wpt lat="20.959343215384617" lon="105.77944413076922">
-    <name>Cong vien Ha Cau</name>
-  </wpt>
-  <wpt lat="21.02813082608696" lon="105.81968801739129">
-    <name>Giang Vo Lake</name>
-  </wpt>
-  <wpt lat="20.96004808181818" lon="105.73652903636363">
-    <name>Cong vien Am nhac Do Nghia</name>
-  </wpt>
-  <wpt lat="20.976971911764707" lon="105.79143401470589">
-    <name>Van Quan Lake Park</name>
-  </wpt>
-  <wpt lat="20.965343944444445" lon="105.83544499444444">
-    <name>Cong vien Linh Dam</name>
-  </wpt>
-  <wpt lat="20.99752964269663" lon="105.79085115280898">
-    <name>Ho Phung Khoang</name>
-  </wpt>
-  <wpt lat="21.072373283333334" lon="105.82318622037036">
-    <name>Ho Quang Ba</name>
-  </wpt>
-  <wpt lat="21.03845796428572" lon="105.76923610714286">
-    <name>Mai Dich Park</name>
-  </wpt>
-  <wpt lat="21.003798606451618" lon="105.75490311935484">
-    <name>Japanese Garden</name>
-  </wpt>
-  <wpt lat="21.012825010000004" lon="105.84011075333336">
-    <name>Cong vien Ba Mau</name>
-  </wpt>
-  <wpt lat="20.9844385125" lon="105.86806438333332">
-    <name>Cong vien KDT Vinh Hoang</name>
-  </wpt>
-  <wpt lat="21.03729429756098" lon="105.83846042926828">
-    <name>Archeological site of Thang Long Imperial Citadel</name>
-  </wpt>
-  <wpt lat="20.944088946666668" lon="105.86966822666666">
-    <name>Ao ca</name>
-  </wpt>
-  <wpt lat="21.04094298" lon="105.79592687833332">
-    <name>Ho Nghia Tan</name>
-  </wpt>
-  <wpt lat="20.996086038983048" lon="105.88823245762713">
-    <name>Ho Thanh Tri</name>
-  </wpt>
-  <wpt lat="21.013108761538465" lon="105.83101732692307">
-    <name>Xa Dan Lake</name>
-  </wpt>
-  <wpt lat="20.956018504166664" lon="105.76640489166664">
-    <name>Cong vien Van Phu</name>
-  </wpt>
-  <wpt lat="20.96375815" lon="105.82851793571427">
-    <name>Cong vien Ban dao Linh Dam</name>
-  </wpt>
-  <wpt lat="20.98490872072072" lon="105.85569848108108">
-    <name>Den Lu Lake</name>
-  </wpt>
-  <wpt lat="21.074852711111113" lon="105.82069986666666">
-    <name>Thung lung hoa Ho Tay</name>
-  </wpt>
-  <wpt lat="20.967163396153847" lon="105.82774067692309">
-    <name>Cong vien Bac Linh Dam</name>
-  </wpt>
-  <wpt lat="21.068401742857144" lon="105.82001595714284">
+  <wpt lat="21.0681651" lon="105.8211534">
     <name>Dam Dong</name>
   </wpt>
-  <wpt lat="20.99400426470588" lon="105.83563253235292">
-    <name>Ho Rua</name>
+  <wpt lat="21.0124793" lon="105.8320972">
+    <name>Xa Dan Lake</name>
   </wpt>
-  <wpt lat="20.98737457931034" lon="105.8096094637931">
-    <name>Ho Ha Dinh</name>
-  </wpt>
-  <wpt lat="20.94345469180328" lon="105.87302266393442">
-    <name>Ao duong trong</name>
-  </wpt>
-  <wpt lat="21.002096530769236" lon="105.93350240769232">
-    <name>Vuon thuc vat</name>
-  </wpt>
-  <wpt lat="20.978208149999997" lon="105.79058363571428">
-    <name>Ho Van Quan</name>
-  </wpt>
-  <wpt lat="20.97272198" lon="105.78158318666668">
-    <name>Vuon hoa Nguyen Trai</name>
-  </wpt>
-  <wpt lat="20.98661112352941" lon="105.81797539999998">
-    <name>Dam Chuoi</name>
-  </wpt>
-  <wpt lat="20.973618277777778" lon="105.87888612222224">
-    <name>Cong vien</name>
-  </wpt>
-  <wpt lat="20.950466218181816" lon="105.87443817272728">
-    <name>Ho cau Yen My</name>
-  </wpt>
-  <wpt lat="20.9847155125" lon="105.867784725">
-    <name>Ho Vinh Hoang</name>
-  </wpt>
-  <wpt lat="21.028997957142856" lon="105.83599213142855">
-    <name>Temple of Literature</name>
-  </wpt>
-  <wpt lat="20.94693412272727" lon="105.87547724090906">
-    <name>Ao</name>
-  </wpt>
-  <wpt lat="21.01199065263158" lon="105.82463273157896">
-    <name>Go Dong Da</name>
-  </wpt>
-  <wpt lat="20.835446117647063" lon="105.85397274117646">
-    <name>Ho Sen Chua Dau</name>
-  </wpt>
-  <wpt lat="20.994909485714288" lon="105.87703308571427">
-    <name>Ho Son</name>
-  </wpt>
-  <wpt lat="20.948088233333333" lon="105.87050096666668">
-    <name>Nui chua</name>
-  </wpt>
-  <wpt lat="21.0054849" lon="105.8371993236842">
-    <name>Ho Kim Lien</name>
-  </wpt>
-  <wpt lat="20.949385410526315" lon="105.87799221052632">
-    <name>Ao dau lang</name>
-  </wpt>
-  <wpt lat="21.03176421153846" lon="105.83940629615384">
-    <name>Lenin Park</name>
-  </wpt>
-  <wpt lat="20.99684276" lon="105.87522474">
-    <name>Cong vien ho Can</name>
-  </wpt>
-  <wpt lat="21.024916083783783" lon="105.8064416837838">
-    <name>Lang Lake</name>
-  </wpt>
-  <wpt lat="20.995101667741935" lon="105.87275184516128">
-    <name>Ho Duong Van Be</name>
-  </wpt>
-  <wpt lat="20.80408910357143" lon="105.86001426071428">
-    <name>Song Dinh</name>
-  </wpt>
-  <wpt lat="21.029702491666665" lon="105.76819768333336">
-    <name>Chua Dai An</name>
-  </wpt>
-  <wpt lat="21.02884372142857" lon="105.83543411428572">
-    <name>Giam Garden</name>
-  </wpt>
-  <wpt lat="20.99738757777778" lon="105.74446734444444">
-    <name>Ho Tay Mo</name>
-  </wpt>
-  <wpt lat="21.019908416666667" lon="105.79815088333332">
-    <name>Cong vien Yen Hoa</name>
-  </wpt>
-  <wpt lat="21.021638297058825" lon="105.83349564705884">
-    <name>Ho Van Chuong</name>
-  </wpt>
-  <wpt lat="20.97549787142857" lon="105.79051495714285">
-    <name>Vuon hoa Van Quan</name>
-  </wpt>
-  <wpt lat="20.987003609090912" lon="105.83157776363636">
-    <name>Vuon hoa Dinh Cong</name>
-  </wpt>
-  <wpt lat="20.99157831428571" lon="105.78902822857144">
-    <name>Vuon Trung Van</name>
-  </wpt>
-  <wpt lat="21.03518857948718" lon="105.83783932307692">
-    <name>Vuon hoa Kinh Thien</name>
-  </wpt>
-  <wpt lat="21.022375884210525" lon="105.6455262105263">
-    <name>Long Tri Lake</name>
-  </wpt>
-  <wpt lat="21.02749301578947" lon="105.85477693157895">
-    <name>Ly Thai To Park</name>
-  </wpt>
-  <wpt lat="21.01805570727273" lon="105.78429499636364">
-    <name>Landmark72 Garden</name>
-  </wpt>
-  <wpt lat="21.026684042307693" lon="105.8352398307692">
-    <name>Van Lake</name>
-  </wpt>
-  <wpt lat="21.00776881538462" lon="105.82405473846153">
-    <name>Vuon hoa Thuy loi</name>
-  </wpt>
-  <wpt lat="21.003766992857145" lon="105.74145590714284">
-    <name>Cong vien The thao</name>
-  </wpt>
-  <wpt lat="20.94803897" lon="105.86999433">
-    <name>Ao sen</name>
-  </wpt>
-  <wpt lat="21.066044538461536" lon="105.77345876153846">
-    <name>Ho cau Hung Thong</name>
-  </wpt>
-  <wpt lat="21.024438675000003" lon="105.80284785">
-    <name>Chua Lang</name>
-  </wpt>
-  <wpt lat="21.01529335" lon="105.799336075">
-    <name>Cong vien Trung Yen</name>
-  </wpt>
-  <wpt lat="21.111631477777777" lon="105.87115048888889">
-    <name>Pearl Well</name>
-  </wpt>
-  <wpt lat="21.04115715" lon="105.73281586666668">
-    <name>Park A - Van Canh Resident Area</name>
-  </wpt>
-  <wpt lat="21.1506808125" lon="105.7576073625">
-    <name>Ho 3 goc</name>
-  </wpt>
-  <wpt lat="21.051934960000004" lon="105.75636912">
-    <name>Chua But Moc</name>
-  </wpt>
-  <wpt lat="20.955680799999996" lon="105.85432570909092">
-    <name>Culture Village at Yen So Park</name>
-  </wpt>
-  <wpt lat="21.035589725" lon="105.8286356">
-    <name>Ho Dam Tron</name>
-  </wpt>
-  <wpt lat="21.01643862" lon="105.82717712000002">
-    <name>Vuon hoa 1-6</name>
-  </wpt>
-  <wpt lat="21.001277257894735" lon="105.82996208421052">
-    <name>Ho Ho Me</name>
-  </wpt>
-  <wpt lat="20.971733328571425" lon="105.8772595857143">
-    <name>Khu vui choi tre em</name>
-  </wpt>
-  <wpt lat="21.012165717647058" lon="105.8563115235294">
+  <wpt lat="21.0115747" lon="105.8564172">
     <name>Hai Ba Trung Lake</name>
   </wpt>
-  <wpt lat="20.669226496153847" lon="105.74496573076922">
-    <name>Chua Ha</name>
+  <wpt lat="20.9782934" lon="105.8323595">
+    <name>Dinh Cong Lake</name>
   </wpt>
-  <wpt lat="21.054486916666665" lon="105.76338488333332">
-    <name>Ho Phu Dien</name>
+  <wpt lat="21.2606693" lon="105.8265229">
+    <name>Dong Quan Lake</name>
   </wpt>
-  <wpt lat="21.036898325" lon="105.7363939625">
-    <name>Cong Vien C Khu Chung Cu Van Canh</name>
+  <wpt lat="21.0482736" lon="105.8760706">
+    <name>vuon hoa Ngoc Lam Lake</name>
   </wpt>
-  <wpt lat="21.01415045882353" lon="105.82464777058824">
-    <name>Vuon hoa Tran Quang Dieu</name>
+  <wpt lat="21.0490039" lon="105.8780256">
+    <name>Cau Tinh Lake</name>
   </wpt>
-  <wpt lat="20.99664441111111" lon="105.87532043333334">
-    <name>Ho Can</name>
-  </wpt>
-  <wpt lat="21.008498681818185" lon="105.82762326818182">
-    <name>Chua Boc</name>
-  </wpt>
-  <wpt lat="21.006236329166665" lon="105.71947038333332">
-    <name>Chua Ca</name>
-  </wpt>
-  <wpt lat="21.013987841666665" lon="105.78179173333336">
-    <name>Cong vien - Bai xe ngam Me Tri Ha</name>
-  </wpt>
-  <wpt lat="21.01403798" lon="105.85946966">
-    <name>Pasteur Garden</name>
-  </wpt>
-  <wpt lat="20.99937945" lon="105.8300073">
-    <name>Ho Khong Luc</name>
-  </wpt>
-  <wpt lat="21.016813483333333" lon="105.821118475">
-    <name>Vuon hoa Hoang Cau</name>
-  </wpt>
-  <wpt lat="21.03575901818182" lon="105.82656968787876">
-    <name>Ho Bay Gian</name>
-  </wpt>
-  <wpt lat="21.066511247058823" lon="105.70579343529413">
-    <name>Ao Muc Bai</name>
-  </wpt>
-  <wpt lat="21.02368529444444" lon="105.7928281722222">
-    <name>Chua Cot</name>
-  </wpt>
-  <wpt lat="20.984239421052628" lon="105.7851207263158">
-    <name>Vuon hoa Viet Kieu</name>
-  </wpt>
-  <wpt lat="20.98896484545455" lon="105.8069528909091">
-    <name>Ho Quat Re</name>
-  </wpt>
-  <wpt lat="20.97163428" lon="105.78143751333332">
-    <name>Vuon hoa</name>
-  </wpt>
-  <wpt lat="21.040095800000003" lon="105.8464381375">
+  <wpt lat="21.039877" lon="105.8469905">
     <name>Van Xuan Garden</name>
   </wpt>
-  <wpt lat="20.96988071666667" lon="105.83095115833332">
-    <name>Dai Tu</name>
-  </wpt>
-  <wpt lat="21.07973984827586" lon="105.834504862069">
-    <name>Pond of Red River</name>
-  </wpt>
-  <wpt lat="21.02764808" lon="105.84851568000002">
-    <name>St Joseph Major Seminary Hanoi</name>
-  </wpt>
-  <wpt lat="20.9558305" lon="105.85349786000002">
-    <name>Yen So Lake</name>
-  </wpt>
-  <wpt lat="20.973155083333335" lon="105.77947226666667">
-    <name>Vuon hoa Ha Dong</name>
-  </wpt>
-  <wpt lat="20.933759279999997" lon="105.83249879">
-    <name>Chua Phuc Long</name>
-  </wpt>
-  <wpt lat="20.988739416666665" lon="105.716104025">
-    <name>Chua Ngai Cau</name>
-  </wpt>
-  <wpt lat="21.02730482222222" lon="105.84955623333332">
-    <name>Hang Trong Garden</name>
-  </wpt>
-  <wpt lat="21.046527542307693" lon="105.86565496538462">
-    <name>Vuon hoa Bac Long Bien</name>
-  </wpt>
-  <wpt lat="21.038218340000004" lon="105.75768802">
-    <name>Thi Cam Temple</name>
-  </wpt>
-  <wpt lat="21.03157523333333" lon="105.82629024">
-    <name>Chua Kim Son</name>
-  </wpt>
-  <wpt lat="21.07437378" lon="105.70153888">
-    <name>San choi khu do thi Tan Tay Do</name>
-  </wpt>
-  <wpt lat="21.00283931" lon="105.81142423">
-    <name>Thuy dinh Nhan Chinh</name>
-  </wpt>
-  <wpt lat="21.02286652857143" lon="105.82488327142858">
-    <name>Chua Thanh Nhan</name>
-  </wpt>
-  <wpt lat="21.02446979642857" lon="105.85002679642857">
-    <name>Dong Thanh Phao lo Ha Noi</name>
-  </wpt>
-  <wpt lat="21.029138951851852" lon="105.82023352592591">
-    <name>Vuon hoa ho Giang Vo</name>
-  </wpt>
-  <wpt lat="21.05003506363636" lon="105.81302260909092">
-    <name>Chua Tinh Lau</name>
-  </wpt>
-  <wpt lat="20.93622392" lon="105.90497278">
-    <name>Nghia trang thon chu xa</name>
-  </wpt>
-  <wpt lat="21.126665135714287" lon="105.68132409285714">
-    <name>Chua Tien Tan</name>
-  </wpt>
-  <wpt lat="20.984688645454547" lon="105.81856894999996">
-    <name>Ho Khuong Dinh</name>
-  </wpt>
-  <wpt lat="21.020266228571423" lon="105.79577428571427">
-    <name>Vuon hoa Yen Hoa</name>
-  </wpt>
-  <wpt lat="20.99740016" lon="105.73880676">
-    <name>Tonkin's park</name>
-  </wpt>
-  <wpt lat="20.9695635" lon="105.79309650999998">
-    <name>Chua Thanh An</name>
-  </wpt>
-  <wpt lat="21.063343936000003" lon="105.703063644">
-    <name>Ao Lao</name>
-  </wpt>
-  <wpt lat="20.99557996" lon="105.80497102">
-    <name>San choi GoldSeason</name>
-  </wpt>
-  <wpt lat="21.00410438076923" lon="105.84334960000002">
-    <name>Ho Tien</name>
-  </wpt>
-  <wpt lat="20.9505512" lon="105.87678625714288">
-    <name>Ao dai</name>
-  </wpt>
-  <wpt lat="21.035741329629634" lon="105.83353665555556">
-    <name>Dien tich Chua Mot Cot</name>
-  </wpt>
-  <wpt lat="21.02648841028037" lon="105.85599163364483">
-    <name>Dien Hong Park</name>
-  </wpt>
-  <wpt lat="21.037793299999997" lon="105.73249953999998">
-    <name>Park B - Van Canh Resident Area</name>
-  </wpt>
-  <wpt lat="21.003898055555553" lon="105.82447006666666">
-    <name>Ao Khuong Thuong</name>
-  </wpt>
-  <wpt lat="21.01237366" lon="105.79989197999998">
-    <name>Ao lang</name>
-  </wpt>
-  <wpt lat="20.988525700000004" lon="105.67714822">
-    <name>Ao Dinh Lang Van Con</name>
-  </wpt>
-  <wpt lat="20.99132" lon="105.7996799">
-    <name>Vuon hoa Thanh Xuan Bac</name>
-  </wpt>
-  <wpt lat="21.047866660000004" lon="105.83670124">
-    <name>Tran Quoc Pagoda</name>
-  </wpt>
-  <wpt lat="21.00489559" lon="105.80188406">
-    <name>Vuon hoa Trung Hoa - Nhan Chinh</name>
-  </wpt>
-  <wpt lat="20.80429743636364" lon="105.84680497272728">
-    <name>Ao Sen lang Lieu Vien</name>
-  </wpt>
-  <wpt lat="21.02385435333333" lon="105.80091225333332">
-    <name>Ao Phu</name>
-  </wpt>
-  <wpt lat="21.03795457884615" lon="105.83340114038462">
-    <name>Fish pond</name>
-  </wpt>
-  <wpt lat="21.010072763333337" lon="105.82513516333334">
-    <name>Vuon hoa Cong doan</name>
-  </wpt>
-  <wpt lat="20.961962443478264" lon="105.82211392173916">
-    <name>Ho truoc dinh Bang A</name>
-  </wpt>
-  <wpt lat="20.96347775" lon="105.84997435">
-    <name>12 Zodiac Garden</name>
-  </wpt>
-  <wpt lat="20.94271281111111" lon="105.86215545555557">
-    <name>Dong Tri Parish Church</name>
-  </wpt>
-  <wpt lat="20.96099718" lon="105.74706164">
-    <name>Quang truong</name>
-  </wpt>
-  <wpt lat="20.99949598" lon="105.8443164">
-    <name>Vuon hoa Dai hoc Kinh te Quoc dan</name>
-  </wpt>
-  <wpt lat="20.983622250000003" lon="105.783576">
-    <name>Ao Mo Lao</name>
-  </wpt>
-  <wpt lat="21.043050213333338" lon="105.83646122666669">
-    <name>Quan Thanh Temple</name>
-  </wpt>
-  <wpt lat="21.023438357142854" lon="105.8570443904762">
+  <wpt lat="21.0230342" lon="105.8573004">
     <name>August 19 Garden</name>
   </wpt>
-  <wpt lat="20.9787017" lon="105.79504824">
-    <name>Vuon hoa Phu nu tu quan</name>
+  <wpt lat="20.9847042" lon="105.8189582">
+    <name>Khuong Dinh Lake</name>
   </wpt>
-  <wpt lat="21.02498673" lon="105.857795165">
-    <name>Co Tan Park</name>
+  <wpt lat="21.0115058" lon="105.8255133">
+    <name>Go Dong Da</name>
   </wpt>
-  <wpt lat="21.054992116666668" lon="105.84025266666669">
-    <name>An Duong Tennis Courts</name>
+  <wpt lat="21.0208565" lon="105.8339509">
+    <name>Van Chuong Lake</name>
   </wpt>
-  <wpt lat="21.03608506666667" lon="105.7794161">
-    <name>Dai tuong niem Liet si Phuong Mai Dich</name>
+  <wpt lat="21.0083454" lon="105.8459575">
+    <name>Thong Nhat Park</name>
   </wpt>
-  <wpt lat="21.010257322222223" lon="105.83333181111112">
-    <name>Cong vien Con Voi</name>
-  </wpt>
-  <wpt lat="20.9907402" lon="105.85218962">
-    <name>Chua Nga My</name>
-  </wpt>
-  <wpt lat="21.109164051578947" lon="105.87074564947368">
-    <name>Ho nuoc</name>
-  </wpt>
-  <wpt lat="21.0376875122449" lon="105.82934932653062">
-    <name>Ngoc Ha Lake</name>
-  </wpt>
-  <wpt lat="21.027976155555557" lon="105.84940896666666">
-    <name>Hanoi Archbishop's Residence</name>
-  </wpt>
-  <wpt lat="21.035279824" lon="105.83626734">
-    <name>Bai Say Garden</name>
-  </wpt>
-  <wpt lat="21.0086427125" lon="105.8034790375">
-    <name>Phuc Thanh Garden</name>
-  </wpt>
-  <wpt lat="20.98631118571428" lon="105.85092224285712">
-    <name>Cong vien Hoang Van Thu</name>
-  </wpt>
-  <wpt lat="20.97232946" lon="105.87870977999998">
-    <name>Cong vien noi bo</name>
-  </wpt>
-  <wpt lat="21.0272598" lon="105.82650381666669">
-    <name>Hao Nam Temple</name>
-  </wpt>
-  <wpt lat="21.03229001818182" lon="105.80114030909093">
-    <name>Ho Quan uy</name>
-  </wpt>
-  <wpt lat="20.97250249444444" lon="105.76245442777775">
-    <name>Ho Van Khe</name>
-  </wpt>
-  <wpt lat="20.993494014285712" lon="105.79401307142858">
-    <name>Vuon hoa Biet thu Quoc Hoi</name>
-  </wpt>
-  <wpt lat="21.04491396923077" lon="105.6977046">
-    <name>Ao Dinh</name>
-  </wpt>
-  <wpt lat="21.077996906060605" lon="105.77403093030304">
-    <name>Ao cau Vong</name>
-  </wpt>
-  <wpt lat="21.065463616666666" lon="105.78233369166666">
-    <name>Cong vien OCT1</name>
-  </wpt>
-  <wpt lat="20.783590955555553" lon="105.8278124888889">
-    <name>Ao Phuc Vien</name>
-  </wpt>
-  <wpt lat="21.01264022" lon="105.79526874">
-    <name>Trung Kinh Ha Playgroung</name>
-  </wpt>
-  <wpt lat="21.01766238571429" lon="105.82833552857144">
-    <name>Chua Nam Dong</name>
-  </wpt>
-  <wpt lat="20.947777114285714" lon="105.87075717142856">
-    <name>Yen My Pagoda</name>
-  </wpt>
-  <wpt lat="21.06228657826087" lon="105.8262969826087">
-    <name>Ao Dinh Tay Ho</name>
-  </wpt>
-  <wpt lat="21.023863233333337" lon="105.85771175">
-    <name>Music Garden</name>
-  </wpt>
-  <wpt lat="20.98034007777778" lon="105.80064674444444">
-    <name>Ao Chua</name>
-  </wpt>
-  <wpt lat="20.802555413333337" lon="105.86113905333332">
-    <name>Ao ca nha Truyen thong</name>
-  </wpt>
-  <wpt lat="21.01747281428571" lon="105.77926812142856">
-    <name>San Cay De</name>
-  </wpt>
-  <wpt lat="21.010617357894738" lon="105.83815654736844">
-    <name>Den Kim Lien</name>
-  </wpt>
-  <wpt lat="20.99243038" lon="105.81692146">
-    <name>Ao ca dinh Khuong Ha</name>
-  </wpt>
-  <wpt lat="21.010263575" lon="105.7632972375">
-    <name>Ho Phu Do</name>
-  </wpt>
-  <wpt lat="21.009414765217393" lon="105.7743813347826">
-    <name>The Matrix One Private Park</name>
-  </wpt>
-  <wpt lat="20.964756892307687" lon="105.85041355384617">
-    <name>Bamboo Garden</name>
-  </wpt>
-  <wpt lat="21.0409553" lon="105.81915729375">
-    <name>Chua Vinh Khanh</name>
-  </wpt>
-  <wpt lat="21.013458691666667" lon="105.86062623333332">
-    <name>Yersin Garden</name>
-  </wpt>
-  <wpt lat="21.045757420833333" lon="105.80736292916669">
-    <name>Chua Cong Yen</name>
-  </wpt>
-  <wpt lat="20.97895325" lon="105.78221754999998">
-    <name>Ao xom dong</name>
-  </wpt>
-  <wpt lat="20.94692546" lon="105.86898314">
-    <name>Ao dinh</name>
-  </wpt>
-  <wpt lat="20.99281226" lon="105.80763514">
-    <name>San choi toa nha Huy Hoang</name>
-  </wpt>
-  <wpt lat="21.042940071428575" lon="105.79296134285714">
-    <name>Vuon hoa Nghia Tan</name>
-  </wpt>
-  <wpt lat="21.01146119" lon="105.81216974">
-    <name>Dinh Ung Thien</name>
-  </wpt>
-  <wpt lat="21.127187325" lon="105.6810700125">
-    <name>Dinh Tien Tan</name>
-  </wpt>
-  <wpt lat="21.025296288" lon="105.859409108">
-    <name>Vuon hoa Bac Co</name>
-  </wpt>
-  <wpt lat="20.997954505000003" lon="105.730513305">
-    <name>Ho Tam Linh</name>
-  </wpt>
-  <wpt lat="21.0214688625" lon="105.85776813125">
-    <name>Vuon hoa Tao Dan</name>
-  </wpt>
-  <wpt lat="21.008118366666665" lon="105.83922872222222">
-    <name>Vuon hoa Kim Lien</name>
-  </wpt>
-  <wpt lat="20.98528882" lon="105.86306232">
-    <name>Den Lu Giang</name>
-  </wpt>
-  <wpt lat="21.009056294117645" lon="105.83823912352942">
-    <name>Vuon hoa Dao Duy Anh</name>
-  </wpt>
-  <wpt lat="21.032077066666663" lon="105.7934166888889">
-    <name>Ao Thap</name>
-  </wpt>
-  <wpt lat="20.948238328571428" lon="105.87103082857142">
-    <name>Vuon Bach Thao</name>
-  </wpt>
-  <wpt lat="20.94422395555555" lon="105.85361495555556">
-    <name>Dinh Chung</name>
-  </wpt>
-  <wpt lat="21.03530055625" lon="105.74975409375">
-    <name>Ao Thi Cam</name>
-  </wpt>
-  <wpt lat="21.01088914" lon="105.77986326">
-    <name>Ao Dai</name>
-  </wpt>
-  <wpt lat="21.036394460000004" lon="105.72966284000002">
-    <name>Van Canh War Soldier Memorial</name>
-  </wpt>
-  <wpt lat="21.032683966666667" lon="105.83319075833332">
-    <name>Le Truc Green Space</name>
-  </wpt>
-  <wpt lat="21.01080045" lon="105.84998434166668">
-    <name>Vuon hoa Dan Nam</name>
-  </wpt>
-  <wpt lat="21.03072175652174" lon="105.85238798260872">
-    <name>Jade Island</name>
-  </wpt>
-  <wpt lat="20.937445479999997" lon="105.9074314">
-    <name>Nghia trang Ho Pham</name>
-  </wpt>
-  <wpt lat="21.03447582" lon="105.7295547">
-    <name>Bi Temple Pond</name>
-  </wpt>
-  <wpt lat="21.043320878571425" lon="105.82528165714284">
-    <name>Vuon hoa Nguyen Dinh Thi</name>
-  </wpt>
-  <wpt lat="20.99067782" lon="105.85255216">
-    <name>Dinh Hoang Mai</name>
-  </wpt>
-  <wpt lat="20.97858252" lon="105.78228738">
-    <name>Cong vien to 9 Mo Lao</name>
-  </wpt>
-  <wpt lat="21.03827682222222" lon="105.7286843111111">
-    <name>Hau Ai Village Pond</name>
-  </wpt>
-  <wpt lat="21.04435799285714" lon="105.8043534">
-    <name>Ao Cau</name>
-  </wpt>
-  <wpt lat="20.97427946923077" lon="105.74467942307692">
-    <name>Be boi Duong Noi</name>
-  </wpt>
-  <wpt lat="21.010100987500003" lon="105.76716343125">
-    <name>Ao Phu Do</name>
-  </wpt>
-  <wpt lat="21.06917576" lon="105.81198795999998">
-    <name>Vuon hoa Lac Long Quan</name>
-  </wpt>
-  <wpt lat="21.019666045454542" lon="105.83368047272724">
-    <name>Chua Linh Ung</name>
-  </wpt>
-  <wpt lat="20.951429742857147" lon="105.71282102857144">
-    <name>Dinh Phuong Nghia</name>
-  </wpt>
-  <wpt lat="21.004233" lon="105.809557075">
-    <name>Dinh Quan Nhan</name>
-  </wpt>
-  <wpt lat="21.02662875" lon="105.850316725">
-    <name>Tay Son Park</name>
-  </wpt>
-  <wpt lat="21.03396987142857" lon="105.8456958285714">
-    <name>Vuon hoa Phung Hung</name>
-  </wpt>
-  <wpt lat="21.02248057777778" lon="105.80628118888887">
-    <name>ASEAN Square</name>
-  </wpt>
-  <wpt lat="21.02622697857143" lon="105.84538764285716">
-    <name>Quan Su Park</name>
-  </wpt>
-  <wpt lat="20.98741186666667" lon="105.84238398888888">
-    <name>Ao Nha Tho Lang Tam</name>
-  </wpt>
-  <wpt lat="21.012145309090908" lon="105.8382313">
-    <name>Dinh lang Trung Tu</name>
-  </wpt>
-  <wpt lat="21.01843685625" lon="105.858605975">
-    <name>Vuon hoa Tang Bat Ho</name>
-  </wpt>
-  <wpt lat="21.06372792222222" lon="105.70358664999998">
-    <name>Gieng Quan</name>
-  </wpt>
-  <wpt lat="21.028128063636363" lon="105.84327540909092">
-    <name>Vuon hoa Cua Nam</name>
-  </wpt>
-  <wpt lat="21.034745983333337" lon="105.7396775">
-    <name>1</name>
-  </wpt>
-  <wpt lat="21.120536320000003" lon="105.84719392000002">
-    <name>Bao Quyen farm</name>
-  </wpt>
-  <wpt lat="20.99398038" lon="105.87669098">
-    <name>Vuon hoa Vinh Hung</name>
-  </wpt>
-  <wpt lat="21.0441231" lon="105.7855970076923">
-    <name>Vuon hoa Dang Thuy Tram</name>
-  </wpt>
-  <wpt lat="20.96208212608696" lon="105.80191912608694">
-    <name>San betong bong ro + da bong mini</name>
-  </wpt>
-  <wpt lat="21.07672406" lon="105.79930242">
-    <name>Pomelo Park</name>
-  </wpt>
-  <wpt lat="20.802056157142857" lon="105.86116747142856">
-    <name>Ao sen nha Truyen Thong</name>
-  </wpt>
-  <wpt lat="21.01052339" lon="105.8529839">
-    <name>Chua Vua</name>
-  </wpt>
-  <wpt lat="21.038667566666668" lon="105.83948672857144">
-    <name>Vuon hoa Hoang Van Thu</name>
-  </wpt>
-  <wpt lat="20.961771411999997" lon="105.82171019600004">
-    <name>Ao Dinh Bang A</name>
-  </wpt>
-  <wpt lat="21.028781666666667" lon="105.83596537333332">
+  <wpt lat="21.0286071" lon="105.8360445">
     <name>Thien Quang Lake</name>
   </wpt>
-  <wpt lat="20.9794164" lon="105.74192064">
-    <name>Be boi</name>
+  <wpt lat="21.0183662" lon="105.8159351">
+    <name>Indira Gandhi Park</name>
   </wpt>
-  <wpt lat="20.9084715" lon="105.89278546">
-    <name>Den mau Dai Lo</name>
+  <wpt lat="21.0304538" lon="105.852503">
+    <name>Jade Island</name>
   </wpt>
-  <wpt lat="21.0655586" lon="105.77924774">
-    <name>Vien Village Communal Temple</name>
+  <wpt lat="21.0349749" lon="105.8365194">
+    <name>Bai Say Garden</name>
   </wpt>
-  <wpt lat="21.063796433333337" lon="105.78846023333334">
-    <name>Friendship Garden</name>
+  <wpt lat="21.0136237" lon="105.8599125">
+    <name>Pasteur Garden</name>
   </wpt>
-  <wpt lat="20.807004645" lon="105.8513902">
-    <name>Gieng dinh thon Nghiem Xa</name>
+  <wpt lat="21.0047322" lon="105.8376301">
+    <name>Kim Lien Lake</name>
   </wpt>
-  <wpt lat="21.0777915" lon="105.79657029999998">
-    <name>Pineapple Park</name>
+  <wpt lat="21.0038184" lon="105.8436235">
+    <name>Tien Lake</name>
   </wpt>
-  <wpt lat="21.03073297692308" lon="105.85236515384614">
+  <wpt lat="20.9855082" lon="105.856928">
+    <name>Den Lu Lake</name>
+  </wpt>
+  <wpt lat="20.9855947" lon="105.8577824">
+    <name>Den Lu Park</name>
+  </wpt>
+  <wpt lat="21.023469" lon="105.8067575">
+    <name>Lang Lake</name>
+  </wpt>
+  <wpt lat="21.0398019" lon="105.796647">
+    <name>Nghia Tan Lake</name>
+  </wpt>
+  <wpt lat="21.0233758" lon="105.8028347">
+    <name>Lang Pagoda</name>
+  </wpt>
+  <wpt lat="21.0306256" lon="105.8524523">
     <name>Ngoc Son Temple</name>
   </wpt>
-  <wpt lat="21.06865776" lon="105.76232711999998">
-    <name>Vuon nha ai do - Manh</name>
+  <wpt lat="21.0263282" lon="105.8356479">
+    <name>Van Lake</name>
   </wpt>
-  <wpt lat="21.01997948888889" lon="105.83454152222222">
-    <name>Dinh, den Trung Ta</name>
+  <wpt lat="21.0040402" lon="105.8248709">
+    <name>Ao Khuong Thuong</name>
   </wpt>
-  <wpt lat="21.029242185714285" lon="105.85673135714286">
-    <name>Vuon hoa Hang Voi</name>
+  <wpt lat="21.0013483" lon="105.8305377">
+    <name>Ho Me Lake</name>
   </wpt>
-  <wpt lat="21.01298385" lon="105.82383722000002">
-    <name>Den tho Quang Trung</name>
+  <wpt lat="21.026873" lon="105.791921">
+    <name>Cau Giay Park</name>
   </wpt>
-  <wpt lat="20.90605284" lon="105.89258206">
-    <name>Dam Temple</name>
+  <wpt lat="21.0309241" lon="105.8403128">
+    <name>Lenin Park</name>
   </wpt>
-  <wpt lat="21.01085072" lon="105.8142003">
-    <name>San choi khu tap the B8</name>
+  <wpt lat="21.0728532" lon="105.8213134">
+    <name>Thung lung hoa Ho Tay</name>
   </wpt>
-  <wpt lat="21.04081067" lon="105.84943779">
-    <name>Chua Phuc Lam</name>
+  <wpt lat="21.0319943" lon="105.7936452">
+    <name>Ao Thap</name>
   </wpt>
-  <wpt lat="21.0105393" lon="105.85685422000002">
-    <name>Chua Tho Lao</name>
+  <wpt lat="21.0354782" lon="105.8271662">
+    <name>Bay Gian Lake</name>
   </wpt>
-  <wpt lat="21.03136306" lon="105.82899292">
-    <name>Lang Phung Hung</name>
+  <wpt lat="21.0354488" lon="105.8292169">
+    <name>Dam Tron Lake</name>
   </wpt>
-  <wpt lat="21.010965975" lon="105.779099245">
-    <name>Ao Tron</name>
+  <wpt lat="21.0713909" lon="105.8251817">
+    <name>Quang Ba Lake</name>
   </wpt>
-  <wpt lat="20.9270661375" lon="105.8862102375">
-    <name>Mieu Tranh Khuc</name>
+  <wpt lat="21.0425291" lon="105.8802988">
+    <name>Hang Khong Lake</name>
   </wpt>
-  <wpt lat="20.95022154" lon="105.70981372">
-    <name>Van Quan Phuong Nghia</name>
+  <wpt lat="21.0514673" lon="105.8824501">
+    <name>Ga Lake</name>
   </wpt>
-  <wpt lat="21.01072818571429" lon="105.81410099999998">
-    <name>Mieu Thon Ha</name>
+  <wpt lat="21.0362042" lon="105.8731258">
+    <name>Bo De Lake</name>
   </wpt>
-  <wpt lat="21.028924914285714" lon="105.83667405714284">
-    <name>Chua Ba Nanh</name>
+  <wpt lat="21.0384606" lon="105.8317331">
+    <name>Hanoi Botanical Gardens</name>
   </wpt>
-  <wpt lat="21.035832266666667" lon="105.8336026777778">
-    <name>Ho Linh Chieu</name>
+  <wpt lat="21.0630382" lon="105.7897831">
+    <name>Peace Park</name>
   </wpt>
-  <wpt lat="21.0539746" lon="105.78695726">
-    <name>Mieu Than Go</name>
+  <wpt lat="21.0636027" lon="105.7884483">
+    <name>Friendship Garden</name>
   </wpt>
-  <wpt lat="21.041003633333336" lon="105.81925108888888">
+  <wpt lat="21.0492229" lon="105.7758223">
+    <name>Dieu Hoa Lake</name>
+  </wpt>
+  <wpt lat="21.0396186" lon="105.7974113">
+    <name>Nghia Do Park</name>
+  </wpt>
+  <wpt lat="20.9839253" lon="105.7839342">
+    <name>Ao Mo Lao</name>
+  </wpt>
+  <wpt lat="20.9790417" lon="105.782568">
+    <name>Ao xom dong</name>
+  </wpt>
+  <wpt lat="20.9681034" lon="105.8298421">
+    <name>Bac Linh Dam Park</name>
+  </wpt>
+  <wpt lat="21.0270959" lon="105.8500849">
+    <name>Hang Trong Garden</name>
+  </wpt>
+  <wpt lat="21.0477654" lon="105.8372624">
+    <name>Tran Quoc Pagoda</name>
+  </wpt>
+  <wpt lat="20.9957698" lon="105.886606">
+    <name>Thanh Tri Lake</name>
+  </wpt>
+  <wpt lat="20.9928506" lon="105.931387">
+    <name>Dao Xuyen Temple</name>
+  </wpt>
+  <wpt lat="20.9846426" lon="105.9289339">
+    <name>Khoan Te Lake</name>
+  </wpt>
+  <wpt lat="20.9625913" lon="105.8224086">
+    <name>truoc dinh Bang A Lake</name>
+  </wpt>
+  <wpt lat="20.9852337" lon="105.8681309">
+    <name>Vinh Hoang Lake</name>
+  </wpt>
+  <wpt lat="21.0409331" lon="105.8193342">
     <name>Chinh dien</name>
   </wpt>
-  <wpt lat="20.9745136" lon="105.78654072">
-    <name>Ao Dinh Van Quan</name>
+  <wpt lat="21.1496839" lon="105.7584416">
+    <name>3 goc Lake</name>
   </wpt>
-  <wpt lat="21.06174534" lon="105.77934642">
-    <name>Fresh Garden</name>
+  <wpt lat="21.0765314" lon="105.7993724">
+    <name>Pomelo Park</name>
   </wpt>
-  <wpt lat="21.06185014" lon="105.7796481">
-    <name>Nam Sau Garden</name>
+  <wpt lat="21.0776245" lon="105.7966381">
+    <name>Pineapple Park</name>
   </wpt>
-  <wpt lat="21.040911511111112" lon="105.84523486666666">
+  <wpt lat="21.0250658" lon="105.8597056">
+    <name>Bac Co Garden</name>
+  </wpt>
+  <wpt lat="20.9921727" lon="105.817054">
+    <name>Ao ca dinh Khuong Ha</name>
+  </wpt>
+  <wpt lat="21.0538975" lon="105.763707">
+    <name>Phu Dien Lake</name>
+  </wpt>
+  <wpt lat="21.027443" lon="105.9104541">
+    <name>Thach Ban Garden</name>
+  </wpt>
+  <wpt lat="21.037106" lon="105.9052661">
+    <name>Trung Tam Lake</name>
+  </wpt>
+  <wpt lat="21.0371175" lon="105.9048637">
+    <name>Trung Tam Park</name>
+  </wpt>
+  <wpt lat="21.0106011" lon="105.7803031">
+    <name>Ao Dai</name>
+  </wpt>
+  <wpt lat="21.0109514" lon="105.7791964">
+    <name>Ao Tron</name>
+  </wpt>
+  <wpt lat="20.9801893" lon="105.8009405">
+    <name>Ao Chua</name>
+  </wpt>
+  <wpt lat="21.0085275" lon="105.8037581">
+    <name>Phuc Thanh Garden</name>
+  </wpt>
+  <wpt lat="21.0256835" lon="105.887492">
+    <name>Dau Bang Lake</name>
+  </wpt>
+  <wpt lat="21.023184" lon="105.8011618">
+    <name>Ao Phu</name>
+  </wpt>
+  <wpt lat="21.0545943" lon="105.8401991">
+    <name>An Duong Tennis Courts</name>
+  </wpt>
+  <wpt lat="21.0163372" lon="105.9492223">
+    <name>Viglacera Community Park</name>
+  </wpt>
+  <wpt lat="21.1754715" lon="106.066517">
+    <name>Dai tuong niem Anh hung Liet si Bac Ninh</name>
+  </wpt>
+  <wpt lat="21.1118337" lon="105.9646183">
+    <name>Ao Den Dam</name>
+  </wpt>
+  <wpt lat="21.0023761" lon="105.799975">
+    <name>Thanh Xuan Park</name>
+  </wpt>
+  <wpt lat="21.1109781" lon="105.8713737">
+    <name>Pearl Well</name>
+  </wpt>
+  <wpt lat="21.0101749" lon="105.7634905">
+    <name>Phu Do Lake</name>
+  </wpt>
+  <wpt lat="21.0939414" lon="105.8766558">
+    <name>Phim truong Smiley Ville</name>
+  </wpt>
+  <wpt lat="20.9719362" lon="105.9288097">
+    <name>mua Ha Park</name>
+  </wpt>
+  <wpt lat="20.9719146" lon="105.9305327">
+    <name>mua Xuan Park</name>
+  </wpt>
+  <wpt lat="20.934132" lon="105.8326948">
+    <name>Phuc Long Pagoda</name>
+  </wpt>
+  <wpt lat="20.9953185" lon="105.8720961">
+    <name>Duong Van Be Lake</name>
+  </wpt>
+  <wpt lat="21.0641915" lon="105.7973308">
+    <name>Ngoai giao Doan Park</name>
+  </wpt>
+  <wpt lat="21.0046123" lon="105.9321066">
+    <name>Hi Vong Lake</name>
+  </wpt>
+  <wpt lat="21.0049333" lon="105.9330307">
+    <name>Tinh ban Lake</name>
+  </wpt>
+  <wpt lat="21.0050984" lon="105.9321524">
+    <name>Tinh Yeu Lake</name>
+  </wpt>
+  <wpt lat="21.0041201" lon="105.9329065">
+    <name>Tuyet vong Lake</name>
+  </wpt>
+  <wpt lat="20.9718196" lon="105.7828365">
+    <name>Nguyen Trai Garden</name>
+  </wpt>
+  <wpt lat="20.9732836" lon="105.7802222">
+    <name>Ha Dong Garden</name>
+  </wpt>
+  <wpt lat="21.0406272" lon="105.7333569">
+    <name>Park A - Van Canh Resident Area</name>
+  </wpt>
+  <wpt lat="21.0373639" lon="105.7328153">
+    <name>Park B - Van Canh Resident Area</name>
+  </wpt>
+  <wpt lat="21.0380117" lon="105.7289011">
+    <name>Hau Ai Village Pond</name>
+  </wpt>
+  <wpt lat="21.0342567" lon="105.7298061">
+    <name>Bi Temple Pond</name>
+  </wpt>
+  <wpt lat="20.964109" lon="105.8499755">
+    <name>12 Zodiac Garden</name>
+  </wpt>
+  <wpt lat="20.9563038" lon="105.8553978">
+    <name>Culture Village at Yen So Park</name>
+  </wpt>
+  <wpt lat="20.9649432" lon="105.8507475">
+    <name>Bamboo Garden</name>
+  </wpt>
+  <wpt lat="20.9564052" lon="105.8531283">
+    <name>Yen So Lake</name>
+  </wpt>
+  <wpt lat="21.0345807" lon="105.7397878">
+    <name>1</name>
+  </wpt>
+  <wpt lat="21.0376281" lon="105.7715357">
+    <name>Mai Dich Park</name>
+  </wpt>
+  <wpt lat="21.0364761" lon="105.7299737">
+    <name>Van Canh War Soldier Memorial</name>
+  </wpt>
+  <wpt lat="21.0366039" lon="105.7374809">
+    <name>C Khu Chung Cu Van Canh Park</name>
+  </wpt>
+  <wpt lat="21.0352917" lon="105.7502185">
+    <name>Ao Thi Cam</name>
+  </wpt>
+  <wpt lat="21.0377301" lon="105.7579539">
+    <name>Thi Cam Temple</name>
+  </wpt>
+  <wpt lat="21.0216074" lon="105.6461396">
+    <name>Long Tri Lake</name>
+  </wpt>
+  <wpt lat="20.9979761" lon="105.7143333">
+    <name>Nam An Khanh Park</name>
+  </wpt>
+  <wpt lat="20.9658407" lon="105.8370523">
+    <name>Linh Dam Park</name>
+  </wpt>
+  <wpt lat="21.0389013" lon="105.7721272">
+    <name>Mai Dich Cemetery Park</name>
+  </wpt>
+  <wpt lat="21.0174574" lon="105.7794231">
+    <name>San Cay De</name>
+  </wpt>
+  <wpt lat="21.019662" lon="105.7991263">
+    <name>Yen Hoa Park</name>
+  </wpt>
+  <wpt lat="21.0078542" lon="105.9311054">
+    <name>Vuon Vai</name>
+  </wpt>
+  <wpt lat="21.0775813" lon="105.7741488">
+    <name>Ao cau Vong</name>
+  </wpt>
+  <wpt lat="21.0650231" lon="105.7739435">
+    <name>cau Hung Thong Lake</name>
+  </wpt>
+  <wpt lat="21.0281117" lon="105.8214947">
+    <name>Vuon hoa ho Giang Vo</name>
+  </wpt>
+  <wpt lat="21.0274687" lon="105.8210937">
+    <name>Giang Vo Lake</name>
+  </wpt>
+  <wpt lat="20.9979838" lon="105.7450282">
+    <name>Tay Mo Lake</name>
+  </wpt>
+  <wpt lat="21.1717063" lon="106.0569282">
+    <name>Vo Cuong so 2 Garden</name>
+  </wpt>
+  <wpt lat="21.167232" lon="106.0705041">
+    <name>Nguyen Van Cu Park</name>
+  </wpt>
+  <wpt lat="21.0046842" lon="105.9298899">
+    <name>Quang Truong Sinh Vien</name>
+  </wpt>
+  <wpt lat="20.9912815" lon="105.8001321">
+    <name>Thanh Xuan Bac Garden</name>
+  </wpt>
+  <wpt lat="21.1088754" lon="105.8704479">
+    <name>nuoc Lake</name>
+  </wpt>
+  <wpt lat="21.106248" lon="105.9006679">
+    <name>HO</name>
+  </wpt>
+  <wpt lat="21.0539326" lon="105.7871051">
+    <name>Mieu Than Go</name>
+  </wpt>
+  <wpt lat="20.9946235" lon="105.8362668">
+    <name>Rua Lake</name>
+  </wpt>
+  <wpt lat="20.9864064" lon="105.8108093">
+    <name>Ha Dinh Lake</name>
+  </wpt>
+  <wpt lat="20.932209" lon="105.9502153">
+    <name>Nha Van Hoa So Dong</name>
+  </wpt>
+  <wpt lat="20.9943946" lon="105.8764653">
+    <name>Son Lake</name>
+  </wpt>
+  <wpt lat="20.9963053" lon="105.8749973">
+    <name>Can Lake</name>
+  </wpt>
+  <wpt lat="21.0661744" lon="105.7062193">
+    <name>Ao Muc Bai</name>
+  </wpt>
+  <wpt lat="21.0637136" lon="105.7037457">
+    <name>Gieng Quan</name>
+  </wpt>
+  <wpt lat="21.0263036" lon="105.8505249">
+    <name>Tay Son Park</name>
+  </wpt>
+  <wpt lat="21.1463049" lon="105.9302187">
+    <name>Phu Khe Park</name>
+  </wpt>
+  <wpt lat="21.1417393" lon="105.9346346">
+    <name>Vinh Lai Pagoda</name>
+  </wpt>
+  <wpt lat="21.1505137" lon="105.9287039">
+    <name>Dinh Mac Lake</name>
+  </wpt>
+  <wpt lat="21.1443073" lon="105.9749593">
+    <name>Ngo Gia Tu Park</name>
+  </wpt>
+  <wpt lat="21.1216298" lon="105.9491487">
+    <name>Dinh lang Trang Liet</name>
+  </wpt>
+  <wpt lat="21.1189404" lon="105.9273192">
+    <name>Dinh lang Da Van</name>
+  </wpt>
+  <wpt lat="21.1359962" lon="105.9360294">
+    <name>Dinh lang Tien Bao</name>
+  </wpt>
+  <wpt lat="21.1394353" lon="105.9415093">
+    <name>Dinh Dong Ky</name>
+  </wpt>
+  <wpt lat="20.9719709" lon="105.8765216">
+    <name>Khu vui choi tre em</name>
+  </wpt>
+  <wpt lat="20.9725159" lon="105.8785854">
+    <name>noi bo Park</name>
+  </wpt>
+  <wpt lat="20.9744155" lon="105.8781796">
+    <name>Cong vien</name>
+  </wpt>
+  <wpt lat="21.0819686" lon="105.9201457">
+    <name>Cong Thon Lake</name>
+  </wpt>
+  <wpt lat="21.0817497" lon="105.9053372">
+    <name>Ba Goc Lake</name>
+  </wpt>
+  <wpt lat="21.084843" lon="105.9045575">
+    <name>Den Du Ngoai</name>
+  </wpt>
+  <wpt lat="21.0920395" lon="105.9059351">
+    <name>Xuan Duc Park</name>
+  </wpt>
+  <wpt lat="21.1457381" lon="105.9342219">
+    <name>Dinh Phu Khe Duoi</name>
+  </wpt>
+  <wpt lat="21.1459141" lon="105.9340687">
+    <name>Dinh Phu Khe Tren</name>
+  </wpt>
+  <wpt lat="20.9974043" lon="105.7936318">
+    <name>Phung Khoang Park</name>
+  </wpt>
+  <wpt lat="20.9479947" lon="105.8706476">
+    <name>Yen My Pagoda</name>
+  </wpt>
+  <wpt lat="20.9491811" lon="105.869883">
+    <name>Nui chua</name>
+  </wpt>
+  <wpt lat="20.9485777" lon="105.8707684">
+    <name>Vuon Bach Thao</name>
+  </wpt>
+  <wpt lat="20.9460411" lon="105.8706108">
+    <name>Ao ca</name>
+  </wpt>
+  <wpt lat="20.9516927" lon="105.8754574">
+    <name>cau Yen My Lake</name>
+  </wpt>
+  <wpt lat="20.9508761" lon="105.8766751">
+    <name>Ao dai</name>
+  </wpt>
+  <wpt lat="20.9449454" lon="105.8731261">
+    <name>Ao duong trong</name>
+  </wpt>
+  <wpt lat="20.9505627" lon="105.8790137">
+    <name>Ao dau lang</name>
+  </wpt>
+  <wpt lat="20.9482624" lon="105.8763112">
+    <name>Ao</name>
+  </wpt>
+  <wpt lat="20.947103" lon="105.8687018">
+    <name>Ao dinh</name>
+  </wpt>
+  <wpt lat="21.1137545" lon="105.9704671">
+    <name>Ao lang Yen La</name>
+  </wpt>
+  <wpt lat="21.1272848" lon="105.9656383">
+    <name>Ao lang Cam</name>
+  </wpt>
+  <wpt lat="21.1799243" lon="106.0628216">
+    <name>Toa Giam muc Bac Ninh</name>
+  </wpt>
+  <wpt lat="21.1799373" lon="106.0621037">
+    <name>Nha Tho Chinh Toa Giao Phan Bac Ninh</name>
+  </wpt>
+  <wpt lat="21.1615069" lon="106.0571414">
+    <name>Kha Le Garden</name>
+  </wpt>
+  <wpt lat="21.1706738" lon="106.0580666">
+    <name>Vo Cuong so 5 Garden</name>
+  </wpt>
+  <wpt lat="21.1699435" lon="106.0541291">
+    <name>Khu Hoa Dinh Park</name>
+  </wpt>
+  <wpt lat="21.1178539" lon="105.9705238">
+    <name>Phu Dien Park</name>
+  </wpt>
+  <wpt lat="21.1799624" lon="106.0581517">
+    <name>Vuon Cay Ket Nghia Bac Ninh - Cho Lon</name>
+  </wpt>
+  <wpt lat="21.0358243" lon="105.8336265">
+    <name>One Pillar Pagoda</name>
+  </wpt>
+  <wpt lat="21.0357534" lon="105.8336533">
+    <name>Linh Chieu Lake</name>
+  </wpt>
+  <wpt lat="21.0376627" lon="105.8335154">
+    <name>Fish pond</name>
+  </wpt>
+  <wpt lat="21.035526" lon="105.8338162">
+    <name>Dien tich Chua Mot Cot</name>
+  </wpt>
+  <wpt lat="21.037039" lon="105.829439">
+    <name>Ngoc Ha Lake</name>
+  </wpt>
+  <wpt lat="21.0427551" lon="105.8367321">
+    <name>Quan Thanh Temple</name>
+  </wpt>
+  <wpt lat="21.0408014" lon="105.8194215">
+    <name>Vinh Khanh Pagoda</name>
+  </wpt>
+  <wpt lat="21.0655142" lon="105.7793887">
+    <name>Vien Village Communal Temple</name>
+  </wpt>
+  <wpt lat="21.0652936" lon="105.7826073">
+    <name>OCT1 Park</name>
+  </wpt>
+  <wpt lat="21.0374812" lon="105.8470575">
+    <name>Phap Bao Tang Pagoda</name>
+  </wpt>
+  <wpt lat="21.0408106" lon="105.8452631">
     <name>Yen Thanh Temple</name>
   </wpt>
-  <wpt lat="21.006241354999997" lon="105.843129025">
-    <name>Dai phun nuoc Bach Khoa</name>
+  <wpt lat="21.0560034" lon="105.8692968">
+    <name>nha van hoa to 16</name>
   </wpt>
-  <wpt lat="20.9787528" lon="105.77224689999998">
-    <name>Dai phun nuoc</name>
+  <wpt lat="21.0278258" lon="105.849735">
+    <name>Hanoi Archbishop's Residence</name>
   </wpt>
-  <wpt lat="20.907805699999997" lon="105.89302644">
-    <name>Mieu Cau Quan</name>
+  <wpt lat="21.0271969" lon="105.8488816">
+    <name>St Joseph Major Seminary Hanoi</name>
   </wpt>
-  <wpt lat="20.97953144" lon="105.74199492">
+  <wpt lat="21.0275348" lon="105.8351368">
+    <name>Giam Garden</name>
+  </wpt>
+  <wpt lat="21.028752" lon="105.8366629">
+    <name>Ba Nanh Pagoda</name>
+  </wpt>
+  <wpt lat="21.0259844" lon="105.8454235">
+    <name>Quan Su Park</name>
+  </wpt>
+  <wpt lat="21.0247674" lon="105.858221">
+    <name>Co Tan Park</name>
+  </wpt>
+  <wpt lat="21.0238899" lon="105.85015">
+    <name>Dong Thanh Phao lo Ha Noi</name>
+  </wpt>
+  <wpt lat="21.0481899" lon="105.8752616">
+    <name>Ngoc Lam Flower Garden</name>
+  </wpt>
+  <wpt lat="21.0391638" lon="105.8776495">
+    <name>Bo De Xanh Park</name>
+  </wpt>
+  <wpt lat="21.0381465" lon="105.8700735">
+    <name>Ao lang Ai Mo</name>
+  </wpt>
+  <wpt lat="21.0482099" lon="105.8853064">
+    <name>Gia Thuy Park</name>
+  </wpt>
+  <wpt lat="20.9618641" lon="105.821843">
+    <name>Bang A Pond</name>
+  </wpt>
+  <wpt lat="21.0528902" lon="105.8999712">
+    <name>Gieng co</name>
+  </wpt>
+  <wpt lat="21.0144222" lon="105.8253872">
+    <name>Tran Quang Dieu Garden</name>
+  </wpt>
+  <wpt lat="20.9868033" lon="105.8323651">
+    <name>Dinh Cong Garden</name>
+  </wpt>
+  <wpt lat="20.9927102" lon="105.8079745">
+    <name>San choi toa nha Huy Hoang</name>
+  </wpt>
+  <wpt lat="20.9936145" lon="105.9553721">
+    <name>Salt Sea Lake</name>
+  </wpt>
+  <wpt lat="20.9872574" lon="105.9420712">
+    <name>VinUni Lake</name>
+  </wpt>
+  <wpt lat="20.9936541" lon="105.9462295">
+    <name>Pearl Lake</name>
+  </wpt>
+  <wpt lat="20.806747" lon="105.669508">
+    <name>Quan Tha Temple</name>
+  </wpt>
+  <wpt lat="20.7966523" lon="105.6812534">
+    <name>Dinh lang Thuong Lam</name>
+  </wpt>
+  <wpt lat="20.7971049" lon="105.6760807">
+    <name>Thuong Lam Pagoda</name>
+  </wpt>
+  <wpt lat="20.7950365" lon="105.7067788">
+    <name>Huong Van Pagoda</name>
+  </wpt>
+  <wpt lat="20.7817423" lon="105.7041326">
+    <name>Que Lam Pagoda</name>
+  </wpt>
+  <wpt lat="20.7872315" lon="105.703501">
+    <name>Gieng giua</name>
+  </wpt>
+  <wpt lat="20.821441" lon="105.6868931">
+    <name>Dinh Yen Lac</name>
+  </wpt>
+  <wpt lat="20.8169212" lon="105.6769055">
+    <name>lang Yen Son Pagoda</name>
+  </wpt>
+  <wpt lat="20.8165367" lon="105.6789905">
+    <name>Yen Son Village Temple</name>
+  </wpt>
+  <wpt lat="20.8257485" lon="105.6678155">
+    <name>thon Duong Ke Pagoda</name>
+  </wpt>
+  <wpt lat="20.8252234" lon="105.6682144">
+    <name>Dinh Lang Duong Ke</name>
+  </wpt>
+  <wpt lat="20.8134133" lon="105.7081669">
+    <name>Phuc Lam Village Temple</name>
+  </wpt>
+  <wpt lat="20.8150797" lon="105.7087675">
+    <name>Tu doan Truyen Tin</name>
+  </wpt>
+  <wpt lat="20.8346806" lon="105.667959">
+    <name>Ky Vien Lake</name>
+  </wpt>
+  <wpt lat="20.8359189" lon="105.6712018">
+    <name>Hoan Phuc Pagoda</name>
+  </wpt>
+  <wpt lat="20.781514" lon="105.717494">
+    <name>Tu Xa Pagoda</name>
+  </wpt>
+  <wpt lat="20.7715315" lon="105.7207704">
+    <name>Gieng lang Tran Phu</name>
+  </wpt>
+  <wpt lat="20.9867334" lon="105.85114">
+    <name>Hoang Van Thu Park</name>
+  </wpt>
+  <wpt lat="20.9653071" lon="105.8293317">
+    <name>Ban dao Linh Dam Park</name>
+  </wpt>
+  <wpt lat="20.9764029" lon="105.7927422">
+    <name>Van Quan Lake Park</name>
+  </wpt>
+  <wpt lat="20.9839452" lon="105.7864281">
+    <name>Viet Kieu Garden</name>
+  </wpt>
+  <wpt lat="20.9915979" lon="105.789953">
+    <name>Vuon Trung Van</name>
+  </wpt>
+  <wpt lat="20.9935063" lon="105.7943451">
+    <name>Biet thu Quoc Hoi Garden</name>
+  </wpt>
+  <wpt lat="21.0048556" lon="105.8023482">
+    <name>Trung Hoa - Nhan Chinh Garden</name>
+  </wpt>
+  <wpt lat="21.0154427" lon="105.8000229">
+    <name>Trung Yen Park</name>
+  </wpt>
+  <wpt lat="21.0200879" lon="105.7961505">
+    <name>Yen Hoa Garden</name>
+  </wpt>
+  <wpt lat="21.0280507" lon="105.8433999">
+    <name>Cua Nam Garden</name>
+  </wpt>
+  <wpt lat="20.9856531" lon="105.8683267">
+    <name>KDT Vinh Hoang Park</name>
+  </wpt>
+  <wpt lat="21.0460265" lon="105.865346">
+    <name>Bac Long Bien Garden</name>
+  </wpt>
+  <wpt lat="20.956269" lon="105.7675981">
+    <name>Van Phu Park</name>
+  </wpt>
+  <wpt lat="20.9606567" lon="105.7802808">
+    <name>Ha Cau Park</name>
+  </wpt>
+  <wpt lat="20.9787242" lon="105.7825485">
+    <name>to 9 Mo Lao Park</name>
+  </wpt>
+  <wpt lat="20.9804772" lon="105.7601462">
+    <name>Astronomy Park</name>
+  </wpt>
+  <wpt lat="20.9592109" lon="105.7380136">
+    <name>Am nhac Do Nghia Park</name>
+  </wpt>
+  <wpt lat="20.9994242" lon="105.8448028">
+    <name>Dai hoc Kinh te Quoc dan Garden</name>
+  </wpt>
+  <wpt lat="20.9968465" lon="105.9335723">
+    <name>San Ho Lake</name>
+  </wpt>
+  <wpt lat="20.9748434" lon="105.7918527">
+    <name>Van Quan Garden</name>
+  </wpt>
+  <wpt lat="20.9745728" lon="105.7866292">
+    <name>Van Quan Pond</name>
+  </wpt>
+  <wpt lat="20.97935" lon="105.7421371">
+    <name>Be boi</name>
+  </wpt>
+  <wpt lat="20.979494" lon="105.7420787">
     <name>Be boi tre em</name>
   </wpt>
-  <wpt lat="20.925626060000003" lon="105.88709322">
+  <wpt lat="21.010687" lon="105.8141989">
+    <name>Mieu Thon Ha</name>
+  </wpt>
+  <wpt lat="21.0108778" lon="105.8143517">
+    <name>San choi khu tap the B8</name>
+  </wpt>
+  <wpt lat="21.0116708" lon="105.8124383">
+    <name>Dinh Ung Thien</name>
+  </wpt>
+  <wpt lat="21.0129145" lon="105.8239861">
+    <name>Den tho Quang Trung</name>
+  </wpt>
+  <wpt lat="21.0025164" lon="105.7565821">
+    <name>Japanese Garden</name>
+  </wpt>
+  <wpt lat="21.0101635" lon="105.8337038">
+    <name>Con Voi Park</name>
+  </wpt>
+  <wpt lat="21.0079071" lon="105.8399404">
+    <name>Kim Lien Garden</name>
+  </wpt>
+  <wpt lat="21.1678084" lon="105.9248908">
+    <name>Ao Ho</name>
+  </wpt>
+  <wpt lat="20.998049" lon="105.7430544">
+    <name>Central Park</name>
+  </wpt>
+  <wpt lat="21.0036841" lon="105.7420815">
+    <name>The thao Park</name>
+  </wpt>
+  <wpt lat="20.9514417" lon="105.7131317">
+    <name>Dinh Phuong Nghia</name>
+  </wpt>
+  <wpt lat="20.9501495" lon="105.7100445">
+    <name>Van Quan Phuong Nghia</name>
+  </wpt>
+  <wpt lat="20.9979602" lon="105.7307252">
+    <name>Tam Linh Lake</name>
+  </wpt>
+  <wpt lat="21.0062045" lon="105.8431924">
+    <name>Dai phun nuoc Bach Khoa</name>
+  </wpt>
+  <wpt lat="21.0328234" lon="105.9128425">
+    <name>Ao Sai Dong</name>
+  </wpt>
+  <wpt lat="21.0224754" lon="105.8251987">
+    <name>Thanh Nhan Pagoda</name>
+  </wpt>
+  <wpt lat="20.9587039" lon="105.9286164">
+    <name>Swan Lake</name>
+  </wpt>
+  <wpt lat="20.9575872" lon="105.9274834">
+    <name>Swan Lake Park</name>
+  </wpt>
+  <wpt lat="20.9711677" lon="105.9309249">
+    <name>Mua Xuan Lake</name>
+  </wpt>
+  <wpt lat="21.0297266" lon="105.7686538">
+    <name>Dai An Pagoda</name>
+  </wpt>
+  <wpt lat="21.0259867" lon="105.8563664">
+    <name>Dien Hong Park</name>
+  </wpt>
+  <wpt lat="21.0175593" lon="105.8284927">
+    <name>Nam Dong Pagoda</name>
+  </wpt>
+  <wpt lat="21.0082501" lon="105.8282002">
+    <name>Boc Pagoda</name>
+  </wpt>
+  <wpt lat="21.0073801" lon="105.7733549">
+    <name>Me Tri Park</name>
+  </wpt>
+  <wpt lat="21.0042582" lon="105.8098717">
+    <name>Dinh Quan Nhan</name>
+  </wpt>
+  <wpt lat="20.9612337" lon="105.7474593">
+    <name>Quang truong</name>
+  </wpt>
+  <wpt lat="21.0272288" lon="105.8984165">
+    <name>Green Garden</name>
+  </wpt>
+  <wpt lat="21.059101" lon="105.9034294">
+    <name>Long Bien Park</name>
+  </wpt>
+  <wpt lat="20.9952827" lon="105.8055549">
+    <name>San choi GoldSeason</name>
+  </wpt>
+  <wpt lat="21.0685664" lon="105.7624848">
+    <name>Vuon nha ai do - Manh</name>
+  </wpt>
+  <wpt lat="21.0346167" lon="105.9397274">
+    <name>Vang Pond</name>
+  </wpt>
+  <wpt lat="21.0372953" lon="105.9324665">
+    <name>Nhat Dang Lake</name>
+  </wpt>
+  <wpt lat="21.0167729" lon="105.9092923">
+    <name>Bo Doi Lake</name>
+  </wpt>
+  <wpt lat="20.9914488" lon="105.9165161">
+    <name>Dam Bien Lake</name>
+  </wpt>
+  <wpt lat="20.9873567" lon="105.9179834">
+    <name>Dam Bien Lake</name>
+  </wpt>
+  <wpt lat="20.9851765" lon="105.9183238">
+    <name>Bat Trang Lake</name>
+  </wpt>
+  <wpt lat="21.0303296" lon="105.8821338">
+    <name>Tu Dinh Lake</name>
+  </wpt>
+  <wpt lat="21.0689335" lon="105.8122589">
+    <name>Lac Long Quan Garden</name>
+  </wpt>
+  <wpt lat="21.0499619" lon="105.9183622">
+    <name>Mars</name>
+  </wpt>
+  <wpt lat="21.0087661" lon="105.824739">
+    <name>Thuy loi Garden</name>
+  </wpt>
+  <wpt lat="21.0632628" lon="105.9150969">
+    <name>Giang Bien Garden</name>
+  </wpt>
+  <wpt lat="20.9966898" lon="105.7919343">
+    <name>Phung Khoang Lake</name>
+  </wpt>
+  <wpt lat="20.9866906" lon="105.8185171">
+    <name>Dam Chuoi</name>
+  </wpt>
+  <wpt lat="21.0337325" lon="105.8457887">
+    <name>Phung Hung Garden</name>
+  </wpt>
+  <wpt lat="21.0104984" lon="105.8384575">
+    <name>Den Kim Lien</name>
+  </wpt>
+  <wpt lat="21.0954676" lon="105.9160674">
+    <name>Nong dan Garden</name>
+  </wpt>
+  <wpt lat="21.0900671" lon="105.9226372">
+    <name>Thi tran Yen Vien Garden</name>
+  </wpt>
+  <wpt lat="21.0979036" lon="105.9234644">
+    <name>Vuon dinh La Coi</name>
+  </wpt>
+  <wpt lat="20.9743361" lon="105.7447868">
+    <name>Be boi Duong Noi</name>
+  </wpt>
+  <wpt lat="21.0957815" lon="105.9212929">
+    <name>Khu vui choi</name>
+  </wpt>
+  <wpt lat="21.039505" lon="105.9028909">
+    <name>Cho Phuc Dong Garden</name>
+  </wpt>
+  <wpt lat="20.9784808" lon="105.7954779">
+    <name>Phu nu tu quan Garden</name>
+  </wpt>
+  <wpt lat="20.9873646" lon="105.8426">
+    <name>Ao Nha Tho Lang Tam</name>
+  </wpt>
+  <wpt lat="21.184385" lon="106.0725218">
+    <name>Nguyen Gian Thanh Garden</name>
+  </wpt>
+  <wpt lat="21.1898075" lon="106.0637687">
+    <name>Ngo Si Lien Park</name>
+  </wpt>
+  <wpt lat="21.1851874" lon="106.0682627">
+    <name>Bac Ninh Park</name>
+  </wpt>
+  <wpt lat="21.0125326" lon="105.7956034">
+    <name>Trung Kinh Ha Playgroung</name>
+  </wpt>
+  <wpt lat="21.0089211" lon="105.8385467">
+    <name>Dao Duy Anh Garden</name>
+  </wpt>
+  <wpt lat="20.9996302" lon="105.8305331">
+    <name>Khong Luc Lake</name>
+  </wpt>
+  <wpt lat="20.9886325" lon="105.8075847">
+    <name>Quat Re Lake</name>
+  </wpt>
+  <wpt lat="21.1872076" lon="106.0630992">
+    <name>Di Tich Lich Su Van Hoa Dinh Thi Chung</name>
+  </wpt>
+  <wpt lat="21.0104336" lon="105.8569645">
+    <name>Tho Lao Pagoda</name>
+  </wpt>
+  <wpt lat="21.0008249" lon="105.9112373">
+    <name>Cua Dinh Lake</name>
+  </wpt>
+  <wpt lat="21.0301686" lon="105.9450108">
+    <name>Ao Bien The</name>
+  </wpt>
+  <wpt lat="20.988736" lon="105.6775961">
+    <name>Lang Van Con Pond</name>
+  </wpt>
+  <wpt lat="21.0619042" lon="105.8261418">
+    <name>Tay Ho Pond</name>
+  </wpt>
+  <wpt lat="21.0212153" lon="105.8579187">
+    <name>Tao Dan Garden</name>
+  </wpt>
+  <wpt lat="21.0028903" lon="105.8579629">
+    <name>Hanoi Youth Park</name>
+  </wpt>
+  <wpt lat="20.9787723" lon="105.7723083">
+    <name>Dai phun nuoc</name>
+  </wpt>
+  <wpt lat="21.0181974" lon="105.8585507">
+    <name>Tang Bat Ho Garden</name>
+  </wpt>
+  <wpt lat="21.0131868" lon="105.8608913">
+    <name>Yersin Garden</name>
+  </wpt>
+  <wpt lat="21.0323998" lon="105.8332783">
+    <name>Le Truc Green Space</name>
+  </wpt>
+  <wpt lat="21.0170549" lon="105.8234303">
+    <name>Dong Da Lake</name>
+  </wpt>
+  <wpt lat="21.0166714" lon="105.8217976">
+    <name>Hoang Cau Garden</name>
+  </wpt>
+  <wpt lat="21.0618053" lon="105.7797312">
+    <name>Nam Sau Garden</name>
+  </wpt>
+  <wpt lat="21.0616529" lon="105.7794861">
+    <name>Fresh Garden</name>
+  </wpt>
+  <wpt lat="21.0427095" lon="105.7932212">
+    <name>Nghia Tan Garden</name>
+  </wpt>
+  <wpt lat="21.036852" lon="105.7955541">
+    <name>Ha Pagoda</name>
+  </wpt>
+  <wpt lat="21.0069937" lon="105.9453178">
+    <name>Vuon An Vien</name>
+  </wpt>
+  <wpt lat="21.0078841" lon="105.9459891">
+    <name>Vuon Lam Vien</name>
+  </wpt>
+  <wpt lat="21.0087882" lon="105.9467467">
+    <name>Vuon Long Vien</name>
+  </wpt>
+  <wpt lat="21.1204714" lon="105.8473924">
+    <name>Bao Quyen farm</name>
+  </wpt>
+  <wpt lat="21.0358863" lon="105.7796911">
+    <name>Dai tuong niem Liet si Phuong Mai Dich</name>
+  </wpt>
+  <wpt lat="21.0075113" lon="105.9125596">
+    <name>Cu Khoi Garden</name>
+  </wpt>
+  <wpt lat="20.9697592" lon="105.7936204">
+    <name>Thanh An Pagoda</name>
+  </wpt>
+  <wpt lat="21.0565175" lon="105.873609">
+    <name>Thuong Thanh Garden</name>
+  </wpt>
+  <wpt lat="20.9431135" lon="105.8619236">
+    <name>Dong Tri Parish Church</name>
+  </wpt>
+  <wpt lat="20.9384283" lon="105.9830043">
+    <name>Cha La 2 Park</name>
+  </wpt>
+  <wpt lat="20.9394921" lon="105.9850591">
+    <name>Cha La 3 Park</name>
+  </wpt>
+  <wpt lat="20.9416101" lon="105.9835615">
+    <name>Cha La 1 Park</name>
+  </wpt>
+  <wpt lat="20.9878389" lon="105.9523217">
+    <name>Hai Au Park</name>
+  </wpt>
+  <wpt lat="21.0002485" lon="105.9676497">
+    <name>ban nguyet Lake</name>
+  </wpt>
+  <wpt lat="20.9443595" lon="105.8537133">
+    <name>Dinh Chung</name>
+  </wpt>
+  <wpt lat="20.7840351" lon="105.8280926">
+    <name>Ao Phuc Vien</name>
+  </wpt>
+  <wpt lat="20.7784937" lon="105.8300316">
+    <name>Ao truong hoc</name>
+  </wpt>
+  <wpt lat="20.8071258" lon="105.8513987">
+    <name>Gieng dinh thon Nghiem Xa</name>
+  </wpt>
+  <wpt lat="20.8059289" lon="105.8596102">
+    <name>Song Dinh</name>
+  </wpt>
+  <wpt lat="20.7724678" lon="105.830069">
+    <name>Gieng lang Trung Lap</name>
+  </wpt>
+  <wpt lat="20.8045258" lon="105.846843">
+    <name>Ao Sen lang Lieu Vien</name>
+  </wpt>
+  <wpt lat="21.0430296" lon="105.8255579">
+    <name>Nguyen Dinh Thi Garden</name>
+  </wpt>
+  <wpt lat="20.9256793" lon="105.8871149">
     <name>Cung Dinh</name>
   </wpt>
-  <wpt lat="20.99148584" lon="105.85752762">
+  <wpt lat="20.9271377" lon="105.8861249">
+    <name>Mieu Tranh Khuc</name>
+  </wpt>
+  <wpt lat="20.9365201" lon="105.9047742">
+    <name>Nghia trang thon chu xa</name>
+  </wpt>
+  <wpt lat="20.9376476" lon="105.9074416">
+    <name>Nghia trang Ho Pham</name>
+  </wpt>
+  <wpt lat="20.9085957" lon="105.8927976">
+    <name>Den mau Dai Lo</name>
+  </wpt>
+  <wpt lat="20.9078694" lon="105.8930304">
+    <name>Mieu Cau Quan</name>
+  </wpt>
+  <wpt lat="20.9061634" lon="105.8925604">
+    <name>Dam Temple</name>
+  </wpt>
+  <wpt lat="21.0498076" lon="105.8132928">
+    <name>Tinh Lau Pagoda</name>
+  </wpt>
+  <wpt lat="21.0236512" lon="105.7933317">
+    <name>Cot Pagoda</name>
+  </wpt>
+  <wpt lat="21.0440656" lon="105.8044835">
+    <name>Ao Cau</name>
+  </wpt>
+  <wpt lat="21.0495072" lon="105.897263">
+    <name>o quy hoach C12/CX3 Garden</name>
+  </wpt>
+  <wpt lat="21.0470344" lon="105.9007027">
+    <name>Phuc Dong Garden</name>
+  </wpt>
+  <wpt lat="21.04456" lon="105.8970276">
+    <name>Tan Thuy Garden</name>
+  </wpt>
+  <wpt lat="21.0575938" lon="105.8719073">
+    <name>Ngoc Thuy Park</name>
+  </wpt>
+  <wpt lat="20.9457285" lon="105.9803119">
+    <name>San Ho 2 Park</name>
+  </wpt>
+  <wpt lat="20.9483035" lon="105.9733694">
+    <name>Sao Bien 1 Park</name>
+  </wpt>
+  <wpt lat="20.9450818" lon="105.9749309">
+    <name>Sao Bien 2 Park</name>
+  </wpt>
+  <wpt lat="21.0573583" lon="105.9012623">
+    <name>Kim Quan Flower Garden</name>
+  </wpt>
+  <wpt lat="21.0256502" lon="105.8875128">
+    <name>Du an cai tao ho Dau Bang</name>
+  </wpt>
+  <wpt lat="20.8362248" lon="105.8544453">
+    <name>Sen Chua Dau Lake</name>
+  </wpt>
+  <wpt lat="20.972734" lon="105.762621">
+    <name>Van Khe Lake</name>
+  </wpt>
+  <wpt lat="21.1270788" lon="105.6814105">
+    <name>Dinh Tien Tan</name>
+  </wpt>
+  <wpt lat="21.1265196" lon="105.6818423">
+    <name>Tien Tan Pagoda</name>
+  </wpt>
+  <wpt lat="20.9817418" lon="105.9133295">
+    <name>Mieu Ban</name>
+  </wpt>
+  <wpt lat="20.9839304" lon="105.9206673">
+    <name>Binh Nguyen Pagoda</name>
+  </wpt>
+  <wpt lat="21.0444048" lon="105.9027874">
+    <name>Mai Phuc Garden</name>
+  </wpt>
+  <wpt lat="20.9961691" lon="105.9164517">
+    <name>Ao Ong Hien</name>
+  </wpt>
+  <wpt lat="20.9938594" lon="105.9159403">
+    <name>Ao Ngo Cong</name>
+  </wpt>
+  <wpt lat="20.9937433" lon="105.9147921">
+    <name>Ao Mau Tu</name>
+  </wpt>
+  <wpt lat="21.0150172" lon="105.90532">
+    <name>Den lang Ngo</name>
+  </wpt>
+  <wpt lat="21.0135069" lon="105.7822942">
+    <name>- Bai xe ngam Me Tri Ha Park</name>
+  </wpt>
+  <wpt lat="21.0158583" lon="105.8275519">
+    <name>1-6 Garden</name>
+  </wpt>
+  <wpt lat="21.0323228" lon="105.8014674">
+    <name>Quan uy Lake</name>
+  </wpt>
+  <wpt lat="21.0258581" lon="105.8926371">
+    <name>Tram Garden</name>
+  </wpt>
+  <wpt lat="21.0397454" lon="105.8822689">
+    <name>Lam Ha Park</name>
+  </wpt>
+  <wpt lat="21.0674947" lon="105.8861037">
+    <name>Anh Duong Garden</name>
+  </wpt>
+  <wpt lat="21.0273173" lon="105.8357014">
+    <name>Temple of Literature</name>
+  </wpt>
+  <wpt lat="20.9917727" lon="105.9489439">
+    <name>Ngoc Trai Lake-San Ho Park</name>
+  </wpt>
+  <wpt lat="20.9971919" lon="105.7393418">
+    <name>Tonkin's park</name>
+  </wpt>
+  <wpt lat="21.0009512" lon="105.9471087">
+    <name>Bien Ho Park</name>
+  </wpt>
+  <wpt lat="20.9879244" lon="105.9425723">
+    <name>Rose Garden</name>
+  </wpt>
+  <wpt lat="20.951034" lon="105.9777434">
+    <name>San Ho 1 Park</name>
+  </wpt>
+  <wpt lat="21.0350552" lon="105.9394258">
+    <name>Vang Pagoda</name>
+  </wpt>
+  <wpt lat="21.0348689" lon="105.9395625">
+    <name>Dinh Vang</name>
+  </wpt>
+  <wpt lat="21.0611499" lon="105.8947033">
+    <name>Nha bia</name>
+  </wpt>
+  <wpt lat="21.0155114" lon="105.9373233">
+    <name>Dinh Chinh Trung</name>
+  </wpt>
+  <wpt lat="21.0538066" lon="105.8998">
+    <name>Nha truyen thong Le Mat</name>
+  </wpt>
+  <wpt lat="21.0535388" lon="105.9001189">
+    <name>Phuong Dinh</name>
+  </wpt>
+  <wpt lat="21.0535526" lon="105.9002392">
+    <name>Ta Vu</name>
+  </wpt>
+  <wpt lat="21.0535078" lon="105.9000262">
+    <name>Huu Vu</name>
+  </wpt>
+  <wpt lat="21.0536411" lon="105.8999459">
+    <name>Dai Dinh</name>
+  </wpt>
+  <wpt lat="21.0530682" lon="105.8998428">
+    <name>Mieu Cong chua</name>
+  </wpt>
+  <wpt lat="21.0236382" lon="105.8578338">
+    <name>Music Garden</name>
+  </wpt>
+  <wpt lat="20.9486745" lon="105.9714551">
+    <name>Trung tam Empire Park Park</name>
+  </wpt>
+  <wpt lat="20.9477011" lon="105.9670976">
+    <name>Co Xanh 1 Park</name>
+  </wpt>
+  <wpt lat="20.9450373" lon="105.9683966">
+    <name>Co Xanh 2 Park</name>
+  </wpt>
+  <wpt lat="20.9414749" lon="105.9701337">
+    <name>Hai Au Park</name>
+  </wpt>
+  <wpt lat="20.9448808" lon="105.9865445">
+    <name>Ngoc Trai Park</name>
+  </wpt>
+  <wpt lat="20.9889514" lon="105.9364641">
+    <name>San choi thieu nhi xa Da Ton</name>
+  </wpt>
+  <wpt lat="21.0272269" lon="105.8267669">
+    <name>Hao Nam Temple</name>
+  </wpt>
+  <wpt lat="21.074091" lon="105.8871764">
+    <name>Diem sinh hoat cong dong To dan pho so 19</name>
+  </wpt>
+  <wpt lat="21.0106394" lon="105.8501703">
+    <name>Dan Nam Garden</name>
+  </wpt>
+  <wpt lat="20.9940271" lon="105.876371">
+    <name>Vinh Hung Garden</name>
+  </wpt>
+  <wpt lat="20.9959151" lon="105.8748261">
+    <name>ho Can Park</name>
+  </wpt>
+  <wpt lat="21.0184815" lon="105.9333682">
+    <name>Khu canh quan</name>
+  </wpt>
+  <wpt lat="20.9622213" lon="105.8020136">
+    <name>San betong bong ro + da bong mini</name>
+  </wpt>
+  <wpt lat="21.0145709" lon="105.9292133">
+    <name>Vnua Eco Education Center</name>
+  </wpt>
+  <wpt lat="21.0121817" lon="105.8385145">
+    <name>Dinh lang Trung Tu</name>
+  </wpt>
+  <wpt lat="21.0104286" lon="105.8531327">
+    <name>Vua Pagoda</name>
+  </wpt>
+  <wpt lat="21.0312531" lon="105.8268419">
+    <name>Kim Son Pagoda</name>
+  </wpt>
+  <wpt lat="21.0193966" lon="105.8337548">
+    <name>Linh Ung Pagoda</name>
+  </wpt>
+  <wpt lat="21.0198945" lon="105.8346603">
+    <name>Dinh, den Trung Ta</name>
+  </wpt>
+  <wpt lat="21.04075" lon="105.8495855">
+    <name>Phuc Lam Pagoda</name>
+  </wpt>
+  <wpt lat="21.0455838" lon="105.807567">
+    <name>Cong Yen Pagoda</name>
+  </wpt>
+  <wpt lat="21.0103908" lon="105.8255809">
+    <name>Cong doan Garden</name>
+  </wpt>
+  <wpt lat="21.0385356" lon="105.8395787">
+    <name>Hoang Van Thu Garden</name>
+  </wpt>
+  <wpt lat="21.0107769" lon="105.8410049">
+    <name>Ba Mau Park</name>
+  </wpt>
+  <wpt lat="21.0291134" lon="105.8568019">
+    <name>Hang Voi Garden</name>
+  </wpt>
+  <wpt lat="21.0101043" lon="105.767338">
+    <name>Ao Phu Do</name>
+  </wpt>
+  <wpt lat="20.8021355" lon="105.8610966">
+    <name>Ao sen nha Truyen Thong</name>
+  </wpt>
+  <wpt lat="20.8027335" lon="105.8615083">
+    <name>Ao ca nha Truyen thong</name>
+  </wpt>
+  <wpt lat="21.0365141" lon="105.8339982">
+    <name>Presidential Palace Historical Site</name>
+  </wpt>
+  <wpt lat="21.0362899" lon="105.8392773">
+    <name>Archeological site of Thang Long Imperial Citadel</name>
+  </wpt>
+  <wpt lat="21.0342723" lon="105.8376958">
+    <name>Kinh Thien Garden</name>
+  </wpt>
+  <wpt lat="21.0144005" lon="105.9049297">
+    <name>T8 Park</name>
+  </wpt>
+  <wpt lat="21.1811206" lon="105.9163229">
+    <name>Den Thuong</name>
+  </wpt>
+  <wpt lat="21.0313032" lon="105.8291251">
+    <name>Lang Phung Hung</name>
+  </wpt>
+  <wpt lat="21.020187" lon="105.9184705">
+    <name>Thach Cau Pagoda</name>
+  </wpt>
+  <wpt lat="20.9910412" lon="105.8523928">
+    <name>Nga My Pagoda</name>
+  </wpt>
+  <wpt lat="20.990916" lon="105.8526344">
+    <name>Dinh Hoang Mai</name>
+  </wpt>
+  <wpt lat="20.9914735" lon="105.8575784">
     <name>Dinh Ong</name>
   </wpt>
-  <wpt lat="21.037522019999997" lon="105.84701174">
-    <name>Chua Phap Bao Tang</name>
+  <wpt lat="20.9854962" lon="105.8631998">
+    <name>Den Lu Giang</name>
   </wpt>
-  <wpt lat="21.0358513" lon="105.8336088375">
-    <name>One Pillar Pagoda</name>
+  <wpt lat="21.0538087" lon="105.9198454">
+    <name>Phuc Loi Garden</name>
+  </wpt>
+  <wpt lat="21.0173559" lon="105.7848098">
+    <name>Landmark72 Garden</name>
+  </wpt>
+  <wpt lat="21.0755087" lon="105.9672846">
+    <name>VSIP Park</name>
+  </wpt>
+  <wpt lat="21.1666735" lon="106.0689716">
+    <name>Bac Ninh International Friendship Park</name>
+  </wpt>
+  <wpt lat="21.1955861" lon="105.9862107">
+    <name>Man Xa Garden</name>
+  </wpt>
+  <wpt lat="21.0091429" lon="105.77467">
+    <name>The Matrix One Private Park</name>
+  </wpt>
+  <wpt lat="21.1385357" lon="105.9895413">
+    <name>Khu pho Hung Phuc Park</name>
+  </wpt>
+  <wpt lat="21.1938619" lon="106.0510769">
+    <name>Cao Duc Van An Park</name>
+  </wpt>
+  <wpt lat="21.0660645" lon="105.896714">
+    <name>phuong Thuong Thanh Garden</name>
+  </wpt>
+  <wpt lat="21.0223428" lon="105.8064749">
+    <name>ASEAN Square</name>
+  </wpt>
+  <wpt lat="21.0065962" lon="105.7201216">
+    <name>Ca Pagoda</name>
+  </wpt>
+  <wpt lat="20.9892128" lon="105.7162928">
+    <name>Ngai Cau Pagoda</name>
+  </wpt>
+  <wpt lat="21.0736925" lon="105.7014787">
+    <name>San choi khu do thi Tan Tay Do</name>
+  </wpt>
+  <wpt lat="21.0793167" lon="105.835268">
+    <name>Pond of Red River</name>
+  </wpt>
+  <wpt lat="21.1745743" lon="106.0686364">
+    <name>Bac Ninh Temple of Literature</name>
   </wpt>
 </gpx>

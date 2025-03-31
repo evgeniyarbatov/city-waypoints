@@ -1,8 +1,11 @@
 import sys
 import osmium
+import re
 
 import numpy as np
 import pandas as pd
+
+from haversine import haversine, Unit
 
 class WayHandler(osmium.SimpleHandler):
     def __init__(self):
@@ -33,6 +36,29 @@ class WayHandler(osmium.SimpleHandler):
 
     def get_name(self, tags):
         return tags.get('name:en', tags.get('name', 'Unknown'))
+    
+    def translate(self, name):
+        is_park_match = re.match(r'^Công viên\s+(.*)', name, re.IGNORECASE)
+        if is_park_match:
+            return f"{is_park_match.group(1)} Park"
+     
+        is_lake_match = re.match(r'^Hồ\s+(.*)', name, re.IGNORECASE)
+        if is_lake_match:
+            return f"{is_lake_match.group(1)} Lake"
+        
+        is_garden_match = re.match(r'^Vườn hoa\s+(.*)', name, re.IGNORECASE)
+        if is_garden_match:
+            return f"{is_garden_match.group(1)} Garden"      
+        
+        is_pond_match = re.match(r'^Ao Đình\s+(.*)', name, re.IGNORECASE)
+        if is_pond_match:
+            return f"{is_pond_match.group(1)} Pond"    
+          
+        is_pagoda_match = re.match(r'^Chùa\s+(.*)', name, re.IGNORECASE)
+        if is_pagoda_match:
+            return f"{is_pagoda_match.group(1)} Pagoda"            
+        
+        return name 
 
     def way(self, w):
         if not self.is_interesting_tag(w.tags):
@@ -50,28 +76,41 @@ class WayHandler(osmium.SimpleHandler):
         
         way_coords = np.array(way_nodes)
         if way_coords.size == 0:
-            return 
-        
-        way_lat = np.mean(way_coords[:, 0])
-        way_lon = np.mean(way_coords[:, 1])
+            return
 
         name = self.get_name(w.tags)
+        
+        name = self.translate(name)
 
         self.ways.append([
             name,
-            (float(way_lat), float(way_lon)),
             way_nodes,
         ])            
 
-def write_csv(ways, filename):
+def get_point(start, way_border):
+    distances = [haversine(start, (float(lat), float(lon))) for lat, lon in way_border]
+    min_dist_index = distances.index(min(distances))
+    return way_border[min_dist_index]
+
+def write_csv(
+    start_lat, 
+    start_lon, 
+    ways, 
+    filename,
+):
     df = pd.DataFrame(ways, columns=[
         'name',
-        'coordinates', 
         'way_border', 
     ])
-
-    df[['lat', 'lon']] = df['coordinates'].apply(pd.Series)
+    
     df = df[df['name'] != 'Unknown']
+    df = df.drop_duplicates(subset='name', keep=False) 
+        
+    df['way_border'] = df['way_border'].apply(lambda x: [(float(lat), float(lon)) for lat, lon in x])
+    
+    df[['lat', 'lon']] = df['way_border'].apply(
+        lambda way: pd.Series(get_point((float(start_lat), float(start_lon)), way))
+    )
     
     df[[
         'name',
@@ -80,10 +119,20 @@ def write_csv(ways, filename):
         'way_border',
     ]].to_csv(filename, index=False)
 
-def main(osm_file, filename):
+def main(
+    start_lat, 
+    start_lon, 
+    osm_file, 
+    filename,
+):
     handler = WayHandler()
     handler.apply_file(osm_file, locations=True)
-    write_csv(handler.ways, filename)
+    write_csv(
+        start_lat, 
+        start_lon,
+        handler.ways, 
+        filename,
+    )
 
 if __name__ == "__main__":
     main(*sys.argv[1:])

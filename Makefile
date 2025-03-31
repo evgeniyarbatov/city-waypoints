@@ -1,28 +1,19 @@
 PROJECT_NAME := $(shell basename $(PWD))
+VENV_PATH = ~/.venv/city-parks
 
 START_LAT = 20.99483375616291
 START_LON = 105.86792091531574
 
-CITY_NAME = hanoi
-
 URL = https://download.geofabrik.de/asia/vietnam-latest.osm.pbf
-
-GADM = gadm/gadm41_VNM_1.json
-
 COUNTRY_OSM_FILE = $$(basename $(URL))
 
 OSM_DIR = osm
 
-POLYGON = data/polygon/$(CITY_NAME).poly
-POINTS = data/points/$(CITY_NAME).csv
-AREA = data/area/$(CITY_NAME).csv
-DISTANCE = data/distance/$(CITY_NAME).csv
-WAYS = data/ways/$(CITY_NAME).csv
+CITY_NAME = hanoi
 
-RESULT = data/$(CITY_NAME).csv
+CIRCLE = data/$(CITY_NAME).poly
+POINTS = data/$(CITY_NAME).csv
 WAYPOINTS = data/$(CITY_NAME).gpx
-
-VENV_PATH = ~/.venv/city-parks
 
 all: venv install
 
@@ -46,43 +37,27 @@ country:
 		wget $(URL) -P $(OSM_DIR); \
 	fi
 
-polygon:
-	@mkdir -p $(dir $(POLYGON))
+circle:
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-polygon.py $(GADM) $(POLYGON);
+	python3 scripts/get-circle.py $(START_LAT) $(START_LON) $(CIRCLE);
 
 city:
-	@osmconvert $(OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(POLYGON) -o=$(OSM_DIR)/$(CITY_NAME).osm.pbf
+	@osmconvert $(OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(CIRCLE) -o=$(OSM_DIR)/$(CITY_NAME).osm.pbf
 	@osmium cat --overwrite $(OSM_DIR)/$(CITY_NAME).osm.pbf -o $(OSM_DIR)/$(CITY_NAME).osm
 	@bzip2 -f -k $(OSM_DIR)/$(CITY_NAME).osm
 
 points:
-	@mkdir -p $(dir $(POINTS))
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-points.py $(OSM_DIR)/$(CITY_NAME).osm $(POINTS);
-
-area:
-	@mkdir -p $(dir $(AREA))
-	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-area.py $(POINTS) $(AREA);
-
-distance:
-	@mkdir -p $(dir $(DISTANCE))
-	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-distance.py $(START_LAT) $(START_LON) $(POINTS) $(DISTANCE);
-
-merge:
-	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/merge.py \
-	$(POINTS) \
-	$(AREA) \
-	$(DISTANCE) \
-	$(RESULT);
+	python3 scripts/get-points.py \
+	$(START_LAT) \
+	$(START_LON) \
+	$(OSM_DIR)/$(CITY_NAME).osm \
+	$(POINTS);
 
 waypoints:
 	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/waypoints.py \
-	$(RESULT) \
+	$(POINTS) \
 	$(WAYPOINTS);
 
-.PHONY: all venv install docker country polygon city points area distance merge waypoints
+.PHONY: all venv install docker country circle city points waypoints

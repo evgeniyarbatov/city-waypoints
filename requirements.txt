@@ -11,3 +11,4 @@ haversine
 matplotlib
 contextily
 unidecode
+geopy

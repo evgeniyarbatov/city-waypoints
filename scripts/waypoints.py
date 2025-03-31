@@ -6,7 +6,6 @@ import xml.etree.ElementTree as ET
 from unidecode import unidecode
 
 def get_waypoint_name(row):
-    distance = round(row["distance"] / 1000.0)
     return f'{unidecode(row["name"])}'
 
 def csv_to_gpx(input_csv, output_gpx):
