@@ -10,6 +10,7 @@ COUNTRY_OSM_FILE = $$(basename $(URL))
 OSM_DIR = osm
 
 CITY_NAME = hanoi
+RADIUS_KM = 30
 
 CIRCLE = data/$(CITY_NAME).poly
 POINTS = data/$(CITY_NAME).csv
@@ -39,7 +40,11 @@ country:
 
 circle:
 	@source $(VENV_PATH)/bin/activate && \
-	python3 scripts/get-circle.py $(START_LAT) $(START_LON) $(CIRCLE);
+	python3 scripts/get-circle.py \
+	$(START_LAT) \
+	$(START_LON) \
+	$(RADIUS_KM) \
+	$(CIRCLE);
 
 city:
 	@osmconvert $(OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(CIRCLE) -o=$(OSM_DIR)/$(CITY_NAME).osm.pbf
@@ -54,10 +59,18 @@ points:
 	$(OSM_DIR)/$(CITY_NAME).osm \
 	$(POINTS);
 
+clean:
+	@source $(VENV_PATH)/bin/activate && \
+	python3 scripts/clean-points.py \
+	$(START_LAT) \
+	$(START_LON) \
+	$(RADIUS_KM) \
+	$(POINTS);
+
 waypoints:
 	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/waypoints.py \
 	$(POINTS) \
 	$(WAYPOINTS);
 
-.PHONY: all venv install docker country circle city points waypoints
+.PHONY: all venv install docker country circle city points clean waypoints

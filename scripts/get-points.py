@@ -1,6 +1,5 @@
 import sys
 import osmium
-import re
 
 import numpy as np
 import pandas as pd
@@ -36,29 +35,6 @@ class WayHandler(osmium.SimpleHandler):
 
     def get_name(self, tags):
         return tags.get('name:en', tags.get('name', 'Unknown'))
-    
-    def translate(self, name):
-        is_park_match = re.match(r'^Công viên\s+(.*)', name, re.IGNORECASE)
-        if is_park_match:
-            return f"{is_park_match.group(1)} Park"
-     
-        is_lake_match = re.match(r'^Hồ\s+(.*)', name, re.IGNORECASE)
-        if is_lake_match:
-            return f"{is_lake_match.group(1)} Lake"
-        
-        is_garden_match = re.match(r'^Vườn hoa\s+(.*)', name, re.IGNORECASE)
-        if is_garden_match:
-            return f"{is_garden_match.group(1)} Garden"      
-        
-        is_pond_match = re.match(r'^Ao Đình\s+(.*)', name, re.IGNORECASE)
-        if is_pond_match:
-            return f"{is_pond_match.group(1)} Pond"    
-          
-        is_pagoda_match = re.match(r'^Chùa\s+(.*)', name, re.IGNORECASE)
-        if is_pagoda_match:
-            return f"{is_pagoda_match.group(1)} Pagoda"            
-        
-        return name 
 
     def way(self, w):
         if not self.is_interesting_tag(w.tags):
@@ -79,8 +55,6 @@ class WayHandler(osmium.SimpleHandler):
             return
 
         name = self.get_name(w.tags)
-        
-        name = self.translate(name)
 
         self.ways.append([
             name,

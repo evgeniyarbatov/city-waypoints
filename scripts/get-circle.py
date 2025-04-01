@@ -3,14 +3,18 @@ import sys
 from geopy.distance import geodesic
 
 NUMBER_OF_POINTS = 32
-RADIUS_KM = 30
 
-def generate_circle_poly(lat, lon, filename):
+def generate_circle_poly(
+    lat, 
+    lon, 
+    radius_km, 
+    filename,
+):
     points = []
     for i in range(NUMBER_OF_POINTS):
         bearing = 360 * i / NUMBER_OF_POINTS
         
-        destination = geodesic(kilometers=RADIUS_KM).destination((lat, lon), bearing)
+        destination = geodesic(kilometers=radius_km).destination((lat, lon), bearing)
         point_lon, point_lat = destination.longitude, destination.latitude
         points.append((point_lon, point_lat))
 
@@ -23,12 +27,14 @@ def generate_circle_poly(lat, lon, filename):
 
 def main(
     start_lat,
-    start_lon, 
+    start_lon,
+    radius_km, 
     polygon_filename,
 ):
     generate_circle_poly(
         start_lat, 
         start_lon, 
+        radius_km,
         polygon_filename,
     )
 
