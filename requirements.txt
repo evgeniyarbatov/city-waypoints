@@ -12,3 +12,4 @@ matplotlib
 contextily
 unidecode
 geopy
+networkx

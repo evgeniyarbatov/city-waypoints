@@ -19,7 +19,7 @@ def get_route(
         data = response.json()
         if 'routes' in data and data['routes']:
             polyline_encoded = data['routes'][0]['geometry']
-            return polyline.decode(polyline_encoded)
+            return polyline.decode(polyline_encoded, 6)
     return []
 
 
