@@ -14,6 +14,7 @@ RADIUS_KM = 30
 
 CIRCLE = data/$(CITY_NAME).poly
 POINTS = data/$(CITY_NAME).csv
+ROUTES = data/$(CITY_NAME)-routes.csv
 WAYPOINTS = data/$(CITY_NAME).gpx
 
 all: venv install
@@ -73,4 +74,12 @@ waypoints:
 	$(POINTS) \
 	$(WAYPOINTS);
 
-.PHONY: all venv install docker country circle city points clean waypoints
+routes:
+	@source $(VENV_PATH)/bin/activate && \
+	python3 scripts/get-routes.py \
+	$(START_LAT) \
+	$(START_LON) \
+	$(POINTS) \
+	$(ROUTES);
+
+.PHONY: all venv install docker country circle city points clean waypoints routes

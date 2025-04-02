@@ -90,7 +90,6 @@ def write_csv(
         'name',
         'lat',
         'lon',
-        'way_border',
     ]].to_csv(filename, index=False)
 
 def main(
