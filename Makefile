@@ -10,7 +10,7 @@ COUNTRY_OSM_FILE = $$(basename $(URL))
 OSM_DIR = osm
 
 CITY_NAME = hanoi
-RADIUS_KM = 30
+RADIUS_KM = 20
 
 CIRCLE = data/$(CITY_NAME).poly
 POINTS = data/$(CITY_NAME).csv
@@ -26,14 +26,6 @@ venv:
 install: venv
 	@source $(VENV_PATH)/bin/activate && \
 	pip install --disable-pip-version-check -q -r requirements.txt
-
-docker:
-	@open -a Docker
-	@while ! docker info > /dev/null 2>&1; do \
-			sleep 1; \
-	done
-	@docker stop $$(docker ps -a -q)
-	@docker compose up --build -d
 
 country:
 	if [ ! -f $(OSM_DIR)/$(COUNTRY_OSM_FILE) ]; then \
@@ -60,6 +52,14 @@ points:
 	$(START_LON) \
 	$(OSM_DIR)/$(CITY_NAME).osm \
 	$(POINTS);
+
+docker:
+	@open -a Docker
+	@while ! docker info > /dev/null 2>&1; do \
+			sleep 1; \
+	done
+	@docker stop $$(docker ps -a -q)
+	@docker compose up --build -d
 
 clean:
 	@source $(VENV_PATH)/bin/activate && \

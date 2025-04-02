@@ -13,3 +13,4 @@ contextily
 unidecode
 geopy
 networkx
+gpxpy

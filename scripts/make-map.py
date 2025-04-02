@@ -1,5 +1,6 @@
 import sys
 import ast
+import gpxpy
 
 import pandas as pd
 import networkx as nx
@@ -59,6 +60,15 @@ class PointGraph:
         ET.indent(tree, space="  ")
         tree.write(filename, encoding="utf-8", xml_declaration=True)
 
+def simplify_gpx(map_filename):
+    with open(map_filename, 'r') as f:
+        gpx = gpxpy.parse(f)
+
+    gpx.simplify()
+
+    with open(map_filename, 'w') as f:
+        f.write(gpx.to_xml())
+
 def main(
     routes_filename,
     map_filename,
@@ -78,6 +88,8 @@ def main(
     path = pg.dfs_with_backtracking(start_point)
      
     pg.save_to_gpx(path, map_filename)
+    
+    simplify_gpx(map_filename)
   
 if __name__ == "__main__":
     main(*sys.argv[1:])
