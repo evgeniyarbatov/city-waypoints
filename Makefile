@@ -17,6 +17,7 @@ POINTS = data/$(CITY_NAME).csv
 ROUTES = data/$(CITY_NAME)-routes.csv
 WAYPOINTS = data/$(CITY_NAME)-waypoints.gpx
 MAP = data/$(CITY_NAME)-routes.gpx
+MAP_COMPRESSED = data/$(CITY_NAME)-routes-compressed.gpx
 
 all: venv install
 
@@ -89,4 +90,9 @@ map:
 	$(ROUTES) \
 	$(MAP);
 
-.PHONY: all venv install docker country circle city points clean waypoints routes
+compress:
+	@gpsbabel -i gpx -f $(MAP) \
+	-x simplify,crosstrack,error=0.01k \
+	-o gpx -F $(MAP_COMPRESSED);
+
+.PHONY: all venv install docker country circle city points clean waypoints routes map compress

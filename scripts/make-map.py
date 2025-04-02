@@ -89,7 +89,7 @@ def main(
      
     pg.save_to_gpx(path, map_filename)
     
-    simplify_gpx(map_filename)
+    # simplify_gpx(map_filename)
   
 if __name__ == "__main__":
     main(*sys.argv[1:])
