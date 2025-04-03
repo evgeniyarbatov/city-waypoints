@@ -44,7 +44,9 @@ circle:
 city:
 	@osmconvert $(OSM_DIR)/$(COUNTRY_OSM_FILE) -B=$(CIRCLE) -o=$(OSM_DIR)/$(CITY_NAME).osm.pbf
 	@osmium cat --overwrite $(OSM_DIR)/$(CITY_NAME).osm.pbf -o $(OSM_DIR)/$(CITY_NAME).osm
-	@bzip2 -f -k $(OSM_DIR)/$(CITY_NAME).osm
+
+	@osmfilter $(OSM_DIR)/$(CITY_NAME).osm --keep="highway=motorway highway=trunk highway=primary highway=secondary highway=tertiary" -o=$(OSM_DIR)/$(CITY_NAME)-roads.osm
+	@osmium cat --overwrite $(OSM_DIR)/$(CITY_NAME)-roads.osm -o $(OSM_DIR)/$(CITY_NAME)-roads.osm.pbf
 
 points:
 	@source $(VENV_PATH)/bin/activate && \
@@ -84,6 +86,11 @@ routes:
 	$(POINTS) \
 	$(ROUTES);
 
+match:
+	@source $(VENV_PATH)/bin/activate && \
+	python3 scripts/match-routes.py \
+	$(ROUTES);
+
 map:
 	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/make-map.py \
@@ -95,4 +102,4 @@ compress:
 	-x simplify,crosstrack,error=0.01k \
 	-o gpx -F $(MAP_COMPRESSED);
 
-.PHONY: all venv install docker country circle city points clean waypoints routes map compress
+.PHONY: all venv install docker country circle city points clean waypoints routes match map compress

@@ -22,6 +22,29 @@ services:
       --max-table-size 20000 \
       /data/hanoi.osrm
       "
+  osrm_roads:
+    image: osrm/osrm-backend
+    volumes:
+      - ./osm:/data
+      - ./profiles:/profiles
+    networks:
+      - default
+    ports:
+      - 6001:5000
+    restart: unless-stopped
+    command: >
+      bash -c "
+      osrm-extract -p /profiles/foot.lua /data/hanoi-roads.osm.pbf && 
+      osrm-partition /data/hanoi-roads.osrm && 
+      osrm-customize /data/hanoi-roads.osrm && 
+      osrm-routed \
+      --algorithm mld \
+      --max-matching-size 20000 \
+      --max-viaroute-size 20000 \
+      --max-trip-size 20000 \
+      --max-table-size 20000 \
+      /data/hanoi-roads.osrm
+      "
 
 networks:
   default:
