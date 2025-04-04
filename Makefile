@@ -94,6 +94,7 @@ match:
 map:
 	@source $(VENV_PATH)/bin/activate && \
 	python3 scripts/make-map.py \
+	$(CITY_NAME) \
 	$(ROUTES) \
 	$(MAP);
 

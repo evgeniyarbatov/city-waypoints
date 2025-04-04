@@ -45,10 +45,14 @@ class PointGraph:
 
         return full_path
 
-    def save_to_gpx(self, path, filename):
+    def save_to_gpx(self, city_name, path, filename):
         gpx = ET.Element("gpx", version="1.1", creator="Evgeny Arbatov", xmlns="http://www.topografix.com/GPX/1/1")
 
         trk = ET.SubElement(gpx, "trk")
+        
+        name = ET.SubElement(trk, "name")
+        name.text = city_name.capitalize()
+        
         trkseg = ET.SubElement(trk, "trkseg")
 
         for node in path:
@@ -61,6 +65,7 @@ class PointGraph:
         tree.write(filename, encoding="utf-8", xml_declaration=True)
 
 def main(
+    city_name,
     routes_filename,
     map_filename,
 ):
@@ -78,7 +83,7 @@ def main(
     
     path = pg.dfs_with_backtracking(start_point)
      
-    pg.save_to_gpx(path, map_filename)
+    pg.save_to_gpx(city_name, path, map_filename)
   
 if __name__ == "__main__":
     main(*sys.argv[1:])
